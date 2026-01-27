@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>WorldPulse</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:Arial;background:#0f0f0f;color:#fff;margin:0}
+.card{background:#1a1a1a;margin:15px;padding:15px;border-radius:10px}
+img{width:100%;border-radius:8px}
+h2{font-size:18px}
+small{color:#aaa}
+</style>
+</head>
+<body>
+<h1 style="text-align:center">🌍 WorldPulse</h1>
+<div id="news"></div>
+
+<script>
+fetch('news.json')
+.then(r=>r.json())
+.then(data=>{
+  document.getElementById('news').innerHTML = data.map(n=>`
+    <div class="card">
+      <img src="${n.image}">
+      <h2>${n.title}</h2>
+      <p>${n.desc}</p>
+      <small>${n.source}</small>
+    </div>
+  `).join('')
+})
+</script>
+</body>
+</html>
