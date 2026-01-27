@@ -1,0 +1,38 @@
+name: News Bot
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch News
+        run: |
+          curl "https://gnews.io/api/v4/top-headlines?lang=en&max=10&apikey=4438f208728fe187ee2d65160a92cc8f" > data.json
+
+      - name: Build JSON
+        run: |
+          node -e "
+          const fs=require('fs');
+          const d=JSON.parse(fs.readFileSync('data.json'));
+          const news=d.articles.map(a=>({
+            title:a.title,
+            desc:a.description,
+            image:a.image || 'https://via.placeholder.com/400',
+            source:a.source.name
+          }));
+          fs.writeFileSync('news.json',JSON.stringify(news,null,2));
+          "
+
+      - name: Commit
+        run: |
+          git config user.name bot
+          git config user.email bot@bot.com
+          git add news.json
+          git commit -m 'update news' || true
+          git push
