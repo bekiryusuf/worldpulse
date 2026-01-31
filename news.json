@@ -1,62 +1,62 @@
 [
   {
-    "title": "The Structure of Psychopathology on Reddit: Network Analysis of Mental Health Communities in Relation to the ICD Diagnostic System",
-    "desc": "Background: Social media platforms such as Reddit have become important spaces where individuals articulate their distress, seek support, and explore alternative ways of understanding mental health outside traditional institutional frameworks. These environments provide an opportunity to examine mental health discourse at scale, offering perspectives that extend beyond traditional clinical and research settings.\nObjective: This study aims to examine the structure of mental health communities on Reddit by identifying patterns of association between mental disorders reflected in user activity and assessing how these relationships align with established diagnostic categories in the ICD (International Classification of Diseases).\nMethods: We manually curated 114 Reddit communities focused on specific mental health conditions from the 20,000 most active subreddits in 2022. Each community was labeled into 49 disorders and categorized under 9 ICD diagnostic categories within the group of mental and behavioral disorders, collectively known as the F codes. We constructed a disorder association network by identifying statistically significant user overlaps based on coposting across subreddit pairs using a bipartite configuration model, with Bonferroni-corrected significance (P<.001). We analyzed the connectivity of the network within and across diagnostic categories, examining inter- and intracategory links. Finally, we compared the structure of disorder associations inferred from Reddit with the ICD classification derived from diagnostic criteria using hierarchical clustering.\nResults: The inferred Reddit network of psychopathology revealed an interconnected structure (density=0.135), with all but 6 disorders forming a single giant component that spans across all 9 diagnostic categories. The most prominent disorders by number of users included hyperkinetic disorders (85,000), depressive episodes and recurrent depressive disorders (73,000), habit and impulse disorders (69,000), pervasive developmental disorders (52,000), and generalized anxiety disorder (44,000). In terms of connectivity, posttraumatic stress disorder (17/48 of all possible connections), obsessive-compulsive disorder (16/48), and depersonalization-derealization disorder (15/48) emerged as the most central in the network of positive disorder associations, while schizotypal disorder, avoidant personality disorder, and agoraphobia were the most central when accounting for the association strength. At the level of disorder categories, several disorders, such as bipolar disorder and premenstrual dysphoric disorder, displayed high intercategory associations but weak intracategory ties, indicating blurred diagnostic boundaries. The network of negative coposting associations revealed a divergence from the expectations of past research; for instance, addiction-related communities (eg, alcohol and opioids) were negatively associated with much of the broader mental health discourse. Finally, hierarchical comparisons showed moderate overlap between the Reddit network of disorder associations and the ICD network of diagnostic criteria, both in pairwise edge similarity (13% of edges present in both networks) and overall clustering (Adjusted Rand Index=0.295).\nConclusions: Reddit-based mental health communities reveal a complementary structure of disorder associations shaped by lived experience, often diverging from formal diagnostic criteria and exhibiting patterns of association that do not align with established diagnostic boundaries.",
-    "image": "https://asset.jmir.pub/assets/56371c1bfde5ed475572a0668aa9e97b.png",
-    "source": "Journal of Medical Internet Research (JMIR)"
+    "title": "Jeffrey Epstein scouted women for New York Giants co-owner Steve Tisch, emails show",
+    "desc": "The emails, sent in 2013, were among more than 3 million Epstein-related documents the Department of Justice released Friday.",
+    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/01/30132941/GettyImages-1022766354-scaled.jpg?width=1200&height=630&fit=cover",
+    "source": "The New York Times"
   },
   {
-    "title": "Natasha Cloud has stern warning for WNBA with CBA talks set to resume",
-    "desc": "With a potential strike looming, players’ frustrations and concerns brewing and the WNBA collective bargaining agreement negotiations stuck at an impasse, several star players and league and union officials are scheduled to meet in New York Monday to discuss CBA matters.",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-isq1038up-1769809159857.jpg?quality=75&strip=all&1769791284&w=1200",
-    "source": "New York Post"
+    "title": "Texas May Be Losing Its Grip as America’s Fastest-Growing State",
+    "desc": "Long accustomed to rapid growth, Texas saw the overall number of people moving from other states sink to its lowest level in two decades, census estimates show.",
+    "image": "https://static01.nyt.com/images/2026/01/30/multimedia/30nat-texas-population-1-mgwh/30nat-texas-population-1-mgwh-facebookJumbo.jpg",
+    "source": "The New York Times"
   },
   {
-    "title": "Luigi Mangione will not face death penalty after US judge dismisses murder charge",
-    "desc": "A US judge has ruled Luigi Mangione will not face the death penalty if convicted of killing UnitedHealthcare CEO Brian Thompson.",
-    "image": "https://dam.mediacorp.sg/image/upload/s--NJwpGGNI--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-30T151820Z_2_LYNXMPEM0T0ZL_RTROPTP_3_UNITEDHEALTH-CEO-MANGIONE.JPG?itok=Gz0m2CSg",
-    "source": "CNA"
+    "title": "Pupil stabbed at Merseyside school as boy, 13, arrested",
+    "desc": "The injured boy was taken to hospital following the incident",
+    "image": "https://i2-prod.liverpoolecho.co.uk/article11863055.ece/ALTERNATES/s1200/JS99011080.jpg",
+    "source": "Liverpool Echo"
   },
   {
-    "title": "Millions of Jeffrey Epstein files released by US justice department",
-    "desc": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02e3/live/289bd6d0-fe17-11f0-8a1e-69aa641f4cb6.jpg",
-    "source": "BBC"
+    "title": "Under Salt Marsh review - Rafe Spall’s thrilling Welsh crime drama is clever, gripping TV",
+    "desc": "This carefully plotted tale of the investigation into a small boy’s death is a compelling, psychologically astute watch – which constantly pulls the rug out from under you",
+    "image": "https://i.guim.co.uk/img/media/50b0abaf5cd48e3e1824bd4b07600f3f78657725/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d3c44db527c49f9af95b4fab5c9d6ca0",
+    "source": "The Guardian"
   },
   {
-    "title": "Ohene Faruku launches Triple a Management to represent talent worldwide",
-    "desc": "Renowned executive talent manager and entrepreneur Gervin Ohene Addo, professionally known as Ohene Faruku, has officially announced the launch of Triple A Management Ltd, a multidisciplinary management and consultancy firm focused on strategic...",
-    "image": "https://cdn.ghanaweb.com/imagelib/pics/231/23116124.jpg",
-    "source": "GhanaWeb"
+    "title": "Sony Pictures Classics Lands 'Bedford Park' After Winning Sundance Prize",
+    "desc": "Sony Pictures Classics lands rights to Stephanie Ahn's feature debut \"Bedford Park,\" winner of the Sundance special jury award for debut feature.",
+    "image": "https://variety.com/wp-content/uploads/2026/01/BEDFORD-PARK-Courtesy-of-Sony-Pictures-Classics.jpg?w=1000&h=563&crop=1",
+    "source": "Variety"
   },
   {
-    "title": "The tide takes away his work each day, but learning to let go has transformed this artist",
-    "desc": "Mal Leckie has spent every morning over the past 50 years at the beach, but when illness hurt his ability to surf, he had to find a new reason to get out of bed.",
-    "image": "https://live-production.wcms.abc-cdn.net.au/1566252380717f1821e73688727ac58d?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "source": "Australian Broadcasting Corporation"
+    "title": "Munster rally but can't avoid defeat in Glasgow",
+    "desc": "Munster's second-half rally was not enough to reel in Glasgow Warriors who cemented their position at the top of the United Rugby Championship with a 31-22 victory at Scotstoun.",
+    "image": "https://www.rte.ie/images/0023d3d4-1600.jpg",
+    "source": "RTE.ie"
   },
   {
-    "title": "Police warn of disruptions due to protests in Auckland CBD",
-    "desc": "Police urged anyone heading into the city to \"plan ahead\" to avoid being delayed by protests or police operations.",
-    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/aucklands-viaduct-harbour-QKCFO2OVQNECXGUG74GMIH2F54.jpg?auth=432679465a724d92f5150fd39d1c84b2ef9409dde22f8ecf8b23f750545945c4&quality=70&width=600&height=315&focal=960%2C540",
-    "source": "1News"
+    "title": "Study: Social isolation, digital exclusion significantly heightens older adults’ risk of depression",
+    "desc": "Older adults who are socially isolated and digitally excluded experienced a 60% higher risk of depression, according to a January study published in Medicine. Additionally, physical function outcomes were consistently worse among this group.",
+    "image": "https://www.mcknights.com/wp-content/uploads/sites/5/2023/01/GettyImages-180409585-scaled-e1675226261621.jpg",
+    "source": "McKnight's Long-Term Care News"
   },
   {
-    "title": "Trump says Iran wants a deal rather than face military action",
-    "desc": "Tehran has said it will never negotiate on its missile and defence systems, but that it is open to talks.",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/19b8/live/0f1f2a20-fe1e-11f0-bd36-9d8a84b498ee.jpg",
-    "source": "BBC"
+    "title": "Wantage man, 39, arrested after woman is 'raped' at night",
+    "desc": "A man has been arrested after a woman was raped late at night in Wantage.",
+    "image": "https://www.oxfordmail.co.uk/resources/images/20487020.jpg?type=og-image",
+    "source": "Oxford Mail"
   },
   {
-    "title": "Nylander skates at Maple Leafs practice, 'good chance' to return vs. Canucks",
-    "desc": "The Toronto Maple Leafs are close to getting one of their most important pieces back in time for a Canadian tilt.",
-    "image": "https://www.sportsnet.ca/wp-content/uploads/2026/01/Toronto-Maple-Leafs-William-Nylander.jpg",
-    "source": "Sportsnet.ca"
+    "title": "A pregnant pause to changes in abnormal breast cells tied to cancer risk",
+    "desc": "New study by UC Santa Cruz team discovers that early pregnancy in mice reduces buildup of ‘confused’ cells that could lead to breast cancer later in life",
+    "image": "https://news.ucsc.edu/wp-content/uploads/2026/01/Pregnancy-resets-breast-cells.png",
+    "source": "UC Santa Cruz - News"
   },
   {
-    "title": "Ava Announces WWE Departure: 'It Has Been An Honor & A Privilege'",
-    "desc": "\"WWE NXT\" General Manager Ava, whose real name is Simone Johnson, daughter of The Rock, announced her WWE departure on Friday.",
-    "image": "https://www.wrestlinginc.com/img/gallery/ava-announces-wwe-departure-it-has-been-an-honor-a-privilege/l-intro-1769809214.jpg",
-    "source": "Wrestling Inc."
+    "title": "FPL Gameweek 24 Scout Picks: Three double",
+    "desc": "In the Scout Picks, we choose the best Fantasy Premier League (FPL) players for Gameweek 24 ahead of Saturday’s deadline.",
+    "image": "https://cdn.fantasyfootballscout.co.uk/wp-content/uploads/2025/08/fpl-pre-season-fernandes-assist-amorim-on-mbeumo-cunha.jpg",
+    "source": "fantasyfootballscout.co.uk"
   }
 ]
