@@ -1,62 +1,62 @@
 [
   {
-    "title": "Ariana Grande Says ‘Holy S-’ in Response to Vogue Cover of Her With 6 Fingers That Appeared to Be AI-Altered",
-    "desc": "Ariana Grande got a digital enhancement on the latest cover of Vogue Japan. The “Wicked” star and pop singer is the cover subject of the magazine’s latest issue. But people quickly spotted a problem with the original Vogue Japan cover photo: Ariana is sporting an uncanny six fingers on her left hand. In response to …",
-    "image": "https://s.yimg.com/os/en/variety.com/5cedc6f3cf94a5b5d7c9a991adf2497a",
-    "source": "Yahoo News Canada"
+    "title": "The Structure of Psychopathology on Reddit: Network Analysis of Mental Health Communities in Relation to the ICD Diagnostic System",
+    "desc": "Background: Social media platforms such as Reddit have become important spaces where individuals articulate their distress, seek support, and explore alternative ways of understanding mental health outside traditional institutional frameworks. These environments provide an opportunity to examine mental health discourse at scale, offering perspectives that extend beyond traditional clinical and research settings.\nObjective: This study aims to examine the structure of mental health communities on Reddit by identifying patterns of association between mental disorders reflected in user activity and assessing how these relationships align with established diagnostic categories in the ICD (International Classification of Diseases).\nMethods: We manually curated 114 Reddit communities focused on specific mental health conditions from the 20,000 most active subreddits in 2022. Each community was labeled into 49 disorders and categorized under 9 ICD diagnostic categories within the group of mental and behavioral disorders, collectively known as the F codes. We constructed a disorder association network by identifying statistically significant user overlaps based on coposting across subreddit pairs using a bipartite configuration model, with Bonferroni-corrected significance (P<.001). We analyzed the connectivity of the network within and across diagnostic categories, examining inter- and intracategory links. Finally, we compared the structure of disorder associations inferred from Reddit with the ICD classification derived from diagnostic criteria using hierarchical clustering.\nResults: The inferred Reddit network of psychopathology revealed an interconnected structure (density=0.135), with all but 6 disorders forming a single giant component that spans across all 9 diagnostic categories. The most prominent disorders by number of users included hyperkinetic disorders (85,000), depressive episodes and recurrent depressive disorders (73,000), habit and impulse disorders (69,000), pervasive developmental disorders (52,000), and generalized anxiety disorder (44,000). In terms of connectivity, posttraumatic stress disorder (17/48 of all possible connections), obsessive-compulsive disorder (16/48), and depersonalization-derealization disorder (15/48) emerged as the most central in the network of positive disorder associations, while schizotypal disorder, avoidant personality disorder, and agoraphobia were the most central when accounting for the association strength. At the level of disorder categories, several disorders, such as bipolar disorder and premenstrual dysphoric disorder, displayed high intercategory associations but weak intracategory ties, indicating blurred diagnostic boundaries. The network of negative coposting associations revealed a divergence from the expectations of past research; for instance, addiction-related communities (eg, alcohol and opioids) were negatively associated with much of the broader mental health discourse. Finally, hierarchical comparisons showed moderate overlap between the Reddit network of disorder associations and the ICD network of diagnostic criteria, both in pairwise edge similarity (13% of edges present in both networks) and overall clustering (Adjusted Rand Index=0.295).\nConclusions: Reddit-based mental health communities reveal a complementary structure of disorder associations shaped by lived experience, often diverging from formal diagnostic criteria and exhibiting patterns of association that do not align with established diagnostic boundaries.",
+    "image": "https://asset.jmir.pub/assets/56371c1bfde5ed475572a0668aa9e97b.png",
+    "source": "Journal of Medical Internet Research (JMIR)"
   },
   {
-    "title": "Instagram might soon let you remove yourself from someone's Close Friends list",
-    "desc": "Since the feature's launch in 2018, users haven't been able to remove themselves from someone else's Close Friends list.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-    "source": "TechCrunch"
+    "title": "Natasha Cloud has stern warning for WNBA with CBA talks set to resume",
+    "desc": "With a potential strike looming, players’ frustrations and concerns brewing and the WNBA collective bargaining agreement negotiations stuck at an impasse, several star players and league and union officials are scheduled to meet in New York Monday to discuss CBA matters.",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-isq1038up-1769809159857.jpg?quality=75&strip=all&1769791284&w=1200",
+    "source": "New York Post"
   },
   {
-    "title": "Watch the moment Stan Dogbe shoves military officer at GAF graduation",
-    "desc": "An incident involving a Deputy Chief of Staff at the Presidency, Stanislav Xose Dogbe, has drawn public attention after he was seen shoving a military officer who was carrying out official media duties during the Ghana Military Academy (GMA)...",
-    "image": "https://cdn.ghanaweb.com/imagelib/pics/639/63940815.jpg",
-    "source": "GhanaWeb"
+    "title": "Luigi Mangione will not face death penalty after US judge dismisses murder charge",
+    "desc": "A US judge has ruled Luigi Mangione will not face the death penalty if convicted of killing UnitedHealthcare CEO Brian Thompson.",
+    "image": "https://dam.mediacorp.sg/image/upload/s--NJwpGGNI--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-30T151820Z_2_LYNXMPEM0T0ZL_RTROPTP_3_UNITEDHEALTH-CEO-MANGIONE.JPG?itok=Gz0m2CSg",
+    "source": "CNA"
   },
   {
-    "title": "Canon Fodder: Parasite’s Cake",
-    "desc": "Welcome back to ye ol’ Canon Fodder in 2026, a year of rather significant proportions as Halo will be celebrating its twenty-fifth anniversary. A whole quarter of a century—our very own and very first quadranscentennial! Indeed, it has already been over a month since Halo: Edge of Dawn released, and the latest novel from Kelly […]",
-    "image": "https://wpassets.halowaypoint.com/wp-content/2026/01/CF167.jpg",
-    "source": "Halo Waypoint"
-  },
-  {
-    "title": "New SNAP work requirements set to go into effect on Feb. 1 with millions at risk of losing benefits",
-    "desc": "New work requirements for SNAP are set to go into effect on Feb. 1, and it could mean that millions of Americans lose their benefits.",
-    "image": "https://i.abcnewsfe.com/a/ef18abfd-368d-40b6-a8c8-42cc99f1d1e3/snap-benefit-1-ap-jef-260130_1769784810984_hpMain_16x9.jpg?w=1600",
-    "source": "ABC News"
-  },
-  {
-    "title": "West Ham loan offer for Southampton's Taylor Harwood-Bellis rejected",
-    "desc": "West Ham have a loan offer for Southampton defender Taylor Harwood‑Bellis rejected.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c24d/live/2b62bad0-fe1e-11f0-bd36-9d8a84b498ee.jpg",
+    "title": "Millions of Jeffrey Epstein files released by US justice department",
+    "desc": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02e3/live/289bd6d0-fe17-11f0-8a1e-69aa641f4cb6.jpg",
     "source": "BBC"
   },
   {
-    "title": "Teacher admits lying about romantic relationship with former student at fitness-to-teach hearing",
-    "desc": "Woman confirmed that she and ex-pupil are in a relationship, approximately six years in length, and that she loves him",
-    "image": "https://www.irishtimes.com/resizer/v2/KRWCUWQPGFNP3FD5GOLWHBBMWQ.jpg?smart=true&auth=e8cb9d8fe54c222bc11fd3c570fd8f5727bd5efe79c7931af0c843c7475039cb&width=1200&height=630",
-    "source": "The Irish Times"
+    "title": "Ohene Faruku launches Triple a Management to represent talent worldwide",
+    "desc": "Renowned executive talent manager and entrepreneur Gervin Ohene Addo, professionally known as Ohene Faruku, has officially announced the launch of Triple A Management Ltd, a multidisciplinary management and consultancy firm focused on strategic...",
+    "image": "https://cdn.ghanaweb.com/imagelib/pics/231/23116124.jpg",
+    "source": "GhanaWeb"
   },
   {
-    "title": "Former EU commissioner Phil Hogan seeks Government backing for senior UN role",
-    "desc": "Ex-Fine Gael minister resigned from senior European position in light of Golfgate controversy during pandemic",
-    "image": "https://www.irishtimes.com/resizer/v2/TJ4G3A6C6ZGXPDDQGJHZCFUG6A.jpg?smart=true&auth=c2cd70d75918b3a0f85faa5517720561eeb5f6248cfeff2c205e21dc45eff4a1&width=1200&height=630",
-    "source": "The Irish Times"
+    "title": "The tide takes away his work each day, but learning to let go has transformed this artist",
+    "desc": "Mal Leckie has spent every morning over the past 50 years at the beach, but when illness hurt his ability to surf, he had to find a new reason to get out of bed.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/1566252380717f1821e73688727ac58d?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "source": "Australian Broadcasting Corporation"
   },
   {
-    "title": "Daily Post Nigeria",
-    "desc": "Chelsea boss, Liam Rosenior has warned the Blues about two West Ham United players ahead of both sides' Premier League tie. Rosenior's side will host the",
-    "image": "https://dailypost.ng/wp-content/uploads/2026/01/Liam-Rosenior-1.jpg",
-    "source": "Daily Post Nigeria"
+    "title": "Police warn of disruptions due to protests in Auckland CBD",
+    "desc": "Police urged anyone heading into the city to \"plan ahead\" to avoid being delayed by protests or police operations.",
+    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/aucklands-viaduct-harbour-QKCFO2OVQNECXGUG74GMIH2F54.jpg?auth=432679465a724d92f5150fd39d1c84b2ef9409dde22f8ecf8b23f750545945c4&quality=70&width=600&height=315&focal=960%2C540",
+    "source": "1News"
   },
   {
-    "title": "Tanzanian Catholic Bishop Urges Parents to Support Young People in Answering the Call to Priesthood and Religious Life",
-    "desc": "Parents in Tanzania’s Catholic Diocese of Morogoro have been encouraged to support and nurture vocations among young people to help grow the number of Priests and members of Institutes of Consecrated Life and Societies of Apostolic Life (ICLSAL).",
-    "image": "https://www.aciafrica.org/images/aci-africa-photo-edit-2026-01-30t215738_1769806744.jpg?w=1200&format=jpeg",
-    "source": "aciafrica.org"
+    "title": "Trump says Iran wants a deal rather than face military action",
+    "desc": "Tehran has said it will never negotiate on its missile and defence systems, but that it is open to talks.",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/19b8/live/0f1f2a20-fe1e-11f0-bd36-9d8a84b498ee.jpg",
+    "source": "BBC"
+  },
+  {
+    "title": "Nylander skates at Maple Leafs practice, 'good chance' to return vs. Canucks",
+    "desc": "The Toronto Maple Leafs are close to getting one of their most important pieces back in time for a Canadian tilt.",
+    "image": "https://www.sportsnet.ca/wp-content/uploads/2026/01/Toronto-Maple-Leafs-William-Nylander.jpg",
+    "source": "Sportsnet.ca"
+  },
+  {
+    "title": "Ava Announces WWE Departure: 'It Has Been An Honor & A Privilege'",
+    "desc": "\"WWE NXT\" General Manager Ava, whose real name is Simone Johnson, daughter of The Rock, announced her WWE departure on Friday.",
+    "image": "https://www.wrestlinginc.com/img/gallery/ava-announces-wwe-departure-it-has-been-an-honor-a-privilege/l-intro-1769809214.jpg",
+    "source": "Wrestling Inc."
   }
 ]
