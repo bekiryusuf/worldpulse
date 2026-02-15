@@ -1,62 +1,62 @@
 [
   {
-    "title": "Galaxy Tab A9+ plunges below $140, turning into the king of value",
-    "desc": "The tablet is unmissable at this price, so hurry up and save now!",
-    "image": "https://m-cdn.phonearena.com/images/article/178181-wide-two_1200/Galaxy-Tab-A9-plunges-below-140-turning-into-the-king-of-value.jpg",
-    "source": "PhoneArena"
+    "title": "Google and OpenAI complain about distillation attacks that clone their AI models on the cheap",
+    "desc": "Google and OpenAI—companies that trained their models on massive amounts of other people's data—are now complaining about theft. But behind the irony lies a real problem: attackers are systematically cloning billion-dollar AI models without spending a dime on training.",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/02/ai_model_distill.jpeg",
+    "source": "the-decoder.com"
   },
   {
-    "title": "Barack Obama publicly states support for anti-ICE demonstrators in Minneapolis",
-    "desc": "Speaking with progressive YouTuber, former US president stressed ‘unprecedented nature’ of agency’s actions",
-    "image": "https://i.guim.co.uk/img/media/175acecbfe812edd805c1106d3c65a9235723443/424_0_4491_3593/master/4491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30667a282072bb37c15d73382c7e65f1",
+    "title": "Israel marks history but no major wins in first week at 2026 Winter Olympics",
+    "desc": "Skeleton's Jared Firestone ends Olympic run in 22nd place, as country's first-ever cross-country skier crosses the finish line second to last at Milano Cortina Games",
+    "image": "https://static-cdn.toi-media.com/www/uploads/2026/02/AFP__20260213__97G868N__v2__HighRes__SkeletonOly2026MilanoCortina.jpg",
+    "source": "The Times of Israel"
+  },
+  {
+    "title": "Savannah Guthrie’s Husband Michael Feldman Seen For First Time Since Nancy Guthrie's Disappearance | See Photos",
+    "desc": "Michael Feldman, husband of \"Today\" host Savannah Guthrie, was seen at a Florida airport with their two children, marking his first public appearance since his mother-in-law, Nancy Guthrie, vanished two weeks ago. Nancy, 84, disappeared from her Arizona home, believed to be a victim of abduction. , US News, Times Now",
+    "image": "https://images.timesnownews.com/thumb/msid-153613584,width-1280,height-720,resizemode-75/153613584.jpg",
+    "source": "Times Now"
+  },
+  {
+    "title": "Reducing stigma focus of Saskatchewan Sexual Health Awareness Week",
+    "desc": "The Government of Saskatchewan is encouraging residents to have open and regular conversations about sexual and reproductive health as part of Sexual and Reproductive Health Awareness Week, running Feb. 8 to 14. Provincial officials say routine discussions with trusted health-care providers can help people make informed decisions, prevent illness and detect potential concerns early, supporting both physical and mental well-being. Mental Health and Addictions, Seniors and Rural and Remote Health Minister Lori Carr said talking openly with a health professional is an important step in maintaining overall wellness. “When people feel comfortable asking questions, it helps reduce stigma, support prevention, early diagnosis and treatment, and contributes to stronger, healthier communities,” Carr said in a statement. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/wco-all-bigbox', [300, 250], 'div-gpt-1632277500385-bbm1'); s.setTargeting('URL', [window.location.pathname]); s.setTargeting('position', [1632277500385]) s.setTargeting('story_id', 'reducing-stigma-focus-of-saskatchewan-sexual-health-awareness-week'); s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Health-care providers can offer guidance on topics including contraception, family planning, fertility, pregnancy, menopause and sexually transmitted and blood-borne infections. Officials say regular check-ins and routine discussions help ensure individuals receive appropriate care and access to recommended screenings and preventive services. Residents are encouraged to seek accurate, evidence-based information from qualified health professionals and to support respectful conversations about sexual and reproductive health within their communities. The province says the awareness week aims to reduce stigma, promote informed decision-making and reinforce that sexual and reproductive health is a key part of overall health. More information about services is available through provincial health resources and by speaking with a health-care provider. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/wco-all-bigbox', [300, 250], 'div-gpt-1632277500385-bbm2'); s.setTargeting('URL', [window.location.pathname]); s.setTargeting('position', [1632277500385]) s.setTargeting('story_id', 'reducing-stigma-focus-of-saskatchewan-sexual-health-awareness-week'); s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } });",
+    "image": "https://dht7q8fif4gks.cloudfront.net/2025-02/health-care-nurses.jpg",
+    "source": "WestCentralOnline"
+  },
+  {
+    "title": "Cuban cigar festival called off as US blockade worsens energy crisis",
+    "desc": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/26a3/live/9158cec0-09d0-11f1-9972-d3f265c101c6.jpg",
+    "source": "BBC"
+  },
+  {
+    "title": "Norwich 3-1 West Bromwich Albion: Canaries into FA Cup last 16",
+    "desc": "Norwich City resist a West Bromwich Albion fightback to secure a place in the FA Cup fifth round.",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dac9/live/c730e140-09c6-11f1-9972-d3f265c101c6.jpg",
+    "source": "BBC"
+  },
+  {
+    "title": "Bawumia Urges NPP to Focus on National Service Over Personal Celebration",
+    "desc": "New Patriotic Party (NPP) flagbearer Dr. Mahamudu Bawumia has called on party members to use ongoing national thanksgiving services as moments for prayer and recommitment to national service rather than personal celebration. Speaking at the Muslim thanksgiving service at the National Mosque on Friday, February 13, 2026, Dr. Bawumia said…",
+    "image": "https://www.newsghana.com.gh/wp-content/uploads/2024/08/logo-newsghana.png",
+    "source": "News Ghana"
+  },
+  {
+    "title": "Parker sack inevitable after Burnley humiliated yet again ahead of more fan 'temper tantrums'",
+    "desc": "The only argument to keep Scott Parker as Burnley head down is his lower-league record, so being knocked out of both cups by League One sides is sub-optimal",
+    "image": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2026/02/14175908/Burnley-coach-Scott-Parker1.jpg",
+    "source": "Football365"
+  },
+  {
+    "title": "USA vs Germany, Winter Olympics, men's ice hockey: When Auston Matthews and Co play next - schedule & how to watch live in the US",
+    "desc": "Find out everything you need to know ahead of Auston Matthews & Co's final Group C match on Sunday (15 February) as they continue their gold medal bid at Milano Cortina 2026.",
+    "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1771058544/primary/vdaidsixx3d0thh64m8n",
+    "source": "Milano Cortina 2026"
+  },
+  {
+    "title": "The problem with doorbell cams: Nancy Guthrie case and Ring Super Bowl ad reawaken surveillance fears",
+    "desc": "Many people bought the devices thinking they would do little more than protect their delivery packages",
+    "image": "https://i.guim.co.uk/img/media/171b02714be5222c73ec4e19e8e07ed12643e592/498_0_5021_4016/master/5021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=004fadbe7e618f09e43197f45ac00ec4",
     "source": "The Guardian"
-  },
-  {
-    "title": "Derby County player ratings v Swansea as duo land 8s after Rams surge into play-offs",
-    "desc": "Here's how the Rams rated as they faced the Swans at Pride Park where they were aiming for a first home league win since January 1",
-    "image": "https://i2-prod.derbytelegraph.co.uk/article10815756.ece/ALTERNATES/s1200/0_JS396499269.jpg",
-    "source": "Derbyshire Live"
-  },
-  {
-    "title": "Prediction: ASML's Stock Price Will Hit $2,000 by This Time",
-    "desc": "ASML's impressive backlog and order inflow suggest that it can soon hit the $2,000 milestone.",
-    "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F855843%2Fasml-chip-source-company.jpg&w=1200&op=resize",
-    "source": "The Motley Fool"
-  },
-  {
-    "title": "In a first, study links maternal genes to risk of pregnancy loss",
-    "desc": "For the first time, scientists have identified genetic variants that increase the risk of aneuploidy, in which cells have an abnormal number of chromosomes. Aneuploidy in egg cells can lead to miscarriage.",
-    "image": "https://cdn.mos.cms.futurecdn.net/fKnBiQ2F9tJW3RnNDUHomN-1920-80.jpg",
-    "source": "Live Science"
-  },
-  {
-    "title": "Why Russia’s attacks on Ukraine’s energy grid aren’t ‘revenge’ for Kyiv’s deep strike campaign",
-    "desc": "After its largest winter mass attack on Feb. 3, Russia's Defense Ministry said the strikes on Ukrainian energy infrastructure were carried out \"in response to terrorist attacks by Kyiv on civilian objects\" in Russia. Some state media described the attack as \"another act of retribution.\"\nIt's an old story — the first mass Russian strike on Ukraine's civilian infrastructure in October 2022 was framed by Russian President Vladimir Putin as retaliation for Kyiv's first successful strike against the",
-    "image": "https://assets.kyivindependent.com/content/images/2025/06/GettyImages-2219444573-1.jpg",
-    "source": "The Kyiv Independent"
-  },
-  {
-    "title": "Taupō police officer Barry Shepherd marks 50 years amid Mauao landslide duty",
-    "desc": "Barry Shepherd has helped at some of the most confronting national and international disasters. His extensive disaster relief CV includes the 2004 Boxing Day...",
-    "image": "https://www.nzherald.co.nz/resizer/v2/S7UGILAPIBFCJIZLDUTYGE2OW4.jpg?auth=0d53fc2fc5b75b1e0688042da93878935e74032fc0c8d4fe3e7d0e34dece1e96&width=1200&height=675&quality=70&smart=true",
-    "source": "NZ Herald"
-  },
-  {
-    "title": "Man City player ratings vs Salford: That's why Phil Foden's no longer first-choice! England international's struggles continue in laboured FA Cup win over League Two opposition",
-    "desc": "GOAL dishes out ratings to all of the Manchester City players involved in Saturday's FA Cup clash with Salford City, as Pep Guardiola's men laboured to a 2-0 win over their League Two opponents",
-    "image": "https://assets.goal.com/images/v3/blt664547c3faef4ec0/GOAL%20-%20Multiple%20Images%20-%203%20Stacked%20-%20Facebook%20(3).png",
-    "source": "Goal.com"
-  },
-  {
-    "title": "Jacob Elordi’s Hollywood love life: From co‑stars to on‑again, off‑again romance",
-    "desc": "In August 2025, Jacob Elordi and Olivia Jade Giannulli broke up after nearly four years of on-again, off-again dating",
-    "image": "https://i.tribune.com.pk/media/images/jacob-elordi1760961786-0/jacob-elordi1760961786-0-640x480.webp",
-    "source": "The Express Tribune"
-  },
-  {
-    "title": "Open Letter from the Amhara Fano National Movement Calling on the African Union to Address “the Genocidal War in Amhara and the Threat to Regional Stability” at the Ongoing AU Summit",
-    "desc": "Disclaimer: AAA is a U.S. based NGO that documents human rights violations in the context of conflict, violence and political repression. One of AAA's core activities is also to educate policymakers, journalists, researchers and other stakeholders with up-to-date information on developments in Ethiopia. AAA does not endorse any political parties or organizations based in the U.S. or Ethiopia.Date: February 14, 2026H.E. João Manuel Gonçalves Lourenço  President of the Republic of Angola  Chairper",
-    "image": "https://static.wixstatic.com/media/e494ca_e89a0b9b0b284157a6af54e3902cb1dd~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/e494ca_e89a0b9b0b284157a6af54e3902cb1dd~mv2.jpeg",
-    "source": "Amhara Association of America"
   }
 ]
