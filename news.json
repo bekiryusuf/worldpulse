@@ -1,62 +1,62 @@
 [
   {
-    "title": "Forex reserves inch up to $21.6b",
-    "desc": "SBP holdings rise to $16.34b after $41m increase; gold drops Rs2,900/tola",
-    "image": "https://i.tribune.com.pk/media/images/962376-DollarsforeignexchangereservesPHOTOAFP-1443069975/962376-DollarsforeignexchangereservesPHOTOAFP-1443069975-640x480.webp",
-    "source": "The Express Tribune"
+    "title": "Dunblane school shooting: 30 years on, Scottish shooting outrage 'still haunts many'",
+    "desc": "On 13 March 1996, Thomas Hamilton shot dead 16 children and their teacher at Dunblane Primary School in central Scotland - and injured 15 more.",
+    "image": "https://e3.365dm.com/26/03/1600x900/skynews-dunblane-massacre-scotland_7190446.jpg?20260312180630",
+    "source": "Sky News"
   },
   {
-    "title": "A Performance Analysis",
-    "desc": "The advanced persistent threat (APT) is an ever-growing issue in cybersecurity, whose emergence and evolution have been accompanied by technological advancement. The study describes an approach to identifying Advanced Persistent Threats (APTs) based on the 42 (numerical and categorical) features present in the dataset OF UNSW NB15. Exploratory Data Analysis (EDA) was done to comprehend the correlation among features and the bit of class distribution and then preprocessing of data, such as cleaning and standardization, removal and balancing of outliers and classes with SMOTE. Two models, Decision Tree (DT) and Convolutional Neural Network (CNN), were used and assessed. The results of the experiments prove that CNN model is much superior to other baseline models, including ANN, SVM, and RF, because CNN has an F1-score of 98.92, a recall of 99.14, a precision of 98.71, and an accuracy of 98.85. Conversely, DT classifier was found to have an accuracy of 95.84 with low variation in values of the F1-score at 96.12, precision, and the recall. CNN also obtained AUC of 0.9990, which indicates that it is very strong in separating normal and attack traffic. Although CNN offers better functionality due to its capability to identify intricate and nuanced patterns, the model of the DT can be interpreted and implemented easily. On the whole, the results present the superiority of CNN-based deep learning (DL) in identifying advanced and evasive APTs, as well as the supporting power of interpretable models such as DT in cybersecurity defense processes.",
-    "image": "https://file.scirp.org/image/jdaip2025010716305067.png",
-    "source": "SCIRP Open Access"
-  },
-  {
-    "title": "Parseword: Is Wordle creator’s new game too much of a ‘chin-scratcher’ to go viral?",
-    "desc": "Josh Wardle hopes his digital take on the cryptic crossword can be a gradual on-ramp crossing the cultural divide between Britain and the US",
-    "image": "https://i.guim.co.uk/img/media/60247ff43af2e49f6c7b4dcd47e23c1c49255297/639_0_2034_1628/master/2034.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e86500df64cb2845c1cf480f3585092d",
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jack Osbourne welcomes fifth child and pays tribute to late dad Ozzy with baby name",
-    "desc": "Jack Osbourne has welcomed his fifth baby into the world and named her after his late dad Ozzy. The 40-year-old star and wife Aree Gearhart have become...",
-    "image": "https://www.nzherald.co.nz/resizer/v2/NB27FXUZ45ETFITNFO2XMNONRQ.jpg?auth=a8e253da8c3803a970b42d87983aaa316cddacd4e98d0285667f59bad6b75e91&width=1200&height=675&quality=70&focal=505%2C197&smart=false",
-    "source": "NZ Herald"
-  },
-  {
-    "title": "Mbalula cracks the whip, directs Dlabathi to go back to work amid tensions in Ekurhuleni",
-    "desc": "Jongizizwe Dlabathi quit as ANC Ekurhuleni regional secretary and MMC for finance two weeks ago",
-    "image": "https://www.sundaytimes.timeslive.co.za/resizer/v2/XHYUYNJIZVAEREQ4KJ2A3J6COA.JPG?smart=true&auth=94a9ad85aa1c3e9a0d4fd3b77e091536014fe4c883078505d40f5d31059b599c&width=1200&height=630",
-    "source": "TimesLIVE"
-  },
-  {
-    "title": "'The Music of SQUARE ENIX",
-    "desc": "Iconic video game soundtrack lovers, get ready as The Music of SQUARE ENIX – Magic, Memories, and Melodies is coming to Singapore, and they’re brin...",
-    "image": "https://cdn.filestackcontent.com/crop=d:%5B0%2C972%2C2480%2C1240%5D/resize=h:300%2Cw:450%2Cf:crop/pjpg=q:90/compress/wKaKxzInTMmH8QrUfWys",
-    "source": "bandwagon.asia"
-  },
-  {
-    "title": "LIVE: Russell sets ominous Mercedes pace in sole China practice ahead of Sprint Qualifying",
-    "desc": "Follow all the live action from the sole free practice session ahead of the 2026 F1 Chinese Grand Prix.",
-    "image": "https://cdn.racingnews365.com/2026/chinese-gp-thmbnl.png?v=1773240251&width=1800&height=945&quality=75&crop=1920%2C1008%2C0%2C36",
-    "source": "racingnews365.com"
-  },
-  {
-    "title": "Real-world study shows modest weight regain after GLP-1 discontinuation",
-    "desc": "As the use of injectable GLP-1 drugs continues to rise, questions persist about what happens after patients stop taking them in real-world settings.",
-    "image": "https://www.news-medical.net/images/tags/TagImage-6184-45481880806631952654-620x480.jpg",
-    "source": "News-Medical"
-  },
-  {
-    "title": "Unemployment in January highest in over 3 years",
-    "desc": "MANILA, Philippines — Unemployment in the country reached its highest level in over three years in January, according to data from the Philippine Statistics Authority (PSA).",
-    "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/13/971658.jpg",
+    "title": "Sharon Cuneta undergoes spine procedure in Singapore",
+    "desc": "Sharon Cuneta undergoes spine procedure in Singapore",
+    "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/13/971629.jpg",
     "source": "The Manila Times"
   },
   {
-    "title": "Topical cream activates immune response to suppress skin cancer growth",
-    "desc": "A topical cream activated the skin's immune defenses and suppressed tumor growth in two preclinical models of cutaneous squamous cell carcinoma (cSCC), one of the most common cancers in the world, according to a study published today in the Journal of Clinical Investigation.",
-    "image": "https://www.news-medical.net/image-handler/picture/2014/7/Dermatology-620x480.jpg",
-    "source": "News-Medical"
+    "title": "The Supreme Court judgement on creamy layer exclusion for OBC quota | Explained",
+    "desc": "The Hindu explainer on the Supreme Court's recent judgment clarifies creamy layer criteria for OBC candidates, impacting reservation eligibility for many.",
+    "image": "https://th-i.thgim.com/public/news/national/p0g9w/article67415686.ece/alternates/LANDSCAPE_1200/IMG_IMG_SUPREMECOURT-NKV_2_1_2OBPIUSL.jpg",
+    "source": "The Hindu"
+  },
+  {
+    "title": "Watch Bangladesh vs Pakistan 2nd ODI Live Stream: TV Channel",
+    "desc": "Bangladesh, up 1-0, hosts Pakistan in the second of a three-match ODI series in Dhaka. Here’s how to watch on TV and via live stream.",
+    "image": "https://heavy.com/wp-content/uploads/2026/03/bangladesh-pakistan-2nd-odi-tv-channel-live-stream-watch.jpg?quality=65&strip=all",
+    "source": "heavy.com"
+  },
+  {
+    "title": "F1 LIVE: Chinese Grand Prix 2026 UK time, start time, grid, radio & updates",
+    "desc": "Follow live text updates and listen to radio commentary of Chinese Grand Prix practice before sprint race qualifying.",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ead/live/04a513c0-1e8f-11f1-a6e2-8f100d5a732a.jpg",
+    "source": "BBC"
+  },
+  {
+    "title": "Nepal ex-rapper's party wins election in landslide after Gen Z protests",
+    "desc": "The March 5 election was tNepal's first vote since demonstrations against corruption last September led by Gen Z protesters that toppled the government.",
+    "image": "https://image.cnbcfm.com/api/v1/image/108277618-1773372147049-gettyimages-2264670001-AFP_A2CC6NK.jpeg?v=1773372157&w=1920&h=1080",
+    "source": "CNBC"
+  },
+  {
+    "title": "Fresh wave of Israeli strikes on Iran, Gulf nations also hit",
+    "desc": "Fresh strikes rocked Iran and several Gulf countries Friday, as Israel and the Islamic republic unleashed a new wave of attacks in a war that has ignited the Middle East and threatens to torpedo the w...",
+    "image": "https://s.yimg.com/os/en/afp.com.sg/a8ff17477b66a24fcc855d593d347302",
+    "source": "Yahoo News Singapore"
+  },
+  {
+    "title": "Petrol pumps run dry amid panic buying",
+    "desc": "Extra demand on Gull's discount day has left some of its petrol stations running low on fuel.",
+    "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/03/gull.png?itok=deGHOwxI",
+    "source": "Otago Daily Times"
+  },
+  {
+    "title": "Iran Launches 44th Missile Wave As US-Israel War Enters Day 14, Targets US Bases In Gulf",
+    "desc": "The Iranian missiles may have targeted US military bases across the region, including the UAE, Bahrain, Kuwait, Qatar, Saudi Arabia, Jordan and Israel.",
+    "image": "https://images.news18.com/ibnlive/uploads/2026/03/dubai-2026-03-30f9d5db01c1987fa37ac036a8afba04-1200x675.jpg",
+    "source": "News18"
+  },
+  {
+    "title": "Vancouver man found dead with stab wounds in sailboat off Belize",
+    "desc": "Thomas David Harmon, 72, was found dead on his catamaran, the Melinda, in suspicious circumstances by Belize coast guard members.",
+    "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-7.45.12 PM.jpg",
+    "source": "Vancouver Sun"
   }
 ]
