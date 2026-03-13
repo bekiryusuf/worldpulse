@@ -1,62 +1,62 @@
 [
   {
-    "title": "The Effects of Digital Health Interventions on Motor Symptoms, Nonmotor Symptoms, and Quality of Life in Patients With Parkinson Disease: Systematic Review and Meta-Analysis of Randomized Controlled T",
-    "desc": "Background: Parkinson disease (PD) is a progressive neurodegenerative disorder with increasing global prevalence, necessitating innovative management. Digital health interventions (DHIs) offer potential advantages for PD care; yet, a comprehensive systematic review and synthesis across all DHI types and core outcomes is still lacking.\nObjective: This review aimed to assess the effectiveness of DHIs for improving motor symptoms, nonmotor symptoms, and quality of life in patients with PD and to summarize the reach, uptake, and feasibility.\nMethods: We searched PubMed, Ovid Embase, Web of Science, CINAHL, Cochrane Central Register of Controlled Trials, and APA PsycINFO up to November 2025. Pooled standardized mean differences (SMDs) were calculated using random-effects models. We calculated 95% prediction intervals (PIs) to estimate the true effects. The revised Cochrane Risk of Bias 2 tool was used to assess risk of bias. Heterogeneity was assessed using I2, τ2, and 95% PI. Subgroup analyses, meta-regression, and sensitivity analyses were conducted to address heterogeneity and potential bias. The quality of evidence was assessed using GRADE (Grading of Recommendations Assessment, Development, and Evaluation).\nResults: The review included 112 randomized controlled trials involving 5594 participants. Significant postintervention improvements were identified in motor symptoms (SMD=–0.39, 95% CI –0.60 to –0.18, 95% PI –1.75 to 0.99; I2=80.3%) and overall nonmotor symptoms (SMD=–0.26, 95% CI –0.49 to –0.03, 95% PI –0.56 to 0.03; I2=13.8%), including cognitive function (SMD=0.47, 95% CI 0.22 to 0.72, 95% PI –0.41 to 1.35; I2=63.5%) and psychiatric symptoms (SMD=–0.42, 95% CI –0.74 to –0.09, 95% PI –1.82 to –0.99; I2=85.4%); however, there was no significant enhancement in quality of life (SMD=–0.19, 95% CI –0.47 to 0.09, 95% PI –1.50 to 1.12; I2=81.2%). The certainty of evidence was very low for quality of life, motor, and psychiatric symptoms and low for cognitive function and overall nonmotor symptoms. Improvements in motor symptoms and cognitive function remained stable at follow-up. Meta-regression analysis indicated that age, percentage of female participants, and supervision mode were possible sources of heterogeneity. Overall, 94 studies reported reach (median 37.5%), 38 reported fidelity (95.7%), and 105 reported dropout rates (9.1%).\nConclusions: In contrast to previous reviews focused on single technologies or outcomes, this review provided the first comprehensive synthesis across all DHI types on multiple outcomes and indicated their potential as nonpharmacological interventions for PD management. However, current evidence is of low to very low certainty, and wide 95% PIs, together with high risk of bias and substantial heterogeneity, indicate considerable uncertainty regarding the true effect in future implementations. Therefore, findings should be interpreted with caution. These findings provide integrated evidence to guide the design and prioritization of future research. The results have important real-world implications, supporting cautious implementation while underscoring the need for more robust trials, particularly in resource-limited settings.\nTrial Registration: PROSPERO CRD42023492123; https://www.crd.york.ac.uk/PROSPERO/view/CRD42023492123",
-    "image": "https://asset.jmir.pub/assets/beb086d74c9558c7599086e66adf56d6.png",
-    "source": "Journal of Medical Internet Research"
+    "title": "Netanayu: Iran is no longer the same Iran",
+    "desc": "Is he clearing a path for an off-ramp?",
+    "image": "https://images.investinglive.com/images/netanyahu_id_1b5675db-1820-4083-abc7-a9ea7a9783e7_size975.jpg",
+    "source": "investingLive"
   },
   {
-    "title": "Integrating a Large Language Model to Streamline Nursing Handover Documentation Across Multiple Hospitals in Taiwan: Development and Implementation Study",
-    "desc": "Background: The global nursing shortage, exacerbated by heavy workloads and high turnover rates associated with the COVID-19 pandemic, continues to undermine care quality and nurse well-being. Although digital health technologies have enhanced coordination, improved communication, and reduced clinical errors in nursing practice, they have also increased nurses’ documentation burden. Advances in large language models (LLMs) and other generative artificial intelligence (GenAI) tools facilitate the generation of accurate reports from electronic medical records (EMRs), thereby streamlining documentation workflows, saving time, and reducing nurses’ workloads. Accordingly, integrating LLMs into electronic nursing documentation systems warrants further exploration.\nObjective: This study examines the integration of an LLM into an in-house nursing information system (NIS) implemented across 3 hospitals in Taiwan to reduce the time and effort required for nursing handover documentation and to preliminarily assess the operational and economic implications of GenAI-assisted workflows.\nMethods: A multidisciplinary team of nursing specialists and information technology experts at Taipei Medical University (TMU) restructured the organization’s existing nursing handover documentation process to facilitate interaction with the LLM. The team also developed prompt-based interfaces to automatically generate section-specific content for the nursing handover document. The LLM-integrated NIS was subsequently deployed across 3 hospitals in Taiwan: Taipei Medical University Hospital (TMUH), Wan Fang Hospital (WFH), and Shuang Ho Hospital (SHH). We then extracted and analyzed NIS log data to compare documentation times before and after LLM implementation, thereby quantifying time savings.\nResults: Integration of the LLM into nursing handover documentation was associated with shorter per-patient documentation time in routine clinical use across TMUH, WFH, and SHH. Based on preintegration NIS logs (September 2024), the average handover document completion time per patient ranged from 3.45 (SD 3.82) to 4.32 (SD 4.48) minutes across hospitals and shifts, providing a preliminary baseline for subsequent comparisons. In postintegration NIS logs (October-December 2024), the overall handover document completion time per patient (mean) was substantially lower, ranging from 1.17 (SD 1.86) to 2.54 (SD 2.82) minutes across hospitals and shifts. Using monthly patient volume to estimate time savings, 113-273, 160-314, and 198-391 hours were saved per month at TMUH, WFH, and SHH, respectively, corresponding to aggregate savings of 474-981 hours per month across hospitals during the study period.\nConclusions: We integrated an LLM into an NIS to generate nursing handover documents without altering existing workflows. Across 3 hospitals within TMU’s health system, GenAI assistance was associated with shorter documentation time and a positive net labor value from October to December 2024. Prompts were constrained, and nurse verification was required to mitigate hallucinations. Future work will enhance logging to capture reliability and editing metrics, compare LLM-generated drafts with nurse-finalized notes to inform prompt refinement, and assess generalizability to other documentation workflows.",
-    "image": "https://asset.jmir.pub/assets/b19eb089505acfdacac1c1a52f389349.png",
-    "source": "Journal of Medical Internet Research"
+    "title": "Irish-British defence agreement updated to boost co-operation, tackle Russia ‘shadow fleet’",
+    "desc": "Cyber security, information-sharing and joint procurement initiatives also covered in deal",
+    "image": "https://www.irishtimes.com/resizer/v2/B7C64GUSOR5HT4M5XEP3MCHB2E.jpg?smart=true&auth=4590a29749df0cf1901790c9f64623adcab44463029664ff9565a883e75182a1&width=1200&height=630",
+    "source": "The Irish Times"
   },
   {
-    "title": "How experts say you can get the most out of your morning meals",
-    "desc": "You’re going to want to skip the cereal, pastries and even some protein bars",
-    "image": "https://static.the-independent.com/2026/03/12/19/14/GettyImages-2260160587.jpeg?trim=262,0,263,0&width=1200&height=800&crop=1200:800",
-    "source": "The Independent"
+    "title": "NASA Says Artemis II Moon Launch Is On Track for April 1",
+    "desc": "After postponing launch opportunities in February and March, the agency determined that four astronauts could proceed toward the first crewed lunar journey in more than 50 years.",
+    "image": "https://static01.nyt.com/images/2026/03/12/multimedia/12HS-nasa-moon-tmjv/12HS-nasa-moon-tmjv-facebookJumbo.jpg",
+    "source": "The New York Times"
   },
   {
-    "title": "Fair City on Friday: 'I never agreed to your crazy plan'",
-    "desc": "Holly calls Hayley's bluff in Friday's Fair City on RTÉ One and the RTÉ Player.",
-    "image": "https://www.rte.ie/images/0023f7e6-1600.jpg",
-    "source": "RTE.ie"
+    "title": "Samsung 115inch Micro RGB review",
+    "desc": "Samsung Micro RGB is an all-new TV type for your consideration and while this particular one is pricey, it sets the tone for the range",
+    "image": "https://eftm.com/wp-content/uploads/2026/03/Samsung-MicroRGB-29-scaled.jpg",
+    "source": "EFTM"
   },
   {
-    "title": "Ohio Virtual Academy Earns National RAMP® Designation for Excellence in School Counseling",
-    "desc": "Recognition from the American School Counselor Association highlights the school’s comprehensive, data-driven counseling program supporting student success",
-    "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/13/971478.jpg",
-    "source": "The Manila Times"
+    "title": "Israeli military drops charges against soldiers accused of Gaza detainee abuse",
+    "desc": "Five soldiers were indicted over alleged violent abuse and rape of Palestinian man at detention centre in 2024",
+    "image": "https://i.guim.co.uk/img/media/2f7c5c8403d6ea735c80bd37e87cf36c6b596a1e/521_0_4678_3743/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d1fd88e4f0ce7fa144ff32bafb0a559",
+    "source": "The Guardian"
   },
   {
-    "title": "'Completely bonkers': Astronomers find evidence of a cataclysmic collision between exoplanets",
-    "desc": "Astronomers have witnessed evidence of an extremely violent collision between planets, and it resembles the event in Earth's history that created the moon.",
-    "image": "https://cdn.mos.cms.futurecdn.net/S8xCJoFb4XgrFZAAmemjPY-1600-80.png",
-    "source": "Space"
+    "title": "Pakistan’s Abrar Ahmed defies talk of ‘shadow ban’ with Sunrisers deal in Hundred",
+    "desc": "The leg-spinner was signed by Sunrisers Leeds for £190,000, after fears the four Indian-owned sides would operate a ‘shadow ban’ on picking Pakistani players",
+    "image": "https://i.guim.co.uk/img/media/93e8ee58bdd64ae1b0dd297f37c7b2114c557d1a/264_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7a0e8e9c4cbfe4a83719079a4681528",
+    "source": "The Guardian"
   },
   {
-    "title": "Mt Eden man charged after allegedly abducted woman found hurt in remote West Auckland",
-    "desc": "A woman was found hurt and distressed in a remote part of coastal West Auckland in an alleged attack and abduction. A member of the public located the woman...",
-    "image": "https://www.nzherald.co.nz/resizer/v2/Y37RBRIYIBA7VCILV55CR5XWHI.png?auth=aee7915c03908a644a34778d173da01818de182758e6caa8c365a0381b064912&width=1200&height=675&quality=70&smart=true",
-    "source": "NZ Herald"
+    "title": "Rapid evolution helped wildflowers survive California’s megadrought",
+    "desc": "Wild scarlet monkeyflowers in California survived a historic drought by relying on a rapid evolution, marking the first time the process has been observed in the wild.",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/img-9662.JPG?c=16x9&q=w_800,c_fill",
+    "source": "CNN"
   },
   {
-    "title": "KPop Demon Hunters Sequel Officially a Go at Netflix",
-    "desc": "The original KPop Demon Hunters as the most watched movie in Netflix history.",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Maggie-Kang-Kpop-Demon-Hunters-still-and-Chris-Appelhans-Split-Publicity-H-2026.jpg?w=1296&h=730&crop=1",
-    "source": "The Hollywood Reporter"
+    "title": "Google Maps receives major upgrade with 'Ask Maps' AI feature and 3D redesign",
+    "desc": "AI features and a brand new way to view Google Maps are currently rolling out in the app for its biggest upgrade in a decade.",
+    "image": "https://helios-i.mashable.com/imagery/articles/071i2am6oc2AhPVckxXoFHQ/hero-image.fill.size_1200x675.v1773347427.jpg",
+    "source": "Mashable"
   },
   {
-    "title": "Cleveland Clinic Study Unveils GLP-1 Drug Withdrawal Effects",
-    "desc": "Thursday, March 12, 2026, CLEVELAND: As the use of injectable GLP-1 drugs continues to rise, questions persist about what happens after patients stop",
-    "image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2017%2F10%2F04%2F09%2F56%2Fchemist-2815640_960_720.jpg",
-    "source": "Mirage News"
+    "title": "Newsom says no imminent threat to CA of possible Iran drone attack; White House rejects reports",
+    "desc": "California Gov. Gavin Newsom said there was no imminent threat to the state, despite an FBI warning that Iran could send drones to the West Coast.",
+    "image": "https://cdn.abcotvs.com/dip/images/17999567_101325-kfsn-newsom-ap-img.jpg?w=1600",
+    "source": "ABC7 Los Angeles"
   },
   {
-    "title": "Sokoto, Zamfara, Kebbi… NiMet issues meningitis alert for 11 northern states",
-    "desc": "The Nigerian Meteorological Agency (NiMet) has warned that several northern states face a high risk of meningitis as…",
-    "image": "https://www.thecable.ng/wp-content/uploads/2022/10/Meningitis.jpeg",
-    "source": "TheCable"
+    "title": "Miami Ohio loses in MAC tournament first round, RedHawks now on March Madness bubble",
+    "desc": "Miami (Ohio) is no longer undefeated, and now begins the hot debate of whether they are in the NCAA Tournament.",
+    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/12/USAT/89125464007-usatsi-28472646.jpg?crop=3554,1999,x0,y187&width=3200&height=1800&format=pjpg&auto=webp",
+    "source": "USA Today"
   }
 ]
