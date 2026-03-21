@@ -1,62 +1,62 @@
 [
   {
-    "title": "Republicans’ Iran problem, and the impact of fuel price hikes",
-    "desc": "The Weekend Wrap highlights how the escalating Iranian conflict is driving fuel shortages and threatening South African food security, and how failed Russian influence campaign in South Africa could derail Fikile Mbalula’s presidential aspirations.",
-    "image": "https://cdn.dailymaverick.co.za/i/AZc97w_A7VVY3E7Ucwvgw5hgypU=/800x0/smart/filters:strip_exif()/file/attachments/orphans/GettyImages-2265160280_708892.jpg",
-    "source": "Daily Maverick"
+    "title": "Super Rugby Pacific: Crusaders crush Moana in Albany",
+    "desc": "The defending champions avenged last year's shock loss to Moana Pasifka in ruthless style, crushing the cellar dwellers 50-21 in Albany.",
+    "image": "https://media.rnztools.nz/rnz/image/upload/s--R1aegrOO--/t_tohu-badge-facebook/v1773957321/4JRH742_moanacrusaders_png?_a=BACCd2AD",
+    "source": "RNZ"
   },
   {
-    "title": "‘Unhealthy and inappropriate’: Loke tells Guan Eng, Penang CM to end public spat on quit rent",
-    "desc": "KUALA LUMPUR, March 21 — DAP secretary-general Anthony Loke Siew Fook today called for an end to the public dispute between party veteran Lim Guan Eng and Penang Chief Minister...",
-    "image": "https://www.malaymail.com/malaymail/uploads/images/2026/03/21/331479.jpg",
-    "source": "Malay Mail"
+    "title": "These 5 hidden iPhone features aren't flashy - but they're surprisingly useful",
+    "desc": "Learn five iPhone features that are small but mighty.",
+    "image": "https://cdn.mos.cms.futurecdn.net/RgeYnWsaVaS2kTH8GQoLzi-2000-80.jpg",
+    "source": "Tom's Guide"
   },
   {
-    "title": "Is US‑Iran war ending soon? Donald Trump considers 'winding down' military efforts, lists 5 objectives",
-    "desc": "US News: US President Donald Trump on Friday suggested 'winding down' US military operations in the Middle East as he listed the ‘5 objectives’ that Washington.",
-    "image": "https://static.toiimg.com/thumb/msid-129713386,width-1280,height-720,imgsize-482794,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India"
+    "title": "Israel strikes Tehran, Beirut as Trump mulls 'winding down' war",
+    "desc": "Israel launched fresh strikes on Tehran and Beirut on Saturday after US President Donald Trump said he was considering \"winding down\" military operations against Iran following three weeks of war.",
+    "image": "https://s.france24.com/media/display/b324f606-2491-11f1-a50d-005056bf30b7/w:1280/p:16x9/784a0c4a6ca763d1cf233bfdc363502877164c06.jpg",
+    "source": "France 24"
   },
   {
-    "title": "Virat Kohli fires ‘It’s going to get tougher’ warning as RCB gear up for IPL 2026",
-    "desc": "Cricket News: IPL 2026 is set to begin on March 28, with defending champions Royal Challengers Bengaluru taking on Sunrisers Hyderabad at the M Chinnaswamy Stadium..",
-    "image": "https://static.toiimg.com/thumb/msid-129713350,width-1280,height-720,imgsize-188268,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India"
+    "title": "Analytical analysis of the nonlinear fractional order Pochhammer-Chree equation with power-law nonlinearity in elastic materials",
+    "desc": "This study investigates the nonlinear fractional-order Pochhammer-Chree equation, featuring a power-law nonlinearity of order $$\\tau$$, a model that describes how nonlinear longitudinal waves travel in elastic materials with memory of prior deformations. Understanding nonlinear wave propagation in elastic materials with memory effects is important for accurately modeling complex physical phenomena in nonlinear elasticity, geophysics, and material science. To incorporate these memory effects, conformable fractional derivative is utilized that allowing us to examine the fractional-order spatial and temporal changes. Kumar-Malik method is used to extract analytical solutions like bright soliton, dark soliton, kink soliton and solitary wave forms, that demonstrates the dynamics of the model. To better understand these solutions behaviours, visual analysis is considered. In this analysis mathematica 14.2 is used to construct the two-dimensional, three-dimensional, and contour plots, which illustrate the influence of the fractional parameter $$\\chi$$ on the waveforms. The shape, width and amplitude of the solitons also vary with the change in the value of the parameter, $$\\chi$$. These diagrams are able to make it clear how the system would respond to various physical situations. These findings indicate the efficiency of the Kumar-Malik method which guarantees accurate solutions of the fractional Pochhammer-Chree equation having power laws nonlinearity. The work enhances the theoretical knowledge on the nonlinear waves of the fractional-order systems and brings forth new uses in the field of mathematical physics and nonlinear elasticity.",
+    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "Nature"
   },
   {
-    "title": "BTS comeback concert in Seoul marks first show in years",
-    "desc": "About 260,000 fans are expected to gather at Gwanghwamun Square as BTS return from military service, launching a global tour tipped to generate record-breaking revenues",
-    "image": "https://dam.mediacorp.sg/image/upload/s--QGUKlhS0--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-20T210554Z_2_LYNXMPEM2J16E_RTROPTP_3_MUSIC-BTS.JPG?itok=IaE-otub",
-    "source": "CNA Lifestyle"
+    "title": "AI-based detection of Certas Plus shunt valve settings in CT scans",
+    "desc": "Adjustable pressure cerebrospinal fluid (CSF) shunt valves are widely used in the treatment of hydrocephalus. CSF shunt dysfunctions can manifest with diverse symptoms, often requiring further diagnostic evaluation. Head computed tomography (CT) is frequently used as an initial diagnostic tool. Accurate identification of the current shunt valve setting is crucial for patient management; however, interpretation on CT is difficult due to three-dimensional imaging, metal artefacts, and limited spatial resolution. We therefore developed an artificial intelligence (AI)-based model to automatically assess shunt valve settings in CT scans. We collected 391 head CT scans from patients with CSF shunts featuring a Certas Plus valve. Shunt settings were extracted from medical records and verified on imaging. A 3D U-Net was trained to segment radiopaque valve components, from which the valve setting was inferred. The model successfully segmented valve components in 97.3% of test cases and correctly predicted the exact or an adjacent setting in 96% of cases. The segmentations enable clinicians to interpret and verify the prediction. Our study demonstrates the feasibility of AI-based detection of programmable shunt valve settings in CT scans. The proposed model reliably identifies Certas Plus valve settings and holds promise as a clinical support tool in shunt diagnostics.",
+    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "Nature"
   },
   {
-    "title": "UAAP: Maco Dabao looks back on DLSZ’s Final Four run",
-    "desc": "De La Salle Zobel bowed out of the UAAP Season 88 boys’ basketball tournament last week, falling to National University Nazareth School, 75–70, in the Final Four as the Bullpups advanced to the finals.",
-    "image": "https://images.gmanews.tv/webpics/2026/03/UAAP_S88_19U_BB_-_NUNS_vs_2026_03_21_13_01_39.jpg",
+    "title": "Fitr: Governor Aliyu urges Muslims to extend charity to IDPs beyond Ramadan",
+    "desc": "The Governor of Sokoto State, Ahmed Aliyu, has urged Muslims across the state to sustain the spirit of charity demonstrated during the holy month of Ramadan",
+    "image": "https://blueprint.ng/wp-content/uploads/2026/03/IMG-20260320-WA01161.jpg",
+    "source": "Blueprint Newspapers"
+  },
+  {
+    "title": "ZCTU warns government over fuel hikes induced mass action",
+    "desc": "THE Zimbabwe Congress of Trade Unions (ZCTU) says the incessant fuel hikes effected recently may trigger nationwide protests if urgent price reductions are not considered. On Wednesday, the government, through the Zimbabwe Energy Regulatory Authority (ZERA), hiked the price of diesel and petrol per litre to US$2, 05 and US$2,17, respectively, from US$1,77 and US$1,71. […]",
+    "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/03/14142730/tiri-marimo-1.jpg",
+    "source": "NewZimbabwe.com"
+  },
+  {
+    "title": "'Very dangerous' storm sees golf ball sized hail fall on parts of Sydney",
+    "desc": "Darkness fell over the city around 3.30pm as the weather swept through.﻿",
+    "image": "https://imageresizer.static9.net.au/JAbl20a3SHKOA7NB8oW51wnD7X0=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F04bf71cc-d97a-4555-89ac-57614a68adb6",
+    "source": "9News"
+  },
+  {
+    "title": "NBA: Celtics come back in 4th to hand Grizzlies another loss",
+    "desc": "Jaylen Brown scored 30 points, Luke Garza added a season-high 22 -- including 11 in the fourth quarter -- and Payton Pritchard had 19 to lead the Boston Celtics to 117-112 victory Friday night over the host Memphis Grizzlies for their fourth consecutive win.",
+    "image": "https://images.gmanews.tv/webpics/2026/03/2026-03-21T012932Z_1906663577_MT1USATODAY28551535_RTRMADP_3_NBA-BOSTON-CELTICS-AT-MEMPHIS-GRIZZLIES_2026_03_21_13_39_32.jpg",
     "source": "GMA Network"
   },
   {
-    "title": "BUA Cement, Lafarge Africa join Nigeria’s trillion",
-    "desc": "Nigeria’s trillionaira revenue club expanded further in 2025 as BUA Cement, Lafarge Africa, and Nestle Nigeria Plc crossed the N1 trillion...",
-    "image": "https://cdn.businessday.ng/wp-content/uploads/2026/03/1-4-1.png",
-    "source": "Businessday NG"
-  },
-  {
-    "title": "Marquesas Islands by Aranui 5: Remote French Polynesia cruise guide",
-    "desc": "French Polynesia’s Marquesas Islands are culturally and naturally unique - and best seen in a way that is both accessible and luxe, writes Olly Beckett. When...",
-    "image": "https://www.nzherald.co.nz/resizer/v2/AGR7ZTYM45BLBIJCQGGFSF623A.jpg?auth=34fbfff69b077e87a22e3d5c8b6604506878e7a51c3b203d1958776aafab1058&width=1200&height=675&quality=70&focal=1060%2C995&smart=false",
-    "source": "NZ Herald"
-  },
-  {
-    "title": "Chelsea handed Champions League boost after Man United red card and VAR drama",
-    "desc": "Manchester United dropped points in the race against Chelsea and others for Champions League football in a crazy clash against Bournemouth",
-    "image": "https://i2-prod.football.london/article33634949.ece/ALTERNATES/s1200d/0_Manchester-United.jpg",
-    "source": "Football London"
-  },
-  {
-    "title": "3 Canadians back home after being stuck aboard ship in Persian Gulf",
-    "desc": "A Quebec-based shipping company says three Canadians have returned home after being stuck aboard their vessels in the Persian Gulf.",
-    "image": "https://www.castanet.net/content/2026/3/50d690da0c8d43f556e0c24b456b36c1cd134a33194c0afa9b572b70d7d313ea.jpg",
-    "source": "Castanet"
+    "title": "Rhoda Roberts AO, Indigenous leader in arts, culture and media, dies aged 66",
+    "desc": "Rhoda Roberts AO, the arts executive who had an enduring impact on the cultural life of this country, has died. The Widjabul Wieybal woman was the creative force behind Australia's best-loved festivals and helped bring Welcomes to Country to the modern era.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/c289a1c01e19ece867536c042968fc8b?impolicy=wcms_watermark_news&cropH=1557&cropW=2768&xPos=0&yPos=5&width=862&height=485&imformat=generic",
+    "source": "ABC News"
   }
 ]
