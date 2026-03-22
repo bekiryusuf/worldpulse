@@ -1,62 +1,62 @@
 [
   {
-    "title": "Williamstown ice-cream shop gutted by fire in second suspicious blaze",
-    "desc": "An ice-cream store has again been targeted by arsonists – the sixth suspicious fire on a main shopping strip in the suburb in past few years.",
-    "image": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/d3475666a866547dcacc85299dc1953a535d32aa",
-    "source": "The Age"
+    "title": "University of Essex",
+    "desc": "The robots can pick, weigh and harvest strawberries in a matter of seconds.",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a6ab/live/a5f35400-245a-11f1-a89a-5b5e5d061970.jpg",
+    "source": "BBC"
   },
   {
-    "title": "Jeanette Aw reopens patisserie in Geylang 3 months after closing previous outlet",
-    "desc": "Three months after closing her physical store at Hamilton Road, Jeanette Aw is reopening her patisserie Once Upon A Time — this time in Geylang.In an Instagram post two weeks ago on March 7, the 46-year-old actress hinted that the store, which shuttered at the end of December, is making a comeback.\"Coming back soon!\" Jeanette teased, with the post showing...",
-    "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Mar2026/jeanetteawonceuponatime2.jpg?itok=wSEtO6Xn",
-    "source": "AsiaOne"
+    "title": "After 25 years of socialist rule, where does Paris go now?",
+    "desc": "Paris has been a socialist city for 25 years, but this year’s election is the most uncertain in decades.",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-06t155601z-1155363190-rc21zjau3flj-rtrmadp-3-france-election-paris.JPG?c=16x9&q=w_800,c_fill",
+    "source": "CNN"
   },
   {
-    "title": "Somalia: MPs blocked from travel at Mogadishu airport amid political tensions",
-    "desc": "Somalia: MPs blocked from travel at Mogadishu airport amid political tensions",
-    "image": "https://uploads-garowe.s3.amazonaws.com/upload/images/Article/2026/1774156189/main/og.jpg",
-    "source": "Garowe Online"
-  },
-  {
-    "title": "Abdominal obesity in India: sex stratified multilevel estimates across 707 districts from a nationally representative cross-sectional survey",
-    "desc": "Abdominal obesity, measured using the waist-to-hip ratio, is an emerging public health concern in India, yet national averages mask important subnational variation relevant for local policy and prevention planning. We sought to quantify district-level variation in abdominal obesity and to examine its individual- and contextual-level determinants across India. Using nationally representative data from the National Family Health Survey 2019–2021, we analysed 664,646 women aged 15–49 years and 96,010 men aged 15–54 years across 707 districts and 30,112 communities using multilevel logistic regression. Abdominal obesity was defined using WHO-anthropometric cut-offs for WHR (women: >0.85; men: >0.90). National prevalence was high, affecting 56.6% (95% confidence interval [CI]: 56.41–56.74) of women and 48.9% (95% CI: 48.31–49.46) of men, with higher levels among older adults, wealthier groups, and urban residents. Marked inter-district heterogeneity was observed, with clusters of high prevalence in northern and eastern India and distinct sex-specific spatial patterns. Variance partitioning indicated that individual-level factors accounted for about 67% of total variation among women and 70% among men, while community-, district-, and state-level factors together explained the remaining variation. These findings demonstrate the value of small-area estimates for identifying high-burden populations and informing geographically targeted public health planning.",
+    "title": "A misclassification-aware explainable hybrid CNN-vision transformer framework for radiographic weld inspection",
+    "desc": "Proper and valid identification of the defects in welding is also essential in the safety–critical manufacturing systems in order to maintain structural integrity. In general, even though deep learning-based inspection methods have demonstrated high classification accuracy, they frequently fail to distinguish similar-looking types of defects and misclassify them at high costs in practice. The paper presented an intelligent weld inspection framework, hybrid Convolutional Neural Network-Vision Transformer (CNN -ViT) architecture, aimed at improving reliability and interpretability, with potential relevance to Industry 5.0-oriented inspection systems. The suggested model was relatively tested against a tailored lightweight CNN baseline, provided that the same training conditions were implemented with the RIAWELC radiographic weld dataset. It is demonstrated that the hybrid CNN-ViT has the highest accuracy of 98.56%, compared to the CNN baseline (97.90%), at a relative difference of about 31% in the misclassification rate. Misclassification-sensitive analysis with confusion matrices aided by explainability methods with Grad-CAM and transformer self-attention maps proves that the global contextual modeling significantly enhances the discrimination of visually similar defects that include cracks, porosity, and absence of penetration. The trained model was also tested on external data (GDXray dataset) collected under different imaging conditions to test its robustness and it was found to perform well on generalization. Moreover, fivefold cross-validation was performed in order to evaluate how the model performs across different data partitions. These findings validate that the suggested hybrid attention-based framework, in addition to the accuracy improvement, leads to the decrease in the misclassification and the availability of the transparent decision explanations. In general, the suggested solution would be a technically robust and explainable framework that may support future Industry 5.0-aligned intelligent weld inspection systems.",
     "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
     "source": "Nature"
   },
   {
-    "title": "Cheap reno cash: NZ's biggest bank offers 2.5% rate to homeowners",
-    "desc": "ANZ targets customers looking to upgrade rather than sell., All things property, under OneRoof",
-    "image": "https://s.oneroof.co.nz/image/e8/b4/e8b46acc7e62be9c1af2591a088ca91a.jpg?x-oss-process=image/quality,q_80",
-    "source": "OneRoof"
+    "title": "‘Rocks in their heads’: Clear message after ‘shopped around’ Cowboys star sends statement in win",
+    "desc": "‘Rocks in their heads’: Clear message after ‘shopped around’ star’s big statement in win",
+    "image": "https://content.api.news/v3/images/bin/1daffbbbfeff4574406627a25e4909d8",
+    "source": "fox sports"
   },
   {
-    "title": "US lawmaker introduces resolution declaring atrocities against Bengali Hindus in Bangladesh in 1971 as genocide",
-    "desc": "Greg Landsman moved the resolution in the US House of Representatives on Friday and it has been referred to the Committee on Foreign Affairs. | World News",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/03/22/550x309/HDU9J48aIAAAtIj_1774154901170_1774154909173.png",
-    "source": "Hindustan Times"
+    "title": "minister Laljit Bhullar, father booked after warehousing official’s death sparks row",
+    "desc": "Official's wife alleges that harassment and threats over allotment of warehouse tenders drove the official to take his life",
+    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThmNDE2M2YwLTI1YmQtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+    "source": "Tribune India"
   },
   {
-    "title": "Dhurandhar 2 Box Office Collection Day 4 Prediction: Ranveer Singh’s film holds firm post Eid, beats RRR, KGF 2 pace; targets Rs 500 crore mark",
-    "desc": "Dhurandhar 2 Box Office Collection Day 4 Prediction: Ranveer Singh’s film holds firm post Eid, beats RRR, KGF 2 pace; targets Rs 500 crore mark",
-    "image": "https://static.india.com/wp-content/uploads/2026/03/Dhurandhar-2-11.png",
-    "source": "India.Com"
+    "title": "Telangana Eases Building Norms, Expands TDR Use",
+    "desc": "G.O. Ms No. 95 introduces flexibility in building parameters, allows additional floors and setback relaxations through TDR.",
+    "image": "https://www.deccanchronicle.com/h-upload/2026/03/22/2023829-untitled-design-42.jpg",
+    "source": "Deccan Chronicle"
   },
   {
-    "title": "Kena: Bridge of Spirits has Nintendo Switch 2 Release Date",
-    "desc": "Kena: Bridge of Spirits debuted on PlayStation consoles in September 2021 and has since delighted audiences with its fast-paced combat, beautiful story…",
-    "image": "https://www.cinelinx.com/wp-content/uploads/2026/03/unnamed-7.jpg",
-    "source": "Cinelinx"
+    "title": "One person taken to hospital after fire involving power-assisted bicycle in Balestier",
+    "desc": "In a picture posted on Facebook, the PAB can be seen engulfed in flames. Read more at straitstimes.com.",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a9a68eceb8582f600b6f92cc3ad45601b22e6ada1adaf767e6c2090e31e26a42",
+    "source": "The Straits Times"
   },
   {
-    "title": "Liverpool school closure feels like 'storm coming over the horizon'",
-    "desc": "The ECHO spoke to parents and schoolchildren campaigning to not only save their school but also the community they have built",
-    "image": "https://i2-prod.liverpoolecho.co.uk/article33634421.ece/ALTERNATES/s1200d/0_LIPA.jpg",
-    "source": "Liverpool Echo"
+    "title": "Over 150 injured, 11 seriously, in Iranian missile strikes on southern cities of Arad, Dimona",
+    "desc": "Two children in serious condition after air defenses fail to intercept missile fire apparently aimed at nuclear research facility near Dimona; Iran claims salvo was retaliation for US strike on Natanz",
+    "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/09875940-00dd-499c-96f1-84eff70aa82b-e1774127653431.jpg",
+    "source": "The Times of Israel"
   },
   {
-    "title": "Clinical Study Compares Thoracoscopic Surgery and Small",
-    "desc": "A recent clinical evaluation has compared two minimally […]",
-    "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
-    "source": "geneonline.com"
+    "title": "18 of 52 LEDAC bills approved and moving forward, says Sandro Marcos",
+    "desc": "The House of Representatives passed on third and final reading 18 out of the 52 Legislative-Executive Development Advisory Council (LEDAC) priority measures...",
+    "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/03/22/87887.webp",
+    "source": "Manila Bulletin"
+  },
+  {
+    "title": "Watch Kevin Durant pass Michael Jordan for fifth all-time on NBA scoring list",
+    "desc": "Durant will go down as one of the greatest pure scorers the game has ever seen.",
+    "image": "https://nbcsports.brightspotcdn.com/dims4/default/6a15d93/2147483647/strip/true/crop/4539x2553+0+327/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F16%2Fdcecfa4f422c9d5ef3d6bf310c01%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D28561888",
+    "source": "NBC Sports"
   }
 ]
