@@ -1,62 +1,62 @@
 [
   {
-    "title": "Defence secretary reveals UK navy foiled secret Russian submarine operation in North Sea - UK politics live",
-    "desc": "John Healey says navy forced Russia to abandon activity in month-long operation",
-    "image": "https://i.guim.co.uk/img/media/0b670b8f29a8cc9deafcd04776d4fc24d5b7a39b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=60b462bc1c2139db5baa2d89f8f9f31f",
-    "source": "The Guardian"
+    "title": "Iran announces alternative routes in Hormuz strait",
+    "desc": "Tehran has agreed to temporarily reopen the strait, through which one-fifth of the world's oil usually passes, as part of a two-week truce.",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/Straits-of-Hormuz-Credit-NASA-public-domain-via-Wikimedia.webp",
+    "source": "Vanguard News"
   },
   {
-    "title": "Sh6 billion Membe award annulled, witnesses to retake oaths",
-    "desc": "The Tanzania Court of Appeal has annulled part of the judgment in the defamation case in which former Minister for Foreign Affairs and East African Cooperation, the late Benard Membe was awarded...",
-    "image": "https://www.thecitizen.co.tz/resource/image/5417552/landscape_ratio3x2/1200/800/b327350d3eb39b48748280cb76876079/ab/membe-award-pic.jpg",
-    "source": "thecitizen.co.tz"
+    "title": "Hope for struggling regional airlines during fuel crisis - Associate Transport Minister James Meager",
+    "desc": "The associate transport minister suggests current loan criteria could be tweaked to provide further assistance.",
+    "image": "https://media.rnztools.nz/rnz/image/upload/s--eTlfwmXp--/t_tohu-badge-facebook/v1768948355/4JUGK1S_Media_6_jfif?_a=BACCd2AD",
+    "source": "RNZ"
   },
   {
-    "title": "Raaka: Everything to know so far about Allu Arjun and Deepika Padukone's sci-fi action",
-    "desc": "Starring Allu Arjun and Deepika Padukone, Raaka is a sci fi thriller directed by Atlee Kumar. The first poster of the film has been released on the occasion of Arjun 44th birthday. Here’s everything you need to know about the film so far.",
-    "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260409/image-1775713916397.png?imwidth=1200&imheight=900",
+    "title": "Hope for struggling regional airlines during fuel crisis - Associate Transport Minister James Meager",
+    "desc": "The associate transport minister suggests current loan criteria could be tweaked to provide further assistance.",
+    "image": "https://media.rnztools.nz/rnz/image/upload/s--eTlfwmXp--/t_tohu-badge-facebook/v1768948355/4JUGK1S_Media_6_jfif?_a=BACCd2AD",
+    "source": "RNZ"
+  },
+  {
+    "title": "Singapore woman charged after she allegedly had sex with underage boy multiple times",
+    "desc": "SINGAPORE: A woman allegedly had sex with an underage boy on multiple occasions in October 2025.",
+    "image": "https://apicms.thestar.com.my/uploads/images/2026/04/09/3852077.jpg",
+    "source": "The Star"
+  },
+  {
+    "title": "Your DNA has a secret “second code” that decides which genes get silenced",
+    "desc": "Not all parts of our genetic code are equal, even when they appear to say the same thing. Scientists have discovered that cells can detect less efficient genetic instructions and selectively silence them. A protein called DHX29 plays a key role in this process by identifying and suppressing weaker messages. This finding reveals a hidden layer of control in how genes are used.",
+    "image": "https://www.sciencedaily.com/images/1920/dna-mutation-genetics-bioengineering-cancer-disease.webp",
+    "source": "ScienceDaily"
+  },
+  {
+    "title": "Your DNA has a secret “second code” that decides which genes get silenced",
+    "desc": "Not all parts of our genetic code are equal, even when they appear to say the same thing. Scientists have discovered that cells can detect less efficient genetic instructions and selectively silence them. A protein called DHX29 plays a key role in this process by identifying and suppressing weaker messages. This finding reveals a hidden layer of control in how genes are used.",
+    "image": "https://www.sciencedaily.com/images/1920/dna-mutation-genetics-bioengineering-cancer-disease.webp",
+    "source": "ScienceDaily"
+  },
+  {
+    "title": "MTC marketing indaba kicks off with N$4.6m investment",
+    "desc": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% The second Mobile Telecommunications Limited (MTC) Branding and Marketing Indaba kicked off in Windhoek on Wednesday, bringing together marketing experts from across Namibia and beyond.",
+    "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-10.03.46-AM-1024x576.jpeg",
+    "source": "The Namibian -"
+  },
+  {
+    "title": "Aspire 13.2 Released with Expanded CLI, TypeScript AppHost Preview, and Dashboard Improvements",
+    "desc": "Aspire 13.2 brings expanded CLI with detached mode and process management, TypeScript AppHost support in preview, dashboard telemetry export and import, stable Docker Compose publishing, Microsoft Fou",
+    "image": "https://res.infoq.com/news/2026/04/aspire-13-2-release/en/card_header_image/generatedCard-1775684038774.jpg",
+    "source": "infoq.com"
+  },
+  {
+    "title": "Galway City Ring Road approved by An Coimisiún Pleanála",
+    "desc": "The Galway City Ring Road planning application has been approved by An Coimisiún Pleanála. The decision has been revealed today",
+    "image": "https://img.resized.co/galwaybayfm-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltZy5nYWx3YXliYXlmbS5pZVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvUmluZy1Sb2FkLVJlbmRlci0xMDI0eDU1NS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvaW1nLmdhbHdheWJheWZtLmllXFxcL3N0YWdpbmdcXFwvdXBsb2Fkc1xcXC9wbGFjZWhvbGRlci5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNDczMjUxM2RmM2U4Y2EyMGQ5ZDc3NTUxNDZmZTE1NmM0NTNlNGEzYSJ9/galwaycityringroadapprovedbyancoimisinpleanlagalwaybayfm.jpg",
+    "source": "Galway Bay FM"
+  },
+  {
+    "title": "In a medical first, doctors find 'impossible' larvae living inside a woman's nose",
+    "desc": "A woman in Greece became concerned when she started sneezing worms. Doctors concluded that it was a case of Oestrus ovis, as the doctors removed 10 larvae and one pupa from her maxillary sinuses. These worms have typically affect human eyes and not the nasal passages.",
+    "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260409/image-1775722856952.jpg?imwidth=1200&imheight=900",
     "source": "WION"
-  },
-  {
-    "title": "Sleeper picks to win 2026 Masters: Augusta winner, Europe’s Ryder Cup stars and 75/1 shot among contenders",
-    "desc": "The first major of the year is coming up and there are plenty of names in the mix for Masters glory. From Danny Willett and Charl Schwartzel to Angel",
-    "image": "https://talksport.com/wp-content/uploads/2026/03/shane-lowry-ireland-looks-18th-1063199964.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-    "source": "talkSPORT"
-  },
-  {
-    "title": "The truth behind the Alysa Liu's sexuality rumours sweeping the internet",
-    "desc": "Is Alysa Liu gay? Check out this article to learn about Liu’s gender, sexual orientation, relationship status, and the speculation about her sexuality.",
-    "image": "https://cdn.tuko.co.ke/images/1200x675/27987578c2820119.jpeg?v=1",
-    "source": "Tuko News"
-  },
-  {
-    "title": "Four people die in Channel small-boat sinking",
-    "desc": "French authorities say situation still being assessed after ‘taxi-boat’ sank between France and UK",
-    "image": "https://i.guim.co.uk/img/media/4ee1a22fed4a455b56e051d392bc2360f56cb620/165_0_4510_3608/master/4510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71504874c4a2a0beef6326460c79309a",
-    "source": "The Guardian"
-  },
-  {
-    "title": "Oil price rises as markets question durability of Middle East ceasefire",
-    "desc": "Gas prices also increase, while global stock markets slip back after strong rally on Wednesday",
-    "image": "https://i.guim.co.uk/img/media/76f5868cd06187766609d901e269f0a4087bfcae/17_161_4890_3915/master/4890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c1acc3f753624dbfede609ac808b57e",
-    "source": "The Guardian"
-  },
-  {
-    "title": "From plastics to palm oil: Nine in 10 Malaysian manufacturers face crunch from shortages and high costs",
-    "desc": "KUALA LUMPUR, April 9 — Malaysian manufacturers are bracing for disruption.Nine in 10 manufacturers in the country expect operational hiccups in the coming weeks, with raw...",
-    "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/09/334723.jpg",
-    "source": "Malay Mail"
-  },
-  {
-    "title": "World Bank suggests raising RON95 price back to RM2.05",
-    "desc": "Economist Apurva Sanghi says this can serve as an alternative or complementary policy tool in dealing with the impact of the ongoing US-Israel and Iran conflict.",
-    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/04/f1cf5ba9-ron95-subsidy-budi-95-4.webp",
-    "source": "Free Malaysia Today"
-  },
-  {
-    "title": "Who is Puka Nacua dating now? Inside his messy split and current partner",
-    "desc": "Curious about Puka Nacua's girlfriend? Check out this article to learn about his relationship status, past and rumoured relationships, and messy breakup.",
-    "image": "https://cdn.tuko.co.ke/images/1200x675/e8654aefe390d077.jpeg?v=1",
-    "source": "Tuko News"
   }
 ]
