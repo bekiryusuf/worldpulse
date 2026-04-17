@@ -1,62 +1,62 @@
 [
   {
-    "title": "It will take more than £600m a year to boost UK industrial competitiveness",
-    "desc": "Bics fix accepts nose-bleed energy bills are a structural problem but pretends they are only an issue for a narrow section of industry",
-    "image": "https://i.guim.co.uk/img/media/58a31e1422b2f102c9cb3af8ff3f9d6bf554a726/950_0_4750_3800/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9cb757772c2d5e384179a29997e4a9f4",
-    "source": "The Guardian"
-  },
-  {
-    "title": "LIV and let die: golf rebels count cost of Saudi cutbacks and other sports fear worst",
-    "desc": "Public Investment Fund withdraws support for rebel tour and other sports could be hit too with Newcastle United uncertain",
-    "image": "https://i.guim.co.uk/img/media/fbc30e4d1b3a2f4d245dc96bd061f4704ea4c293/327_0_3265_2612/master/3265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7af80a6389302eea7c0c26dbe3b89db",
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump announces 10-day ceasefire in Lebanon after ‘excellent conversations’",
-    "desc": "Halt to seven weeks of fighting will be followed by first Israeli-Lebanese summit in decades",
-    "image": "https://i.guim.co.uk/img/media/0ad0b211b4215a60d7f47e233d397705ee3d7af7/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb72804c01b8d052adde8f0dfc02616c",
-    "source": "The Guardian"
-  },
-  {
-    "title": "Luxon confident he won't be ousted as leader",
-    "desc": "​​​​​​​Prime Minister Christopher Luxon says he is confident he has the \"full support of his caucus\", but he has not surveyed them, saying he does...",
-    "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/04/luxonpresser.png?itok=DiS_jXOz",
+    "title": "Serial rapist Malcolm Rewa sentenced for rape of 16-year-old",
+    "desc": "Serial rapist Malcolm Rewa was sentenced in the High Court to 10 years' jail after he pleaded guilty to raping a 16-year-old in Onehunga in June 1988.",
+    "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/04/malcolm_rewa.jpg?itok=gMdwPWCe",
     "source": "Otago Daily Times"
   },
   {
-    "title": "Premier League Darts 2026 results: Jonny Clayton beats Luke Littler to secure fourth nightly win",
-    "desc": "Jonny Clayton delights the Rotterdam crowd as he beats Luke Littler 6-4 to extend his lead at the top of the Premier League table.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c7c/live/ffe303f0-39ce-11f1-8e60-cba08815e4da.jpg",
+    "title": "Foreign Office’s top civil servant Olly Robbins to leave post over Mandelson vetting row",
+    "desc": "Keir Starmer understood to have lost confidence in official over decision to override security vetting failure",
+    "image": "https://i.guim.co.uk/img/media/b9ddb609c763962db59dce93022e368f67552ab2/871_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=327c499d731355e4a4f6ddc81cd66f63",
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meghan Trainor Cancels Entire Tour and Apologizes to Fans: ‘This Is the Right Decision for My Family’",
+    "desc": "Meghan Trainor has canceled what was slated to be her “Get In Girl” tour, citing the difficulties of balancing work and family in the wake of welcoming a new baby. The pop singer shared a message on s...",
+    "image": "https://s.yimg.com/ny/api/res/1.2/sjZ8cGDyE1mWeaNYSwo88w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/variety.com/14474f9bcd573281d6acc4f72624a8d7",
+    "source": "Yahoo News Canada"
+  },
+  {
+    "title": "Meghan Trainor Cancels Entire Tour",
+    "desc": "Meghan Trainor has canceled what was shaping up to be her summer 'Get in Girl' tour, which had stops at Madison Square Garden and Kia Forum.",
+    "image": "https://variety.com/wp-content/uploads/2026/04/GENERAL-PRESS-Photo-Credit-Dana-Trippe.jpg?w=1000&h=563&crop=1",
+    "source": "Variety"
+  },
+  {
+    "title": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
+    "desc": "CVE-2023-33538 allows for command injection in TP-Link routers. We discuss exploitation attempts with payloads characteristic of Mirai botnet malware.",
+    "image": "https://origin-unit42.paloaltonetworks.com/wp-content/uploads/2026/04/04_Vulnerabilities_1920x900.jpg",
+    "source": "Unit 42"
+  },
+  {
+    "title": "Top Foreign Office official Olly Robbins to leave post after Mandelson vetting row",
+    "desc": "Sir Olly Robbins has effectively been sacked after his department did not inform the prime minister that Lord Mandelson had failed security vetting.",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c594/live/58b02640-39e1-11f1-8606-05fe34b06e1b.jpg",
     "source": "BBC"
   },
   {
-    "title": "Vogue Williams and Spencer Matthews announce 'baby No 4'",
-    "desc": "Model and presenter Vogue Williams has announced she is pregnant with her fourth child with her husband, reality TV star Spencer Matthews.",
-    "image": "https://www.rte.ie/images/00223c86-1600.jpg",
-    "source": "RTE.ie"
-  },
-  {
-    "title": "Actress Song Ji Hyo Announces Her Marriage, Inspiring Shock",
-    "desc": "Song Ji Hyo has shocked with the announcement of her wedding plans, surprising a close friend with a marriage invitation in person.",
-    "image": "https://image.koreaboo.com/2026/04/FEATURED-IMAGE-2026-04-16T154021.938.jpg",
-    "source": "Koreaboo"
-  },
-  {
-    "title": "‘A political era has ended’: Orbán breaks silence after Hungarian election defeat",
-    "desc": "“I have to admit that the opponent’s message was stronger,” outgoing PM Viktor Orbán says in first public comments since the vote.",
-    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/16/orban.jpg",
-    "source": "politico.eu"
-  },
-  {
-    "title": "Netflix co-founder Reed Hastings to step down as chairman",
-    "desc": "Hastings set up the company in 1997, when it rented DVDs to customers and delivered by post.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c275/live/b4a26b40-39d0-11f1-8e60-cba08815e4da.jpg",
+    "title": "Top Foreign Office official Olly Robbins to leave post after Mandelson vetting row",
+    "desc": "It comes after it emerged the peer failed security vetting but the Foreign Office still allowed him to take up the post.",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c594/live/58b02640-39e1-11f1-8606-05fe34b06e1b.jpg",
     "source": "BBC"
   },
   {
-    "title": "Stock Market Today: Nasdaq, S&P 500 Mark New Highs; These Truck Stocks Clear Entries (Live Coverage)",
-    "desc": "Stock Market Today: The Dow Jones index ends Thursday's choppy trading session higher. AMD breaks out. TSMC falls.",
-    "image": "https://www.investors.com/wp-content/uploads/2016/07/stock-truck-3-18whl-adobe.jpg",
-    "source": "Investor's Business Daily"
+    "title": "Super Rugby Pacific: All you need to know for round 10 action",
+    "desc": "All you need to know before round 10 of Super Rugby Pacific. Eden Park, Auckland. Friday 7.05pm The Blues have been bolstered by the return of three All...",
+    "image": "https://www.nzherald.co.nz/resizer/v2/HLXMTX2ATVHKNCRC5SYJS6XLFE.jpg?auth=29b8514b9203a2ede04f78341c2b8ae1e96438ac28f02774f96b9aa47a8bbf1b&width=1200&height=675&quality=70&focal=734%2C239&smart=false",
+    "source": "NZ Herald"
+  },
+  {
+    "title": "Lebanon Israel ceasefire takes effect",
+    "desc": "A 10-day ceasefire deal between Lebanon and Israel takes effect as US President Trump attempts to broker a meeting between the leaders. Read more at straitstimes.com.",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c70729e212937f3f48ee1b5e0afda17b16110abfacb4270d5824030ee20c0853",
+    "source": "The Straits Times"
+  },
+  {
+    "title": "'She needed help': Cyclist spots missing elderly woman on Seletar road with heavy vehicles, calls police and guides her to safety",
+    "desc": "A man who was cycling along Seletar North Link Road on Wednesday (April 15) ended up disrupting his exercise routine, but for a good reason — to help an elderly woman who was wandering along the busy road.It turned out that the police was looking for her as she had gone missing.The cyclist, who goes by the name Kevin, wrote...",
+    "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Apr2026/Seletar-North-Link-Missing-Elderly-Woman-Cyclist.png?itok=oNQNWuNN",
+    "source": "AsiaOne"
   }
 ]
