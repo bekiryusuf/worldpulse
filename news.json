@@ -1,62 +1,62 @@
 [
   {
-    "title": "Click to view election results",
-    "desc": "Louisiana voters headed to the polls Saturday for a statewide election featuring the U.S. Senate primary, Public Service Commission and Louisiana Supreme Court races, local offices, and five proposed constitutional amendments.",
-    "image": "https://gray-wafb-prod.gtv-cdn.com/resizer/v2/PSNCMEFWKNDE7IOLTYEJNNGTGA.png?auth=37da7d828e690b0abcd9011520578ad4104f71536a7f1e05e8f69a9516be8051&width=1200&height=600&smart=true",
-    "source": "WAFB"
+    "title": "Swatch-Audemars Piguet watch launch ignites global chaos, tear gas fired in Paris",
+    "desc": "From New York to Milan, buyers push and shove each other to get their hands on the ‘Royal Pop’ timepieces.",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/17/35182322-af5e-4844-9eac-8ca3a53cf9af_35f68e5d.jpg?itok=f5lRU4Sg&v=1778984244",
+    "source": "South China Morning Post"
   },
   {
-    "title": "Eurovision 2026: Bulgaria pips Israel at the post to win in Vienna",
-    "desc": "Israel comes second after large number of votes from viewers at home",
-    "image": "https://www.irishtimes.com/resizer/v2/Z2XBULINNRPN7QGKXJKPDJXLNM.jpg?smart=true&auth=a893ee2c6d016e87ef2a12f48ab32b8b5cfef24e9b1a3665c9c1724cf403cc94&width=1200&height=630",
-    "source": "The Irish Times"
+    "title": "NEOWIZ's Round8 Studio accelerates hiring push after success of Lies of P",
+    "desc": "NEOWIZ’s Round8 Studio is ramping up recruitment as it expands a multititle development pipeline, with the studio emphasizing a hiring philosophy c...",
+    "image": "https://newsimg.koreatimes.co.kr/2026/05/15/69b4b0f5-7f96-48ae-b888-58b02b89e5fa.png",
+    "source": "The Korea Times"
   },
   {
-    "title": "19 taught us about Hantavirus outbreak",
-    "desc": "When news broke of a deadly outbreak of hantavirus on board a cruise ship, the world held its collective breath. The pain and fatigue from the years-long...",
-    "image": "https://www.nzherald.co.nz/resizer/v2/EF6LOBAFDBCGLPQ2TZ3R2LI4GA.jpg?auth=e89ddbdd353aa1d665760470bd0030848761e8e9da4c3c0b9376e221378763ac&width=1200&height=675&quality=70&focal=495%2C340&smart=false",
-    "source": "NZ Herald"
+    "title": "Pati Patni Aur Woh Do box office collection day 2: Ayushmann Khurrana film shows spike; collects over ₹9 crore",
+    "desc": "Pati Patni Aur Woh Do box office collection day 2: How Mudassar Aziz's Ayushmann Khurrana, Wamiqa Gabbi, Sara Ali Khan and Rakul Preet Singh-starrer is faring. | Bollywood",
+    "image": "https://www.hindustantimes.com/ht-img/img/2026/05/17/550x309/PTI05-14-2026-000620A-0_1778982968864_1778982985865_669dd3a1-fe1f-4b31-a8a4-588b0df68f89.jpg",
+    "source": "Hindustan Times"
   },
   {
-    "title": "Venezuela says it deported a close ally of Maduro",
-    "desc": "Venezuela’s government says it has deported a close ally of Nicolás Maduro to face judicial proceedings in the U.S. less than three years after the business owner was pardoned by President Joe Biden as part of a prisoner swap.",
-    "image": "https://dims.apnews.com/dims4/default/7f09fe5/2147483647/strip/true/crop/5508x3670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Ffe%2Fe9a61118d7bb784c38e429f7491c%2Fba3d0f1735234cd6b5c16a3d186d67bb",
-    "source": "AP News"
+    "title": "WHO Declares Congo Ebola Outbreak Global Health Emergency",
+    "desc": "The World Health Organization declared an Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, warning that a rare virus strain with no approved vaccine or treatment may already be spreading more widely than detected.",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXqLtasjVNKs/v1/1200x800.jpg",
+    "source": "Bloomberg.com"
   },
   {
-    "title": "Ronaldo’s Saudi trophy wait drags on after Al-Nassr falls to Gamba Osaka in Asian final",
-    "desc": "Cristiano Ronaldo’s wait for a first major trophy in Saudi Arabia continues after Al-Nassr lost to Japan’s Gamba Osaka 1-0 in the Asian Champions League Two final in Riyadh",
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
-    "source": "The Washington Post"
+    "title": "Labour leadership jostling puts Brexit back under political spotlight",
+    "desc": "The UK's relationship with the EU is shaping up as a key issue for a possible Labour leadership contest and the coming by-election in the Makerfield.",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6fd/live/09763bc0-5190-11f1-89a3-d1f559421220.jpg",
+    "source": "BBC"
   },
   {
-    "title": "Neuro-evolutionary computing approach for an epidemic model of ransomware detection using morlet wavelet neural network with meta-heuristic optimization",
-    "desc": "This paper presents an algorithmic paradigm that will address a malware model in the form of a nonlinear set of differential equations. The neural networks are Morlet wavelet as estimate the state variables of the malware behavior. To maximize the network performance, we use a heuristic optimization algorithm that optimizes the network parameters to achieve rapid convergence and accurate performance. The learning stage is designed and constructed on the basis of a fitness criterion which is based on the residuals of the governing equations and the initial conditions. We discuss two various cases in order to test the strength of proposed approach. In both, the mean squared errors (MSE) of between $$\\:{10}^{-09}$$ and $$\\:{10}^{-07}$$, which point to the accuracy of the scheme. Furthermore, the values of Theil inequality coefficient (TIC) are between $$\\:{10}^{-06}$$ and $$\\:{10}^{-04}$$ with strong predictive powers. The stability of optimization process is checked by the comparative behavior with the several runs. We find the results in perfect agreement with reference solutions, which suggests that our framework is an effective and useful substitute to traditional numerical solvers to malware dynamic systems.",
-    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
+    "title": "‘Hearts irrevocably broken’: Family pays tribute to Rottnest shark attack victim",
+    "desc": "A young father who was killed by a four-metre shark while spearfishing off Rottnest has been remembered as a ‘devoted’ dad who was ‘always in tune with the sea’.",
+    "image": "https://images.thewest.com.au/publication/C-22295170/4b972124c83955481532a99b8eadf38131ea00d2-16x9-x1y0w2446h1376.jpg?imwidth=1200",
+    "source": "The West Australian"
   },
   {
-    "title": "MAHB: No penalties during VAMS disruptions at KLIA",
-    "desc": "PETALING JAYA: Motorists affected by technical disruptions involving the Vehicle Access Management System (VAMS) at KL International Airport (KLIA) are not subjected to penalties, as barriers are immediately switched to open mode while rectification works are carried out, says Malaysia Airports Holdings Berhad (MAHB).",
-    "image": "https://apicms.thestar.com.my/uploads/images/2026/05/17/3911958.jpg",
-    "source": "The Star | Malaysia"
+    "title": "Taylor Swift & Travis Kelce Glam Up for Private Event In Brooklyn",
+    "desc": "Taylor Swift and Travis Kelce step out together for the second night in a row on Saturday (May 16) in Brooklyn, New York. The 36-year-old \"Opalite\"",
+    "image": "https://www.justjared.com/wp-content/uploads/2026/05/taylor-travis.jpg",
+    "source": "Just Jared"
   },
   {
-    "title": "How to watch, lineup notes, and storylines",
-    "desc": "The Sabres visit Montreal looking to force a Game 7.",
-    "image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/jzjcey14tcu5xx9wo8j0.jpg",
-    "source": "NHL.com"
+    "title": "Labor plays down chances of post",
+    "desc": "As the government and opposition go head-to-head on tax policy, the treasurer concedes his budget is unlikely to win any immediate extra support from voters.",
+    "image": "https://michaelwest.com.au/wp-content/uploads/2026/05/eb81f500-273c-49e6-888c-6b810cd90bbd.jpg",
+    "source": "Michael West Media"
   },
   {
-    "title": "Israel rises with boost from public vote and renewed",
-    "desc": "Israel finishes second at Eurovision 2026 with a strong public vote and improved jury support, as Noam Bettan and 'Michelle' earn 343 points and points from 22 of 34 juries plus Poland’s top score after years of limited backing",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/16/BycqfmLyMx/BycqfmLyMx_0_8_1250_704_0_large.jpg",
-    "source": "ynetnews"
+    "title": "Prinx Tires USL Cup - Indy claims shootout victory against Fort Wayne FC",
+    "desc": "Boys in Blue earn bonus point after being pegged back twice; Yamazaki’s blast earns Detroit City victory in Madison",
+    "image": "https://cdn2.sportngin.com/attachments/news_article/d76a-218093241/IND_vs_FW_-_FW_1st_Half-12_large.jpg",
+    "source": "uslchampionship.com"
   },
   {
-    "title": "\"Shameless team\": Cristiano Ronaldo’s Al-Nassr brutally mocked as “Saudi Arabia’s Arsenal” after another collapse",
-    "desc": "International Sports News: Cristiano Ronaldo walked off the pitch visibly frustrated after another painful final defeat with Al-Nassr, and fans online wasted no time unleashing .",
-    "image": "https://static.toiimg.com/thumb/msid-131147523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India"
+    "title": "Palestinian Authority to reinforce 'pay-for-slay' policy",
+    "desc": "The Foreign Ministry statement included a picture of a Palestinian Authority court ruling, which PMW claimed ruled in favor of a terrorist prisoner whose pay-for-slay salary had been suspended.",
+    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/697738",
+    "source": "The Jerusalem Post"
   }
 ]
