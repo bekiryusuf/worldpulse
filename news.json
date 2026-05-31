@@ -1,62 +1,62 @@
 [
   {
-    "title": "'007: First Light' is a huge sales hit",
-    "desc": "Developer IO Interactive is seeing unprecedented success with the debut of its new 007 video game.",
-    "image": "https://helios-i.mashable.com/imagery/articles/06OnBAD6hmrOpDATxZfE5M5/hero-image.fill.size_1200x675.v1780159635.jpg",
-    "source": "Mashable"
+    "title": "Streeting suggests NI cut and North Sea drilling",
+    "desc": "The former health secretary has been distancing himself from policies pursued by Sir Keir Starmer's government.",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8493/live/a0179dd0-5c99-11f1-89a3-d1f559421220.jpg",
+    "source": "BBC"
   },
   {
-    "title": "Lynne Findlay wins BC Conservatives leadership race",
-    "desc": "Former federal MP will be seeking a way to win a seat in the legislature, which likely will require a member of the caucus to resign, to create a by-election opportunity",
-    "image": "https://www.theglobeandmail.com/resizer/v2/LC3EWTT3YJGZ3CND5SJRI2WTFQ.JPG?auth=4feefe7529587ed11cc8d08c57b15d7d02effe3b5c6c3d190b200b1af1ccd120&width=1200&height=800&quality=80&smart=true",
-    "source": "The Globe and Mail"
+    "title": "New match, Rey Mysterio interview announced for AAA Noche de Los Grandes",
+    "desc": "A new match has been announced for AAA Noche de los Grandes. The show will tape tonight at Arena Monterrey, with tonight’s episode of AAA on Fox airing live.",
+    "image": "https://www.f4wonline.com/wp-content/uploads/2026/05/20260512_AAANoches_GrandeGrande_16x9_Saturday_0.jpg",
+    "source": "F4W/WON"
   },
   {
-    "title": "1 drone that entered Iranian territory",
-    "desc": "CENTCOM posted on X that American forces 'remain present and vigilant across the region'",
-    "image": "https://gumlet-images.assettype.com/gulfnews%2F2026-05-31%2Fqg0c86jv%2F16.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-    "source": "Gulf News"
+    "title": "Hajiji praises Anwar for ‘walking the talk’ on 40% entitlement",
+    "desc": "The chief minister says Sabah hopes the funds will be disbursed without delay for the benefit of the people.",
+    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/d86c232d-hajiji-anwar-.webp",
+    "source": "Free Malaysia Today"
   },
   {
-    "title": "Hannatu Ayuba: Deep Gratitude to the Yvonne Awards Committee for the Recognition",
-    "desc": "Hannatu Ayuba: Deep Gratitude to the Yvonne Awards Committee for the Recognition / cancer, CityCancer Challenge Foundation, FMC Jalingo, Hannatu Ayuba,",
-    "image": "https://oncodaily.com/pub/uploads/2025/04/BeFunky-collage-64-1280x720.jpg",
-    "source": "Oncodaily"
+    "title": "Dynamic task offloading for sports training monitoring in MEC-assisted smart wearable device systems",
+    "desc": "With the development of Internet of Things (IoT) and Artificial Intelligence (AI) technologies, smart wearable devices (SWDs) are regarded as a promising approach for sports training monitoring. However, such monitoring generates a large number of computation-intensive tasks, which SWDs struggle to process in real-time due to limited battery capacity and computing power. Fortunately, the emergence of multi-access edge computing (MEC) offers an effective solution, allowing smart wearable devices to offload tasks to edge servers at the network edge for low-latency, energy-efficient processing. This paper investigates the dynamic task offloading problem in MEC-assisted wearable device systems. By jointly optimizing the offloading decisions, CPU frequency, offloading power of SWDs, and the CPU frequency of edge servers, we aim to minimize the total energy consumption of SWDs while maintaining the queue backlog. Through the Lyapunov drift-plus-penalty optimization framework, the long-term stochastic optimization problem is decoupled into a series of deterministic single-slot subproblems. A lightweight server selection algorithm is proposed to enable adaptive switching to alternative servers during overloads with negligible computational and signaling costs. Then, the problem is further decomposed into multiple sub-problems that can be solved in parallel. Based on this, we propose the Sports Training Monitoring (STM) algorithm to achieve efficient online solutions. Theoretical analysis and experiments indicate that STM can effectively reduce the energy consumption of SWDs while maintaining system performance.",
+    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "Nature"
   },
   {
-    "title": "French Open 2026: Novak Djokovic, Jannik Sinner, Coco Gauff and other big players who have been knocked out so far",
-    "desc": "There have been several exits in the first week of the 2026 French Open tournament in Paris. We take a look at the major shocking player exits.",
-    "image": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/French-Open-Tennis-261_1780193529198_1780193546054_5d7f7325-d192-4c82-a9f1-4c3014b6b73a.jpg",
-    "source": "Mint"
+    "title": "Fri: TA 35 ends May up 1.8%",
+    "desc": "The TASE rose on the final trading day of the month led by OPC Energy.",
+    "image": "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Globes_Archive_800x392.2018729T150619.jpg",
+    "source": "Globes - Israel Business News"
   },
   {
-    "title": "A meteor fell on the USA",
-    "desc": "EADaily, May 31st, 2026. A strong rumble in the US state of Massachusetts was caused by the entry of a meteor into the Earth's atmosphere, the Associated Press reports, citing experts from the American Meteor Society.",
-    "image": "https://img4.eadaily.com/r650x400/o/b87/cd743da9cb407670f70519faff4af.jpeg",
-    "source": "EADaily"
+    "title": "Vijay and Trisha Krishnan reach Ajith Kumar's residence; Offer condolences after mother Mohini Mani's demise",
+    "desc": "Actor Ajith Kumar returned to Chennai on Saturday following the passing of his mother, Mohini Mani. The actor had been reportedly in Dubai before retu.",
+    "image": "https://static.toiimg.com/thumb/msid-131418382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "source": "The Times of India"
   },
   {
-    "title": "Meteor explodes over U.S. with blast equivalent to 300 tonnes of TNT",
-    "desc": "A meteor exploded over northeastern Massachusetts and southeastern New Hampshire, with booms that alarmed residents creating shockwaves to 300 tonnes of TNT.",
-    "image": "https://www.thehindu.com/theme/images/og-image.png",
-    "source": "The Hindu"
+    "title": "IDF pushes past Litani River, capturing Beaufort Ridge outpost",
+    "desc": "The operation began several days ago, and its goal is to eliminate the threat Hezbollah poses to the citizens of northern Israel.",
+    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723388",
+    "source": "The Jerusalem Post"
   },
   {
-    "title": "Footprints: Space for art",
-    "desc": "A small outdoor cafe in Quetta provides artists a space to interact and express their creativity.",
-    "image": "https://i.dawn.com/large/2026/05/31071843931178b.webp",
-    "source": "Dawn"
+    "title": "Skudai assemblyman announces retirement from active politics ahead of Johor polls",
+    "desc": "JOHOR BARU: Skudai assemblyman Marina Ibrahim has announced that she will not contest in the coming Johor state election and is stepping away from active politics, ending her four-year tenure.",
+    "image": "https://apicms.thestar.com.my/uploads/images/2026/05/31/3935266.jpg",
+    "source": "thestar.com.my"
   },
   {
-    "title": "Waikato Expressway extension: Ministers visit future site of Cambridge to Piarere section of $1.77b road",
-    "desc": "More than a decade after it was first proposed, the Cambridge to Piarere section of the Waikato Expressway has secured $1.77 billion in Government funding....",
-    "image": "https://www.nzherald.co.nz/resizer/v2/UJ6C72W3INGNBLJWCKOY43FHO4.jpg?auth=be587f484ec8d2d2db7c4612869bdfd8249378b72dc1f388921dcfaad3807619&width=1200&height=675&quality=70&smart=true",
-    "source": "NZ Herald"
+    "title": "PNVF to seek 'full understanding of issues' after FIVB suspension",
+    "desc": "The Philippine National Volleyball Federation (PNVF) said it has received the communication from the FIVB regarding its suspension by the international governing body and will “seek a full understanding of the issues” and the process moving forward.",
+    "image": "https://images.gmanews.tv/webpics/2026/05/319636827_518103877009319_1182699519190859971_n_2026_05_31_11_35_38.jpeg",
+    "source": "GMA Network"
   },
   {
-    "title": "Prisons Service probes alleged role of Ankafu convict in Abamba Queen Mother's murder",
-    "desc": "The Ghana Prisons Service has launched an internal investigation into allegations that an inmate at the Ankafu Maximum Security Prison played a role in the murder of Nana Serwaa Asaama Agyankomaa I, Queen Mother of the Abamba Traditional Area in Atebubu.",
-    "image": "https://www.graphic.com.gh/images/2026/May/23/Yohuno.jpg",
-    "source": "Graphic Online"
+    "title": "Toyota GR86 (AT) Review: My ‘Initial D’ Dream, Rewritten For Real Roads",
+    "desc": "This isn’t a car trying to be everything. It’s a car that reminds you why you started dreaming about sports cars in the first place.",
+    "image": "https://www.businesstoday.com.my/wp-content/uploads/2026/05/GR86-AT.jpg",
+    "source": "BusinessToday Malaysia"
   }
 ]
