@@ -1,62 +1,62 @@
 [
   {
-    "title": "Streeting suggests NI cut and North Sea drilling",
-    "desc": "The former health secretary has been distancing himself from policies pursued by Sir Keir Starmer's government.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8493/live/a0179dd0-5c99-11f1-89a3-d1f559421220.jpg",
-    "source": "BBC"
+    "title": "Utumishi Girls fire: DCI arrest suspect over viral posts deemed inflammatory",
+    "desc": "\"Posts appeared to glorify the deaths and included inflammatory remarks targeting a community.\"",
+    "image": "https://cdn.radioafrica.digital/image/2026/05/0ce8051d-f681-4b0e-8bb9-24f71c1c1a15.jpg?1780208771979",
+    "source": "the-star.co.ke"
   },
   {
-    "title": "New match, Rey Mysterio interview announced for AAA Noche de Los Grandes",
-    "desc": "A new match has been announced for AAA Noche de los Grandes. The show will tape tonight at Arena Monterrey, with tonight’s episode of AAA on Fox airing live.",
-    "image": "https://www.f4wonline.com/wp-content/uploads/2026/05/20260512_AAANoches_GrandeGrande_16x9_Saturday_0.jpg",
-    "source": "F4W/WON"
+    "title": "NRL live updates: Brisbane Broncos vs St George Illawarra Dragons, Canberra Raiders vs North Queensland Cowboys, Penrith Panthers vs New Zealand Warriors",
+    "desc": "The Dragons are still waiting for a first NRL win of the season as they head north to Brisbane to take on a Broncos side without a victory in their last three matches. Follow live.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/9780c6a99b8fa83470b9be965c37d984?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=36&width=862&height=485&imformat=generic",
+    "source": "Australian Broadcasting Corporation"
   },
   {
-    "title": "Hajiji praises Anwar for ‘walking the talk’ on 40% entitlement",
-    "desc": "The chief minister says Sabah hopes the funds will be disbursed without delay for the benefit of the people.",
-    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/d86c232d-hajiji-anwar-.webp",
-    "source": "Free Malaysia Today"
-  },
-  {
-    "title": "Dynamic task offloading for sports training monitoring in MEC-assisted smart wearable device systems",
-    "desc": "With the development of Internet of Things (IoT) and Artificial Intelligence (AI) technologies, smart wearable devices (SWDs) are regarded as a promising approach for sports training monitoring. However, such monitoring generates a large number of computation-intensive tasks, which SWDs struggle to process in real-time due to limited battery capacity and computing power. Fortunately, the emergence of multi-access edge computing (MEC) offers an effective solution, allowing smart wearable devices to offload tasks to edge servers at the network edge for low-latency, energy-efficient processing. This paper investigates the dynamic task offloading problem in MEC-assisted wearable device systems. By jointly optimizing the offloading decisions, CPU frequency, offloading power of SWDs, and the CPU frequency of edge servers, we aim to minimize the total energy consumption of SWDs while maintaining the queue backlog. Through the Lyapunov drift-plus-penalty optimization framework, the long-term stochastic optimization problem is decoupled into a series of deterministic single-slot subproblems. A lightweight server selection algorithm is proposed to enable adaptive switching to alternative servers during overloads with negligible computational and signaling costs. Then, the problem is further decomposed into multiple sub-problems that can be solved in parallel. Based on this, we propose the Sports Training Monitoring (STM) algorithm to achieve efficient online solutions. Theoretical analysis and experiments indicate that STM can effectively reduce the energy consumption of SWDs while maintaining system performance.",
-    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
-  },
-  {
-    "title": "Fri: TA 35 ends May up 1.8%",
-    "desc": "The TASE rose on the final trading day of the month led by OPC Energy.",
-    "image": "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Globes_Archive_800x392.2018729T150619.jpg",
-    "source": "Globes - Israel Business News"
-  },
-  {
-    "title": "Vijay and Trisha Krishnan reach Ajith Kumar's residence; Offer condolences after mother Mohini Mani's demise",
-    "desc": "Actor Ajith Kumar returned to Chennai on Saturday following the passing of his mother, Mohini Mani. The actor had been reportedly in Dubai before retu.",
-    "image": "https://static.toiimg.com/thumb/msid-131418382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India"
-  },
-  {
-    "title": "IDF pushes past Litani River, capturing Beaufort Ridge outpost",
-    "desc": "The operation began several days ago, and its goal is to eliminate the threat Hezbollah poses to the citizens of northern Israel.",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723388",
-    "source": "The Jerusalem Post"
-  },
-  {
-    "title": "Skudai assemblyman announces retirement from active politics ahead of Johor polls",
-    "desc": "JOHOR BARU: Skudai assemblyman Marina Ibrahim has announced that she will not contest in the coming Johor state election and is stepping away from active politics, ending her four-year tenure.",
-    "image": "https://apicms.thestar.com.my/uploads/images/2026/05/31/3935266.jpg",
+    "title": "Norway's apology over axed missile deal raised more questions, says Khaled Nordin",
+    "desc": "KUALA LUMPUR: Norway's apology over its unilateral decision to cancel the export licence for the Naval Strike Missile (NSM) system has raised more questions for Malaysia, says Datuk Seri Mohamed Khaled Nordin.",
+    "image": "https://apicms.thestar.com.my/uploads/images/2026/05/31/3935303.jpg",
     "source": "thestar.com.my"
   },
   {
-    "title": "PNVF to seek 'full understanding of issues' after FIVB suspension",
-    "desc": "The Philippine National Volleyball Federation (PNVF) said it has received the communication from the FIVB regarding its suspension by the international governing body and will “seek a full understanding of the issues” and the process moving forward.",
-    "image": "https://images.gmanews.tv/webpics/2026/05/319636827_518103877009319_1182699519190859971_n_2026_05_31_11_35_38.jpeg",
-    "source": "GMA Network"
+    "title": "Japanese cellist Kitamura wins 5th prize in Brussels contest",
+    "desc": "Kitamura, 22, played Russian composer Sergey Prokofiev's Symphony-Concerto and other works with the Belgian National Orchestra.",
+    "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/31/543435.jpg?v=3.1",
+    "source": "The Japan Times"
   },
   {
-    "title": "Toyota GR86 (AT) Review: My ‘Initial D’ Dream, Rewritten For Real Roads",
-    "desc": "This isn’t a car trying to be everything. It’s a car that reminds you why you started dreaming about sports cars in the first place.",
-    "image": "https://www.businesstoday.com.my/wp-content/uploads/2026/05/GR86-AT.jpg",
-    "source": "BusinessToday Malaysia"
+    "title": "Chan, 2 others in dead heat as JPGT hits crucial stretch",
+    "desc": "MEXICO, Pampanga – Aerin Chan, Ronee Dungca and Tyra Garingalao find themselves locked in a fierce, dead-heat battle for fifth place, injecting high drama...",
+    "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/31/105238.webp",
+    "source": "Manila Bulletin"
+  },
+  {
+    "title": "Infinix GT 50 Pro priced in the Philippines",
+    "desc": "Infinix just revealed the Philippine pricing of the upcoming Infinix GT 50 Pro ahead of its official launch on June...",
+    "image": "https://www.yugatech.com/wp-content/uploads/2026/05/053126-ygt-infnix-gt-5o-pro-upload.webp",
+    "source": "YugaTech"
+  },
+  {
+    "title": "Chad Gable unmasks following emotional AAA Noche de Los Grandes match",
+    "desc": "After an emotional back-and-forth match, it was Chad Gable who lost his mask at AAA Noche de los Grandes.",
+    "image": "https://www.f4wonline.com/wp-content/uploads/2026/05/HJnrbElXcAgpBJB.jpg",
+    "source": "F4W/WON"
+  },
+  {
+    "title": "Commissioner lauds Safe City monitoring for ensuring quick Eid cleanliness response",
+    "desc": "FAISALABAD  -  Commissioner Madam Musarrat Jabeen on Saturday praised the Safe City Command & Control Room for its effective real-time monitoring during",
+    "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+    "source": "The Nation (Pakistan )"
+  },
+  {
+    "title": "Australian researchers teach brain cells to play 'Doom'",
+    "desc": "Australian researchers have trained lab-grown brain cells on a silicon computer chip to play the nineties shooter game \"Doom\" and say they are just scratching the surface of what the neurons could be capable of doing.",
+    "image": "https://www.rte.ie/images/0024743a-1600.jpg",
+    "source": "RTE.ie"
+  },
+  {
+    "title": "The daunting Victor Wembanyama matchup among Knicks-Spurs NBA Finals storylines",
+    "desc": "As the Knicks make their first NBA Finals appearance since 1999, they’ll face the team they lost to that year after the Spurs defeated the Thunder.",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/crop-39537688.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post"
   }
 ]
