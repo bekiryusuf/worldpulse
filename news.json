@@ -1,62 +1,62 @@
 [
   {
-    "title": "NZ's $2.6 billion military helicopter purchase approved by US",
-    "desc": "The nearly 20-metre Seahawks require three crew, can reach speeds up to 333km/h, fly up to 963km and can carry up to 1500kg.",
-    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-government-last-august-announced-plans-to-purchase-five-TZ3EWXQAUBEWXGS2HYYZ4EQZJA.jpg?auth=6a1ac1ebfcdd12501a72b1b487a7a4eaaed4f6480cf16f1704ef7d7225aa0b06&quality=70&width=600&height=315&focal=431%2C176",
-    "source": "1News"
+    "title": "Monsoon on the move: Heavy rain hits South India despite El Nino conditions",
+    "desc": "The southwest monsoon continues its steady advance across India, bringing heavy rains to the south. Northern regions brace for gusty winds and thunderstorms today.",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/rain-and-storms-return-today-fresh-western-disturbance-to-hit-india-033407594-original_0-sixteen-to-nine.jpg?VersionId=Sux8ZYnv_Fwv_SQdUsrVe..6npZJ0XIP",
+    "source": "India Today"
   },
   {
-    "title": "MPD holds barangay forums to deepen community ties",
-    "desc": "The Manila Police District (MPD) has stepped up its community engagement efforts by conducting barangay-level forums aimed at strengthening coordination and...",
-    "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/06/106839.webp",
-    "source": "Manila Bulletin"
+    "title": "Man’s hand severed in alleged Sydney home invasion",
+    "desc": "A man has had his hand severed in a violent cash-motivated home invasion in Sydney’s south-west overnight.",
+    "image": "https://static.ffx.io/images/$zoom_0.2759%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/ddb4dd9d3ec6003a869627c445a8fffd531952d122097143b2e8dc89d69ad713",
+    "source": "Nine.com.au"
   },
   {
-    "title": "US and Iran trade fire in Strait of Hormuz",
-    "desc": "The US military says it has shot down four drones Iran has launched toward the Strait of Hormuz and struck some of Tehran's coastal surveillance radar sites in response.",
-    "image": "https://live-production.wcms.abc-cdn.net.au/82178afd1d4d15c0969a555ae43c9426?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-    "source": "Australian Broadcasting Corporation"
+    "title": "Major T20 reset on cards: Shreyas Iyer set for top job, Vaibhav Sooryavanshi in line for debut",
+    "desc": "Cricket News: MUMBAI: Indian cricket is set for a significant transition when the national selection committee, led by Ajit Agarkar, meets at the BCCI headquarters .",
+    "image": "https://static.toiimg.com/thumb/msid-131543346,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "source": "The Times of India"
   },
   {
-    "title": "DKU secretary seeks contempt action against six over alleged defiance of court order in Negri Sembilan royal dispute",
-    "desc": "SEREMBAN, June 6 — Dewan Keadilan dan Undang (DKU) secretary Raja Norazli Raja Nordin plans to initiate contempt of court proceedings against six individuals, including three...",
-    "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/06/344914.jpg",
-    "source": "Malay Mail"
+    "title": "Trump claims Iran has '21 to 22 per cent' of its missile arsenal remaining as tensions escalate",
+    "desc": "Speaking on the damage the United States has inflicted on Iran since the start of the war, President Donald Trump said that the West Asian nation's military capabilities have been 'severely degraded'",
+    "image": "https://images.firstpost.com/uploads/2026/05/iran2-2026-05-6c2d87a32100a1248ca9fe7e7d1f58e0.jpg?im=FitAndFill=(1200,675)",
+    "source": "Firstpost"
   },
   {
-    "title": "Stellar Blade Blood Rain Revealed With Debut Trailer",
-    "desc": "Cut to the chase.",
-    "image": "https://sm.ign.com/t/ign_ap/news/s/stellar-bl/stellar-blade-blood-rain-revealed-with-debut-trailer_wx9u.1200.jpg",
-    "source": "IGN Southeast Asia"
+    "title": "First precise genome editing of human embryos triggers praise and alarm",
+    "desc": "The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01827-8/d41586-026-01827-8_52515634.jpg",
+    "source": "Nature"
   },
   {
-    "title": "Astronauts take shelter during repair to fix leak on space station",
-    "desc": "The five astronauts moved into the SpaceX capsule that is docked at the station while cosmonauts worked to fix the leak, which is on the Russian side of the station.",
-    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/international-space-station-7YG4YN4V7RD3NLKCYKXSJC4JQY.jpg?auth=d7f83e6804925a6eb64076c19978460f90630bee1779e7c46070ce246a0d8798&quality=70&width=600&height=315&focal=648%2C404",
-    "source": "1News"
+    "title": "NVIDIA Launches RTX Spark Windows Laptops and PCs",
+    "desc": "NVIDIA and Microsoft introduced NVIDIA RTX Spark, a superchip for a new class of Windows laptops and compact desktops built for on-device AI agents, at NVIDIA GTC Taipei on May 31, 2026 (NVIDIA; Microsoft). Per NVIDIA, RTX Spark pairs a Blackwell RTX GPU (6,144 CUDA cores, fifth-generation Tensor Cores) with a 20-core NVIDIA Grace Arm CPU co-designed with MediaTek, linked by NVLink-C2C, plus up to 128GB of unified memory and up to 1 petaflop of AI compute at FP4 precision. NVIDIA says the platform can run 120-billion-parameter models with up to 1 million tokens of context locally, and adds new Windows security primitives and the NVIDIA OpenShell runtime for private agents. Adobe is rearchitecting Photoshop and Premiere for it. ASUS, Dell, HP, Lenovo, Microsoft Surface and MSI will ship RTX Spark laptops and desktops this fall, with Acer and GIGABYTE to follow (NVIDIA; WSJ; Tom's Hardware).",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/20260604_133039-1440x1920.jpg",
+    "source": "Let's Data Science"
   },
   {
-    "title": "Legendary Rock Tattoo Artist Greg James Dead at 71",
-    "desc": "Greg James -- the legendary tattoo artist whose work appeared on Ozzy Osbourne, members of Mötley Crüe and countless other rock stars -- has died, TMZ has learned.",
-    "image": "https://imagez.tmz.com/image/d0/16by9/2026/06/06/d05cc6215b7345c88fd3dfbfa3da14bc_xl.png",
-    "source": "TMZ"
-  },
-  {
-    "title": "She was a bit drunk when she met him at a party - Adele and Rich Paul’s relationship timeline",
-    "desc": "Explore Adele and Rich Paul's love story: from 2021 dating rumours to their 2024 engagement, and their journey of friendship and family amid public attention.",
-    "image": "https://cdn.legit.ng/images/1200x675/9610c4e371771320.jpeg?v=1",
-    "source": "Legit.ng"
-  },
-  {
-    "title": "TNT Tropang 5G evens up PBA Commissioner's Cup Finals against Barangay Ginebra",
-    "desc": "TNT has leveled the Commissioner's Cup Finals at 1-1 following a 102-94 win over Ginebra on Friday.",
-    "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0605%2Fr1668647_1296x729_16%2D9.jpg",
-    "source": "ESPN Philippines"
-  },
-  {
-    "title": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power",
-    "desc": "Elon Musk’s rocket company said Google would pay it $920 million a month, as it prepared for its initial public offering.",
-    "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-spacex-google-qzjh/05biz-spacex-google-qzjh-facebookJumbo.jpg",
+    "title": "Trump Greets Farmers in Wisconsin, but Says He Could Be Home Watching TV",
+    "desc": "President Trump was in Wisconsin to reassure farmers who have been stung by his tariff policies and rising fuel prices from the war in Iran.",
+    "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05dc-trump-kqjf/05dc-trump-kqjf-facebookJumbo.jpg",
     "source": "The New York Times"
+  },
+  {
+    "title": "Airlines gather in Rio to chart course as horizon darkens",
+    "desc": "Airline executives descend on Rio this weekend to weigh the prospects for an industry grappling with geopolitical turbulence, soaring fuel costs and travellers wary of chasing sky-high ticket prices.",
+    "image": "https://s.france24.com/media/display/19cbe088-614e-11f1-8895-005056a90284/w:1280/p:16x9/2eba3fce43f416fb67820376b0065ba5cf1e3f19.jpg",
+    "source": "France 24"
+  },
+  {
+    "title": "'Social supermarket' for Hamilton follows surge in food insecurity",
+    "desc": "An in-depth report shows Waikato has the highest proportion of people in the country suffering from food insecurity.",
+    "image": "https://media.rnztools.nz/rnz/image/upload/s--WF9M_4HG--/t_tohu-badge-facebook/v1775617789/4JQHLVW_getty_images_TIyXS6njQG4_unsplash_jpg?_a=BACCd2AD",
+    "source": "RNZ"
+  },
+  {
+    "title": "'Social supermarket' for Hamilton follows surge in food insecurity",
+    "desc": "An in-depth report shows the Waikato has the highest proportion of people in the country suffering from food insecurity.",
+    "image": "https://media.rnztools.nz/rnz/image/upload/s--WF9M_4HG--/t_tohu-badge-facebook/v1775617789/4JQHLVW_getty_images_TIyXS6njQG4_unsplash_jpg?_a=BACCd2AD",
+    "source": "RNZ"
   }
 ]
