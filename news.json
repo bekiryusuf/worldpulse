@@ -1,62 +1,62 @@
 [
   {
-    "title": "One Nation has six more months to raise uncapped political donations",
-    "desc": "Nobody can see detail of who donated what to Pauline Hanson’s party this financial year until February 1.",
-    "image": "https://static.ffx.io/images/$zoom_0.1406%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1fed9ef13ec1be9b4b85076c24298d902f91c89f",
-    "source": "The Age"
+    "title": "Autonomous pathfinding for underactuated AUVs using FDHNN",
+    "desc": "Autonomous Underwater Vehicles (AUVs) are increasingly pivotal in exploring and mapping environments, due to their autonomous pathfinding capabilities. Despite the development of various algorithms for this task, many do not adequately address the challenges posed by underactuation–a common characteristic of AUVs. Moreover, the constrained field of view inherent to sonar and visual sensors introduces additional directional limitations that complicate the detection process. To overcome these obstacles, we introduce an innovative trajectory planning method known as the Finite Direction Hopfield Neural Network (FDHNN). Our method employs eight directional neurons per grid cell with customized neural connection weights to create a path that caters to underactuated AUVs, ensuring adaptability in various aquatic environments and adherence to initial and terminal directional constraints. Complementing the global planning provided by FDHNN, we have refined the Dynamic Window Approach (DWA) for local maneuvering within the velocity domain. Simulation-based validation has underscored its robustness and superior performance, particularly when benchmarked against advanced algorithms such as dual deep Q-learning and Dubins paths. Our proposed trajectory planning method markedly improves the reliability of underactuated AUVs navigating with start and end directional limitations, offering substantial advancements in underwater detection and exploration.",
+    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "Nature"
   },
   {
-    "title": "RecipeTin Eats's Nagi introduces her new 'chief taste tester'",
-    "desc": "Nagi Maehashi, the founder of RecipeTin Eats, introduces her new canine companion Jaffle.",
-    "image": "https://live-production.wcms.abc-cdn.net.au/3b26b4cfb8939e58fc3d4800ab00bcbe?impolicy=wcms_watermark_news&cropH=365&cropW=648&xPos=0&yPos=67&width=862&height=485&imformat=generic",
-    "source": "Australian Broadcasting Corporation"
+    "title": "SACEM renews call for French AI copyright bill",
+    "desc": "The Society of Authors, Composers and Publishers of Music (SACEM) has renewed its call for the adoption of France’s proposed Darcos Bill, legislation that would place the burden on artificial intelligence developers to demonstrate that copyrighted works were not used to train their models in civil disputes.",
+    "image": "https://www.musicinafrica.net/sites/default/files/images/article/202606/frenchsenatorlauredarcos.jpg",
+    "source": "Music In Africa |"
   },
   {
-    "title": "Chinese national accused of offering $200 bribe to ICA officer at Woodlands Checkpoint",
-    "desc": "A man from China who was denied entry at Woodlands Checkpoint allegedly tried to bribe his way into the country.Lin Zekun, 34, purportedly offered $200 to an Immigration and Checkpoints Authority (ICA) officer at the checkpoint on May 18.At the State Courts on Thursday (June 11), Lin was charged with one count of offering a bribe under the Prevention of...",
-    "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jun2026/20250721_Corrupt%20Practices%20Investigation%20Bureau%20CPIB_NO%20CREDIT%20PLS.jpg?itok=AFIAU1J5",
-    "source": "AsiaOne"
+    "title": "Who are the Island Boys' parents? Examining their family history and viral journey to Tiktok fame",
+    "desc": "Who are the Island Boys' parents? Read on to discover their Cuban immigrant background, early family life, and how it shaped their viral rise in their internet fame",
+    "image": "https://cdn.tuko.co.ke/images/1200x675/256fa322c1e66fd4.jpeg?v=1",
+    "source": "Tuko News"
   },
   {
-    "title": "NBA Finals Takeaways: Anunoby delivers defining moment as Knicks near title",
-    "desc": "Officially, historically, the craziest NBA Finals game of all time.",
-    "image": "https://www.sportsnet.ca/wp-content/uploads/2026/06/Knicks.jpg",
-    "source": "Sportsnet.ca"
+    "title": "Concerns eased over injury to France’s Jules Koundé",
+    "desc": "Jules Koundé (27) was withdrawn at half-time during France’s 3-1 win over Northern Ireland in Lille on Monday, however, there is no concern regarding the Barcelona defender heading into the FIFA Wo...",
+    "image": "https://s.yimg.com/os/en/get_french_football_news_702/d722f20f6d8fe88e386762bcaf889cdd",
+    "source": "Yahoo Sports"
   },
   {
-    "title": "Court acquits doctor of outraging woman’s modesty",
-    "desc": "High Court rules that the magistrate’s amended charge prejudiced the doctor’s right to a fair trial.",
-    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/12/beee1d70-kompleks-mahkamah-kuantan-fb-011225-1.webp",
-    "source": "Free Malaysia Today"
-  },
-  {
-    "title": "Irish business leaders 'navigating an increasingly complex risk landscape'",
-    "desc": "Irish business leaders are becoming increasingly concerned about geopolitical instability, cyber threats and governance risks as they look towards the second",
-    "image": "https://businessplus.ie/wp-content/uploads/2026/06/business-leaders-LI.jpg",
-    "source": "businessplus.ie"
-  },
-  {
-    "title": "EPF to close all remittance counters from July 1",
-    "desc": "PETALING JAYA: The Employees Provident Fund (EPF) will close all remittance counters at its offices nationwide from July 1, 2026, as part of efforts to enhance service delivery through digital and alternative payment channels.",
-    "image": "https://apicms.thestar.com.my/uploads/images/2026/06/11/3953283.jpg",
+    "title": "No more ceasefire, again ... US strikes Iran as Tehran targets bases in Bahrain and Jordan",
+    "desc": "US helicopter crew rescued near Oman, but Trump's decision to retaliate adds new strain to already fragile peace efforts",
+    "image": "https://apicms.thestar.com.my/uploads/images/2026/06/11/3953067.jpg",
     "source": "thestar.com.my"
   },
   {
-    "title": "Peter Obi, Kwankwaso’s move to NDC did not happen overnight",
-    "desc": "National Leader of the Nigeria Democratic Congress, NDC, Seriake Dickson, says the movement of Peter Obi and Rabi'u Kwankwaso into the party did not",
-    "image": "https://dailypost.ng/wp-content/uploads/2026/05/Seriake-Dickson.jpg",
-    "source": "Daily Post Nigeria"
+    "title": "Meta starts unwinding Manus deal by splitting operations, data",
+    "desc": "Meta Platforms Inc has completed an operational split from Manus and halted data sharing between the two companies, taking a pivotal step towards unwinding a US$2 billion (RM8.14 billion) acquisition opposed by Beijing.",
+    "image": "https://assets.theedgemarkets.com/manus_20260611162959_Bloomberg.jpg",
+    "source": "The Edge Malaysia"
   },
   {
-    "title": "immigration figures seizing on outrage at Northern Ireland stabbing to drive people towards cause",
-    "desc": "Billionaire Elon Musk and far-right activist Tommy Robinson have seized upon the alleged stabbing of a man in Belfast by a Sudanese immigrant to push an anti-immigration agenda.",
-    "image": "https://live-production.wcms.abc-cdn.net.au/5abdac9053cc01dc13fcc0327a69b195?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "source": "Australian Broadcasting Corporation"
+    "title": "Child online safety comes into focus amid increasing screen use",
+    "desc": "Apple’s WWDC 2026 updates introduce powerful new child safety tools, including \\\"Ask to Browse,\\\" flexible Time Allowances, and expanded Communication Safety to help parents create safer digital experiences.",
+    "image": "https://assets.thehansindia.com/h-upload/2026/06/11/1664326-chils.jpg",
+    "source": "The Hans India"
   },
   {
-    "title": "CTG Opens Global Ebola Response Roster for Emergency Health and Humanitarian Professionals",
-    "desc": "CTG, a leading provider of humanitarian and development staffing solutions, has announced the establishment of its Ebola Response Roster for 2027. The",
-    "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2025/09/GlobalSouthOpportunities-IconicMark-RGB-FullColor.png?fit=32%2C32&ssl=1",
-    "source": "Global South Opportunities"
+    "title": "AI mega-listings 'just the start,' Razer CEO says, ahead of SpaceX IPO",
+    "desc": "Blockbuster public offerings from AI companies could be an enduring feature of the industry, Razer CEO Min-Liang Tan said Thursday, ahead of several mega IPOs.",
+    "image": "https://image.cnbcfm.com/api/v1/image/108320054-1781157751886-GamingxAI-260611-100125-PA1_4918.jpg?v=1781157862&w=1920&h=1080",
+    "source": "CNBC"
+  },
+  {
+    "title": "Why family still matters in women’s empowerment",
+    "desc": "DODOMA: ACROSS Tanzania, more women are starting businesses, accessing loans, joining economic empowerment groups and taking on leadership roles in their communities. This progress is transforming lives, boosting household incomes and contributing to national development. Yet as women continue to break barriers economically, another important conversation is gaining attention, how can women pursue financial independence",
+    "image": "https://dailynews.co.tz/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-11.32.51.jpeg",
+    "source": "dailynews.co.tz"
+  },
+  {
+    "title": "Over 70 remanded in Daya Kerjaya false claims case",
+    "desc": "KUALA LUMPUR: Over 70 individuals, including agents and company owners, have been remanded over fraudulent claims of RM9mil involving the Daya Kerjaya 2.0 employment incentive programme.",
+    "image": "https://apicms.thestar.com.my/uploads/images/2026/06/11/3953740.jpg",
+    "source": "The Star"
   }
 ]
