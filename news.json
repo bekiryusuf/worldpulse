@@ -1,62 +1,62 @@
 [
   {
-    "title": "Autonomous pathfinding for underactuated AUVs using FDHNN",
-    "desc": "Autonomous Underwater Vehicles (AUVs) are increasingly pivotal in exploring and mapping environments, due to their autonomous pathfinding capabilities. Despite the development of various algorithms for this task, many do not adequately address the challenges posed by underactuation–a common characteristic of AUVs. Moreover, the constrained field of view inherent to sonar and visual sensors introduces additional directional limitations that complicate the detection process. To overcome these obstacles, we introduce an innovative trajectory planning method known as the Finite Direction Hopfield Neural Network (FDHNN). Our method employs eight directional neurons per grid cell with customized neural connection weights to create a path that caters to underactuated AUVs, ensuring adaptability in various aquatic environments and adherence to initial and terminal directional constraints. Complementing the global planning provided by FDHNN, we have refined the Dynamic Window Approach (DWA) for local maneuvering within the velocity domain. Simulation-based validation has underscored its robustness and superior performance, particularly when benchmarked against advanced algorithms such as dual deep Q-learning and Dubins paths. Our proposed trajectory planning method markedly improves the reliability of underactuated AUVs navigating with start and end directional limitations, offering substantial advancements in underwater detection and exploration.",
-    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
+    "title": "So Far, Only 3 Movies From 2026 Have What It Takes To Become Classics",
+    "desc": "Six months into 2026, we already have a precious few movies that have everything to become future classics, including Obsession and Project Hail Mary.",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/i-love-boosters-eiza-gonz-lez.jpg?w=1600&h=900&fit=crop",
+    "source": "Collider"
   },
   {
-    "title": "SACEM renews call for French AI copyright bill",
-    "desc": "The Society of Authors, Composers and Publishers of Music (SACEM) has renewed its call for the adoption of France’s proposed Darcos Bill, legislation that would place the burden on artificial intelligence developers to demonstrate that copyrighted works were not used to train their models in civil disputes.",
-    "image": "https://www.musicinafrica.net/sites/default/files/images/article/202606/frenchsenatorlauredarcos.jpg",
-    "source": "Music In Africa |"
+    "title": "Woman charged with hate crime after protest at asylum hotel",
+    "desc": "Another two men were arrested over anti-social behaviour near the Holiday Inn Express in Greenock.",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0fc/live/3653f280-65a0-11f1-be69-abd429215428.jpg",
+    "source": "BBC"
   },
   {
-    "title": "Who are the Island Boys' parents? Examining their family history and viral journey to Tiktok fame",
-    "desc": "Who are the Island Boys' parents? Read on to discover their Cuban immigrant background, early family life, and how it shaped their viral rise in their internet fame",
-    "image": "https://cdn.tuko.co.ke/images/1200x675/256fa322c1e66fd4.jpeg?v=1",
-    "source": "Tuko News"
+    "title": "SpaceX IPO Targets June 2026 After SEC Filing",
+    "desc": "SpaceX is targeting a 12 June 2026 IPO, with investor demand, retail allocation, governance scrutiny, Starlink growth and valuation among the main factors likely to shape market interest.",
+    "image": "https://img.capital.com/imgs/articles/1200x627x1/shutterstock_2699223647_under200kb.webp",
+    "source": "Capital.com"
   },
   {
-    "title": "Concerns eased over injury to France’s Jules Koundé",
-    "desc": "Jules Koundé (27) was withdrawn at half-time during France’s 3-1 win over Northern Ireland in Lille on Monday, however, there is no concern regarding the Barcelona defender heading into the FIFA Wo...",
-    "image": "https://s.yimg.com/os/en/get_french_football_news_702/d722f20f6d8fe88e386762bcaf889cdd",
-    "source": "Yahoo Sports"
+    "title": "Govt pushes for increased research funding to drive innovation",
+    "desc": "The Government is stepping up efforts to boost funding for research, technology, and innovation as part of its agenda to drive economic growth and sustainable development.",
+    "image": "https://www.kbc.co.ke/wp-content/uploads/2026/06/IMG-20260611-WA0003.jpg",
+    "source": "KBC Digital"
   },
   {
-    "title": "No more ceasefire, again ... US strikes Iran as Tehran targets bases in Bahrain and Jordan",
-    "desc": "US helicopter crew rescued near Oman, but Trump's decision to retaliate adds new strain to already fragile peace efforts",
-    "image": "https://apicms.thestar.com.my/uploads/images/2026/06/11/3953067.jpg",
-    "source": "thestar.com.my"
+    "title": "Belfast accused given asylum under 'fast",
+    "desc": "No face-to-face interview",
+    "image": "https://gript.ie/wp-content/uploads/2026/06/Screenshot_20260609_083509_X-scaled-e1780990803908.jpg",
+    "source": "Gript"
   },
   {
-    "title": "Meta starts unwinding Manus deal by splitting operations, data",
-    "desc": "Meta Platforms Inc has completed an operational split from Manus and halted data sharing between the two companies, taking a pivotal step towards unwinding a US$2 billion (RM8.14 billion) acquisition opposed by Beijing.",
-    "image": "https://assets.theedgemarkets.com/manus_20260611162959_Bloomberg.jpg",
-    "source": "The Edge Malaysia"
+    "title": "Red Bull queries ADUO ranking as FIA pledges to review results",
+    "desc": "The FIA will review the results of its ADUO rankings in the wake of a clarification request from Red Bull, The Race can reveal",
+    "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/06/XPB_1414220_HiRes.jpg",
+    "source": "The Race"
   },
   {
-    "title": "Child online safety comes into focus amid increasing screen use",
-    "desc": "Apple’s WWDC 2026 updates introduce powerful new child safety tools, including \\\"Ask to Browse,\\\" flexible Time Allowances, and expanded Communication Safety to help parents create safer digital experiences.",
-    "image": "https://assets.thehansindia.com/h-upload/2026/06/11/1664326-chils.jpg",
-    "source": "The Hans India"
+    "title": "‘Deploy cattle vaccine and DIVA test by 2030’ - bTB blueprint",
+    "desc": "Science-led steering group of vets, farmers, scientists and academics sets out measures to eradicate TB on England by 2038.",
+    "image": "https://www.vettimes.com/favicon.ico",
+    "source": "Vet Times"
   },
   {
-    "title": "AI mega-listings 'just the start,' Razer CEO says, ahead of SpaceX IPO",
-    "desc": "Blockbuster public offerings from AI companies could be an enduring feature of the industry, Razer CEO Min-Liang Tan said Thursday, ahead of several mega IPOs.",
-    "image": "https://image.cnbcfm.com/api/v1/image/108320054-1781157751886-GamingxAI-260611-100125-PA1_4918.jpg?v=1781157862&w=1920&h=1080",
+    "title": "SpaceX IPO is Musk ‘referendum,' say market watchers",
+    "desc": "Friday's hotly anticipated SpaceX market debut could prove a defining moment for capital markets — and serve as a \"referendum\" on Elon Musk's leadership.",
+    "image": "https://image.cnbcfm.com/api/v1/image/108310152-1779310539814-gettyimages-2216843063-ELON_MUSK.jpeg?v=1780061779&w=1920&h=1080",
     "source": "CNBC"
   },
   {
-    "title": "Why family still matters in women’s empowerment",
-    "desc": "DODOMA: ACROSS Tanzania, more women are starting businesses, accessing loans, joining economic empowerment groups and taking on leadership roles in their communities. This progress is transforming lives, boosting household incomes and contributing to national development. Yet as women continue to break barriers economically, another important conversation is gaining attention, how can women pursue financial independence",
-    "image": "https://dailynews.co.tz/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-11.32.51.jpeg",
-    "source": "dailynews.co.tz"
+    "title": "DP Kindiki assures Kenyans of swift action on femicide, missing children cases",
+    "desc": "The DP said action has already been taken as recommended by the Presidential Technical Working Group on Gender-Based Violence and Femicide that was established by President Ruto last year as more extensive measures are fast-tracked through Cabinet and Parliament.",
+    "image": "https://assets.citizen.digital/170179/conversions/55e1229d-b52c-4ae5-8b79-01e0363e6c00_WhatsApp-Image-2026-06-11-at-13.26.36-og_image.webp",
+    "source": "Citizen Digital"
   },
   {
-    "title": "Over 70 remanded in Daya Kerjaya false claims case",
-    "desc": "KUALA LUMPUR: Over 70 individuals, including agents and company owners, have been remanded over fraudulent claims of RM9mil involving the Daya Kerjaya 2.0 employment incentive programme.",
-    "image": "https://apicms.thestar.com.my/uploads/images/2026/06/11/3953740.jpg",
-    "source": "The Star"
+    "title": "'Doctor Who' Set To Be Off Air For Years Amid Creative Regeneration",
+    "desc": "'Doctor Who' is famed for having powers of regeneration, but the Time Lord's next transformation for the BBC could well be the most challenging yet.",
+    "image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg?w=1024",
+    "source": "Deadline"
   }
 ]
