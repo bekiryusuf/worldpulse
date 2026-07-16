@@ -1,62 +1,62 @@
 [
   {
-    "title": "World Cup 2026: England star Jude Bellingham slaps Argentina substitute Barco",
-    "desc": "Jude Bellingham sparks melee as he slaps Argentina substitute Valentin Barco on the back of the head following England's 2-1 World Cup semi-final defeat.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd04/live/6ce52a20-80e5-11f1-b976-0b9c15b0ccfc.jpg",
+    "title": "Texas Flash Flood Emergencies: 'Large and deadly flood waves' race downstream",
+    "desc": "Relentless, life-threatening flash flooding is ongoing across parts of Texas' Hill Country as the National Weather Service (NWS) issued a series of warnings from before dawn through Thursday morning about \"large and deadly flood waves\" moving down major rivers in the region, including the Guadalupe.",
+    "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/07/1024/512/screenshot-2026-07-15-115100.png?ve=1&tl=1",
+    "source": "FOX Weather"
+  },
+  {
+    "title": "Tower Transit, LTA defend bus captain berated by passenger: 'Required to keep to planned schedules'",
+    "desc": "A bus captain scolded by a passenger for \"driving at your own pace\" was complying with a planned schedule and had done no wrong, said bus operator Tower Transit and the Land Transport Authority (LTA).Addressing the viral complaint in a Facebook post on Wednesday (July 15), LTA said bus captains are \"required to regulate their speeds and keep to planned...",
+    "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/tower-transit-bus-captain-scolded-lta.jpg?itok=s6UG0TMo",
+    "source": "AsiaOne"
+  },
+  {
+    "title": "Police warn of scam using fake GST Voucher Telegram messages to hijack accounts",
+    "desc": "Victims are tricked into disclosing personal information and Telegram verification codes after clicking bogus links to check their eligibility for the Goods and Services Tax Voucher scheme.",
+    "image": "https://dam.mediacorp.sg/image/upload/s--qdTGBPFY--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/16/imgonline-com-ua-frameblurred-wlyds0rtrjaaqr.jpg?itok=GLYwmvkL",
+    "source": "CNA"
+  },
+  {
+    "title": "Sharjeel Memon urges Fazlur Rehman to withdraw remarks on armed forces, martyrs",
+    "desc": "Says political parties may disagree with govts and institutions, but should avoid remarks hurting martyrs’ families",
+    "image": "https://i.tribune.com.pk/media/images/untitled-design-2026-07-16t135444-0261784192174-0/untitled-design-2026-07-16t135444-0261784192174-0-640x480.webp",
+    "source": "The Express Tribune"
+  },
+  {
+    "title": "David Bowie: Ten unheard tracks from singer's early career to be released",
+    "desc": "The previously unheard tracks from the 1960s were recorded when Bowie went by the stage name Davie Jones.",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/940a/live/c5165430-80ef-11f1-bee8-53ce494e1abc.jpg",
     "source": "BBC"
   },
   {
-    "title": "Pakistan resists UK attempts to deport grooming gang leader Shabir Ahmed",
-    "desc": "The government of Pakistan says it has \"no connection whatsoever\" with the case of Shabir Ahmed.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a105/live/4d7551d0-7486-11f1-8e1d-bbbb1017d210.jpg",
+    "title": "Kenya: UNODC Partners With Ombudsman On Kenya's First State of Openness Report",
+    "desc": "Kenya's first State of Openness Report will be developed through a partnership between the Commission on Administrative Justice (Office of the Ombudsman) and the United Nations Office on Drugs and Crime (UNODC), in a move aimed at strengthening transparency and access to information across the public sector.",
+    "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+    "source": "allAfrica.com"
+  },
+  {
+    "title": "Expansion of Irish rail network could be impacted due to failed €50m Irish Rail IT project",
+    "desc": "Recent testing of the software by Irish Rail finds it is ‘not suitable’ for rollout.",
+    "image": "https://img2.thejournal.ie/article/7103615/river/?height=400&version=7103760",
+    "source": "The Journal"
+  },
+  {
+    "title": "Back to School deals on Macs and iPads",
+    "desc": "Apple has launched an unusually limited Back to School series of deals and they are not to be dismissed, but there are far greater discounts to be had from other resellers.",
+    "image": "https://photos5.appleinsider.com/gallery/67772-143897-000-lead-Back-to-School-xl.jpg",
+    "source": "AppleInsider"
+  },
+  {
+    "title": "U.K. urges FIFA to investigate Argentina after players brandish Falklands banner at World Cup",
+    "desc": "LONDON — The British government on Thursday urged soccer’s international governing body to investigate Argentina’s team after players posed with a banner claiming sovereignty over the contested Falkland Islands.",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260716-argentina-malvinas-mb-0910-804e9e.jpg",
+    "source": "NBC News"
+  },
+  {
+    "title": "Airline proposes to cut 500 jobs under cost cutting plan",
+    "desc": "The company proposes cutting 290 roles in its head office, along with 140 cabin roles and 70 pilots.",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8c17/live/edde94f0-fc3c-11f0-851f-553096e4fe99.jpg",
     "source": "BBC"
-  },
-  {
-    "title": "A hybrid vision-language artistic images aesthetic evaluation framework based on cross-modal attention and differential evolution",
-    "desc": "Aesthetic evaluation of artistic images remains a challenging prediction problem, constrained by the subjective nature of human aesthetic cognition and the complex interplay between low-level visual structures and high-level semantic characteristics. In terms of model construction, the major bottleneck is to establish discriminative representations that can sufficiently model nonlinear dependencies across diverse heterogeneous modalities. In this paper, we propose VPT-IAA, a unified vision–language framework that formulates artistic aesthetic assessment as a cross-modal representation learning problem with explicit interaction modeling. The visual modality is encoded through a permutation-based feature transformation that enables structured aggregation of spatial information across multiple dimensions, while structured multi-dimensional aesthetic attribute descriptions are automatically generated by a MiniCPM-V multimodal large language model pipeline that decomposes artistic appreciation into seven independent dimensions across four hierarchical perception layers, and these descriptions are subsequently embedded using a task-oriented Transformer encoder to obtain attribute-consistent textual representations. To model cross-modal dependencies, we introduce a three-pathway attention mechanism that establishes complementary query–key–value interactions between visual and textual features, yielding a coupled representation space. In addition, bilinear pooling is employed to characterize second-order correlations between modalities, allowing the model to capture higher-order aesthetic relationships. Model hyperparameters are optimized via differential evolution to enhance stability and robustness. Experimental evaluation on the LAPIS dataset demonstrates that the proposed formulation achieves accurate and consistent aesthetic prediction, attaining an MAE of 1.796 and PC of 0.9827–representing a 15.8% reduction in MAE relative to the second-best method AesExpert and a 68.6% reduction relative to CNN-based baselines. Further analyses indicate that explicit cross-modal interaction modeling plays a dominant role in performance improvement, and the proposed framework maintains stable behavior across a wide range of artistic styles, including both representational and abstract artworks.",
-    "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
-  },
-  {
-    "title": "AI now mediates a third of scholarly information discovery, study finds",
-    "desc": "Phase 1 of Taming the Crocodile study includes analysis and a recommendations for publishers, librarians and technology providers",
-    "image": "https://www.researchinformation.info/wp-content/uploads/2026/03/shutterstock_2681357903.jpeg",
-    "source": "Research Information"
-  },
-  {
-    "title": "TV chef shares hospital bed update and says ‘f*** the vapes’ after undergoing £20k medical procedure",
-    "desc": "TV CHEF Shane Rigney has shared a hospital bed update and declared \"f*** the vapes\" after undergoing a £20k medical procedure.\nThe Irish star...",
-    "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/bed-op-jk.jpg?quality=90&strip=all&1784194446&w=1920&h=1080&crop=1",
-    "source": "The Irish Sun"
-  },
-  {
-    "title": "LIGHTS ON! UEDCL Begins Massive Shs16Bn Nkenda-Ishaka Power Upgrade to End Blackouts in Kasese, Bushenyi & Rubirizi",
-    "desc": "The Uganda Electricity Distribution Company Limited (UEDCL) has commenced the refurbishment of the Nkenda–Ishaka distribution...",
-    "image": "https://redpepper.co.ug/wp-content/uploads/2026/07/1009063709.jpg",
-    "source": "redpepper.co.ug"
-  },
-  {
-    "title": "Climate crisis threatens Asia’s fight to eliminate tuberculosis",
-    "desc": "JAKARTA: Health experts have called for faster tuberculosis prevention and response efforts, warning that the climate crisis could increase people's vulnerability to the disease and complicate efforts to eliminate it, particularly in high-burden Asian countries such as Indonesia.",
-    "image": "https://apicms.thestar.com.my/uploads/images/2026/07/16/4013926.jpg",
-    "source": "The Star"
-  },
-  {
-    "title": "Blood ketone threshold may help predict weight loss success",
-    "desc": "Achieving and sustaining a blood ketone level of 0.5 mmol/L is crucial for weight loss in ketogenic diets, offering a new approach to dietary monitoring.",
-    "image": "https://www.news-medical.net/images/news/ImageForNews_842629_17841905822212241.jpg",
-    "source": "News-Medical"
-  },
-  {
-    "title": "Benjamin Netanyahu postpones trip to Washington for Lindsey Graham's funeral",
-    "desc": "Previously, Netanyahu had been set to fly to Washington on Saturday night to attend former senator Lindsey Graham's funeral and to meet with US President Donald Trump.",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729900",
-    "source": "The Jerusalem Post"
-  },
-  {
-    "title": "NRL live updates: Penrith Panthers vs Brisbane Broncos - blog and scores",
-    "desc": "The Penrith Panthers and Brisbane Broncos have won the past five NRL premierships between them, but their 2026 campaigns could not be any different. Follow live.",
-    "image": "https://live-production.wcms.abc-cdn.net.au/d666694389715bdf9848195d4ea22d4e?impolicy=wcms_watermark_news&cropH=2719&cropW=4833&xPos=0&yPos=361&width=862&height=485&imformat=generic",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation"
   }
 ]
