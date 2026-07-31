@@ -1,62 +1,62 @@
 [
   {
-    "title": "Eala eyes repeat against world No. 10 Svitolina in DC Open quarters; battle of top Asians looms",
-    "desc": "A courageous victory deserves an encore.That will be Alex Eala’s battle cry when she collides with world No. 10 Elina Svitolina of Ukraine in the quarterfinal...",
-    "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/31/120155.webp",
-    "source": "Manila Bulletin"
+    "title": "South Africa is better placed for looming El Niño, experts say",
+    "desc": "Record grain harvests and improved soil moisture could help cushion South Africa against the expected effects of a severe El Niño.",
+    "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/Drought-maize-farm-scaled.jpg",
+    "source": "The Citizen"
   },
   {
-    "title": "Cardiorenal and survival outcomes of GLP-1 receptor agonist and SGLT-2 inhibitor therapy in diabetic kidney disease: two stage-stratified real-world comparisons",
-    "desc": "The comparative effectiveness of GLP-1 receptor agonists (GLP-1 RA) and SGLT-2 inhibitors (SGLT-2i), alone or in combination, for kidney protection in chronic kidney disease (CKD) remains unclear in real-world practice. We conducted a retrospective cohort study using the TriNetX global network from inception to up 11th July 2025 including 736,212 adults with diabetes and CKD. We performed two separate, pre-specified comparisons stratified by baseline kidney function, each using 1:1 propensity score matching and each with its own comparator: in the preserved eGFR cohort, GLP-1 RA + SGLT-2i combination therapy versus SGLT-2i monotherapy (n = 142,372); and in the advanced CKD cohort, GLP-1 RA monotherapy versus standard care without either agent (n = 103,820). The two cohorts were analyzed independently and were not compared with each other; combination therapy was not evaluated in the advanced CKD cohort. Primary outcomes were major adverse kidney events (MAKE) and all-cause mortality. In the preserved eGFR cohort, combination therapy reduced MAKE by 27% (HR 0.73, 95% CI 0.69–0.77) and all-cause mortality by 46% (HR 0.54, 95% CI 0.50–0.58) compared to SGLT-2i monotherapy. The number needed to treat was 94 for MAKE prevention and 90 for mortality reduction. Combination therapy preserved 2.6 mL/min/1.73m2 more eGFR at five years. In the advanced CKD cohort, GLP-1 RA monotherapy reduced all-cause mortality by 19% (HR 0.81, 95% CI 0.78–0.84) and major adverse cardiovascular events by 8% (HR 0.92, 95% CI 0.88–0.95) compared to standard care. Benefits were consistent across all subgroups (p-interaction = 0.18). Safety profiles favored GLP-1 RA-containing regimens with reduced amputation and pancreatitis risks. In two separate stage-stratified comparisons, GLP-1 RA plus SGLT-2i combination therapy was associated with greater kidney protection and lower mortality than SGLT-2i monotherapy in patients with preserved eGFR, and GLP-1 RA monotherapy was associated with lower mortality and fewer cardiovascular events than standard care in patients with advanced CKD. Because the two cohorts used different comparators and were not compared directly, these findings should not be interpreted as a single comparison of combination versus monotherapy across all stages of CKD.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "nature.com"
+    "title": "Tanning is getting hot again. Here’s what it really does to your skin.",
+    "desc": "Nichole Sims started using a tanning bed at 15 because she said everyone around her was doing it. Eight years later, she was diagnosed with melanoma — a skin cancer.",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-tanning-rs-ce9137.jpg",
+    "source": "NBC News"
   },
   {
-    "title": "Trans-stenotic pressure drop estimation from PC-MRI and ultrasound imaging velocimetry using a modified Bernoulli equation",
-    "desc": "Accurate non-invasive estimation of trans-stenotic pressure drops remains a challenge. In clinical practice, pressure drops are often estimated from velocity measurements using Bernoulli-based formulas, but these simplified relations do not explicitly account for how pressure losses change with the flow regime. Here, we introduce a modified Bernoulli (MB) formulation that incorporates regime-dependent pressure losses through a Reynolds-number-dependent loss coefficient. Steady in-vitro experiments were performed in an idealized stenosis model over physiologically relevant flow rates (0.65–3.9 L/min), combining direct pressure measurements with ultrasound imaging velocimetry (UIV) and phase-contrast magnetic resonance imaging (PC-MRI) to measure velocities. The MB model was calibrated from the measured pressure drops and then evaluated against the simplified Bernoulli (SB) and extended Bernoulli (EB) formulations. Over the tested flow regime, MB agreed best with the measurements (typically within about ±10% ). SB and EB showed larger biases, with errors of roughly 10–55% (SB) and -15 to 25%−(EB), and overestimated the pressure drop in the clinically relevant range. We additionally quantified the effect of PC-MRI in-plane pixel size on MRI-based pressure estimates. Coarse in-plane pixel size of 1.33 mm, corresponding to only approximately 3–4 pixels across the 3.3 mm throat radius of the 6.6 mm stenosis throat, led to systematic underestimation of flow rate and bulk velocity (about − 34 to − 44%) and, consequently, of the MB-predicted pressure drop (about − 52 to − 62%). In contrast, the peak throat velocity was substantially less sensitive to pixel size, resulting in smaller estimation errors (about − 13 to − 18.7%) when used as input for the MB. Overall, the results demonstrate that accounting for flow-regime-dependent loss mechanisms enhances pressure drop estimation, and that sufficient sampling of the stenotic throat is crucial for MRI-based flow rate and pressure drop estimation. In addition, peak-velocity-based MB pressure drop estimations are less sensitive to pixel size.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
+    "title": "BP puts North Sea oil and gas business up for sale",
+    "desc": "Move will end six decades of production in area, as new CEO tries to simplify firm and cut debt",
+    "image": "https://i.guim.co.uk/img/media/2f9871761aba480fc8aef48dedda5f5ea0fb100b/483_270_2510_2010/master/2510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be5d8f261fc3efb471901954daf5b432",
+    "source": "The Guardian"
   },
   {
-    "title": "Simulation of fusion neutron spectra from D-D and D-T thermonuclear fusion",
-    "desc": "Investigating the neutron spectra produced by thermonuclear fusion reactions D(d, n)3He and T(d, n)4He, which will power the future fusion reactors, is a critical factor in improving the performance of fusion reactors. Experimentally, it is extremely difficult to measure the neutron spectrum of each fusion reaction independently and simultaneously. Hence, accurate theoretical calculations of the fusion neutron spectra are required. Monte Carlo technique is the ideal method for achieving such calculations. In classical physics, initiating the fusion of hydrogen isotope ions requires energy to overcome the Coulomb repulsion (at least 100 keV/ion). However, the quantum tunneling effect allows thermonuclear fusion of hydrogen isotopes to occur at energies around 1.0 keV. Future fusion reactors will operate at temperatures ranging from 100 to 150 million kelvin (≈ 8.6–12.9 keV). After comparing a set of Monte Carlo codes commonly used to simulate nuclear fusion, it was found that the MCUNED code can reproduce the experimentally measured neutron spectrum of the D-D thermonuclear fusion at approximately 1.0 keV. It also predicts the D-T thermonuclear fusion spectrum resulting from inertial confinement fusion (ICF). Also, analytical models that don’t require approximations in their derivation can calculate fusion neutron spectra from D-D and D-T thermonuclear fusion.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
+    "title": "Prabowo revives plans for trans-Sumatra, Kalimantan railways",
+    "desc": "JAKARTA: President Prabowo Subianto has revived plans for a trans-Sumatra rail network, connecting Bakauheni in the southern province of Lampung with Banda Aceh in the island's north, as part of the government's broader push to strengthen national rail connectivity.",
+    "image": "https://apicms.thestar.com.my/uploads/images/2026/07/31/4037024.jpg",
+    "source": "The Star"
   },
   {
-    "title": "Tecno teases Borderless Concept phone with 0mm display bezels",
-    "desc": "The concept phone will be showcased at IFA 2026. Smartphones with ultra-thin bezels have been around for years, but a truly bezelless display has remained...",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/07/tecno-next-gen-bezelless-concept-phone/-952x498w6/gsmarena_00.jpg",
-    "source": "GSMArena.com"
+    "title": "Michelin-starred chef criticises ‘evil’ pub guests whose dogs ‘attacked chickens’ as children wrecked coop",
+    "desc": "Adam Handling critcised the parents of ‘selfish little brats’",
+    "image": "https://s.yimg.com/lo/mysterio/api/6ad96d1f993b69e9f2aa58217118bce6ba524c6f99dd2efeda0252d31986762c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F12bb29e30eaa925e9375292f5edd1539",
+    "source": "Yahoo News UK"
   },
   {
-    "title": "Richard James Cunningham",
-    "desc": "Welshpool, Belcarra, Castlebar, Co. Mayo and formerly of Manchester, England – peacefully at Mayo University Hospital, Castlebar on 30th July 2026, surrounded by his loving family after a brave battle with illness. Predeceased by his father Pat and nephew Oliver, also grandparents from the Cunningham and Evans families. He will be forever loved and always",
-    "image": "https://www.midwestradio.ie/wp-content/uploads/2026/07/Richard-James-Cunningham.jpg",
-    "source": "Midwest Radio"
+    "title": "National monument 38 Oxley Road acquired by Government",
+    "desc": "The Government has formally acquired the national monument at 38 Oxley Road, the former home of Lee Kuan Yew, to be developed into a public space. Read more at straitstimes.com.",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4503095d0267755a30e876cf40a0a51864bfc9383bd37c0513c263ac937450ed",
+    "source": "The Straits Times"
   },
   {
-    "title": "Six Fijians found clinging to planks of wood after 36 hours lost at sea",
-    "desc": "Six Fiji health workers survive a harrowing ordeal at sea thanks to a former classmate of one of the survivors.",
-    "image": "https://live-production.wcms.abc-cdn.net.au/4dd3f7150e87e4b32606c10c918fcf47?impolicy=wcms_watermark_news&cropH=442&cropW=786&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+    "title": "EMTL Swings to 28.2 bln Birr Profit as Cargo Volumes Rise 27%",
+    "desc": "The Ethiopian Maritime Transport and Logistics Enterprise (EMTL) returned to profitability in the 2025/26 fiscal year, posting a pre-tax profit of 28.2",
+    "image": "https://birrmetrics.com/wp-content/uploads/2026/07/Untitled-design-52-1.jpg",
+    "source": "Birr Metrics"
   },
   {
-    "title": "'My father was almost lynched near Jantar Mantar stage': Kin of Delhi cops injured during protest",
-    "desc": "Families of the injured Delhi Police personnel said that the suffering faced by them had been ignored amid allegations of police brutality against students. | India News",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/07/31/1600x900/logo/delhi_police_1785479967043_1785479997623_92f50c07-5dfc-40d9-b4d9-6ece2a1b51e3_1785480051719_03d21719-1e4b-4ae0-894d-408d9db6d08a.jpeg",
-    "source": "Hindustan Times"
+    "title": "American Diabetes Association is sending wrong message",
+    "desc": "Nine years ago, Adam Marcus and Ivan Oransky gave the American Diabetes Association their ‘Doing the Right Thing’ award. Things have changed at the ADA.",
+    "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_954580827-1024x576.jpeg",
+    "source": "STAT"
   },
   {
-    "title": "Where were Ben Lerner and Amitav Ghosh? The biggest Booker longlist snubs",
-    "desc": "The Booker Prize longlist has landed, but it is the omissions causing the loudest chatter, from Ben Lerner and Julian Barnes to Ann Patchett and Maggie O'Farrell",
-    "image": "https://images.indianexpress.com/2026/07/Book-snubs-1.jpg",
-    "source": "The Indian Express"
+    "title": "FDA is misapplying tools meant to speed rare disease cures",
+    "desc": "As Congress considers FDA reforms to accompany reauthorization of the Prescription Drug User Fee Act, it should prioritize rare disease cures.",
+    "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_277196711-1024x576.jpeg",
+    "source": "STAT"
   },
   {
-    "title": "Tecno teases a bezelless concept phone.",
-    "desc": "The company that showed off a working modular concept phone at MWC is teasing a bezelless concept for the IFA show in September. It looks nice, and attracts attention, but don’t expect to buy it (from Tecno) anytime soon.\n[Media: https://www.youtube.com/watch?v=T92M5BkXD-k]",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-    "source": "The Verge"
+    "title": "Element Pictures Names Chris Duggan Communications and Marketing Head",
+    "desc": "Irish production company Element Pictures has appointed its first in-house head of communications and marketing",
+    "image": "https://variety.com/wp-content/uploads/2026/07/Chris-Duggan.jpeg?w=1000&h=563&crop=1",
+    "source": "Variety"
   }
 ]
