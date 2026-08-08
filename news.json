@@ -1,62 +1,62 @@
 [
   {
-    "title": "Leylah Fernandez posts upset win over Russia's Mirra Andreeva in National Bank Open 3rd round",
-    "desc": "A down season is showing signs of life for Canada's Leylah Fernandez, and the timing could not be better for National Bank Open organizers nearly left without a domestic storyline at the tournament's midway point.",
-    "image": "https://i.cbc.ca/ais/634f8c65-d99a-45f1-ad76-a9e7c96f0594,1786146918062/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D620",
-    "source": "CBC"
+    "title": "Sunny Deol and Preity Zinta meet Uttar Pradesh CM Yogi Adityanath in Lucknow ahead of 'Batwara 1947' release: 'Had a warm conversation'",
+    "desc": "Sunny Deol and Preity Zinta are currently promoting their upcoming film 'Batwara 1947'. Ahead of its release next week, the actors met Uttar Pradesh C.",
+    "image": "https://static.toiimg.com/thumb/msid-133044878,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "source": "The Times of India"
   },
   {
-    "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-    "desc": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26218679962056-1786142915.jpg?resize=1920%2C1440",
-    "source": "Al Jazeera"
+    "title": "Indian women question cultural pressure to stay in bad marriages as divorce remains taboo",
+    "desc": "Divorce is still frowned upon in India, where women face immense pressure to stay in toxic relationships.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/ad337948d4de4bf5b970b29f494ef52c?impolicy=wcms_watermark_news&cropH=608&cropW=1080&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "source": "abc.net.au"
   },
   {
-    "title": "Two men to be charged after allegedly conspiring to help Lim Tean escape to Johor",
-    "desc": "They were believed to have conspired to make arrangements for Lim Tean to illegally depart Singapore. Read more at straitstimes.com.",
-    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cce19d2dd50c36f9e0a44f29f62eb6fd6ebe7a050e6790ad628a1e63e0527eec",
-    "source": "The Straits Times"
+    "title": "triprompt: deformation-aware multimodal prompting for robust 3D segmentation",
+    "desc": "Accurate 3D medical image segmentation remains extremely challenging under severe anatomical variability caused by respiration motion, growth, and tumor-induced deformation. Existing prompt-based strategies mainly rely on visual and textual cues that essentially capture what organs look like or what they mean, although they fail to model how organs deform, which is a key determinant of organ geometry. We propose triprompt, a prompt-adaptive segmentation framework that jointly integrates structural visual prompt derived from localized image features; medical text prompt encoding domain knowledge; and a novel Population-Level Deformation Prompt (PDP) that learns statistical organ deformation patterns from data through a compact latent representation. These three prompts are jointly fused via a query-centric triprompt aligner, a lightweight alignment module that performs cross-prompt representation learning, allowing the segmenter to condition simultaneously on appearance, semantics, and physiological deformation. Empirical results on 11 public CT benchmarks show consistent gains in segmentation stability under extreme geometric shifts, underscoring the necessity of deformation-aware prompting for reliable, clinically actionable image segmentation. In order to promote reproducibility, our codes are open-sourced at: https://github.com/llmresearch678/triprompt.",
+    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "nature.com"
   },
   {
-    "title": "NRL: What we learnt from NZ Warriors' stunning win over Penrith Panthers",
-    "desc": "Analysis - And some wins are worth more than just two competition points.",
-    "image": "https://media.rnztools.nz/rnz/image/upload/s--cGXTDfYS--/t_tohu-badge-facebook/f_auto/q_auto/4JK9448_260807_WarriorsPanthers_068_JPG",
-    "source": "RNZ"
+    "title": "Rubidium vapor cell spectroscopy by selective reflection approach",
+    "desc": "Selective-reflection ellipsometry from miniaturized rubidium vapor cells is investigated numerically and experimentally as a phase-sensitive extension of conventional selective-reflection spectroscopy. While most previous studies of selective reflection have mainly focused on scalar reflectivity and line-shape analysis, the present work analyzes the reflected p- and s-polarized fields through the ellipsometric parameters $$\\:{\\Psi\\:}$$ and $$\\:{\\Delta\\:}$$. The reflected field from a finite rubidium vapor layer is calculated using a Fourier-series expansion of the coupled field–polarization equations for vapor-layer thicknesses ranging from $$\\:L=\\lambda\\:/2$$ to $$\\:L=9\\lambda\\:/4$$, where $$\\:\\lambda\\:=795\\:\\text{n}\\text{m}$$. The numerical results show that wavelength-scale changes in the vapor-layer thickness modify the selective-reflection spectrum and produce thickness-dependent resonant features. The calculated $$\\:{\\Psi\\:}$$ and $$\\:{\\Delta\\:}$$ spectra exhibit inverse-like behavior at complementary incidence angles, including $$\\:{30}^{\\circ\\:}{,60}^{\\circ\\:}$$and $$\\:{37}^{\\circ\\:},{53}^{\\circ\\:}$$. This behavior is interpreted as the combined result of angle-dependent optical path, wavelength-scale phase accumulation, Fabry–Pérot-type thin-layer interference, and resonant near-surface atomic polarization associated with selective reflection. Experimentally, the ellipsometric parameters are extracted from p- and s-polarized reflection measurements performed on a fabricated $$\\:50\\:\\mu\\:\\text{m}$$ rubidium microcell. The experimental spectra support the physical observability of the complementary-angle ellipsometric response in a real miniaturized vapor-cell geometry. These results show that selective-reflection ellipsometry can provide a useful phase-sensitive approach for studying resonant optical responses in confined atomic vapor layers and offers a useful platform for compact spectroscopy, laser stabilization, and atom–surface interaction studies.",
+    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "Nature"
   },
   {
-    "title": "Caty McNally Makes Candid Admission Before Sold-Out Alex Eala Clash",
-    "desc": "Caty McNally opens up about the challenge awaiting her against Alex Eala before their sold-out Canadian Open showdown. The post Caty McNally Makes Candid Admission Before Sold-Out Alex Eala Clash appeared first on HEAVY.",
-    "image": "https://s.yimg.com/lo/mysterio/api/b75691b3b816a63de7caf3edfa176697dab06acf483a3c843ec42bb10ccd31ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F819509fab7abe760536dbcea9d091fb1",
-    "source": "sports.yahoo.com"
+    "title": "Immunomodulatory, anti-inflammatory, and analgesic effects of Fasciola hepatica excretory/secretory proteins in a complete Freund’s adjuvant-induced rat model of rheumatoid arthritis",
+    "desc": "Helminths can modulate immune responses by suppressing pro-inflammatory Th1/Th17 pathways and enhancing regulatory immunity, offering potential therapeutic benefits in autoimmune diseases such as rheumatoid arthritis (RA). This study evaluated the anti-arthritic effects of excretory–secretory proteins (ESPs) from Fasciola hepatica in a Complete Freund’s Adjuvant (CFA)-induced RA rat model. Thirty male Wistar rats were assigned to five groups: healthy control, disease control, methotrexate-treated, prophylactic ESP, and therapeutic ESP. Rats in the ESP-treated groups received a cumulative intraperitoneal dose of 0.912 mg of F. hepatica ESPs. Over 28 days, clinical, behavioral, biochemical, and histopathological parameters were assessed. ESP treatment significantly reduced arthritis scores and paw edema (P < 0.05) and alleviated thermal and cold hypersensitivity (P < 0.001). Immunologically, ESP treatment promoted an anti-inflammatory immunoregulatory cytokine profile, characterized by increased interleukin-10 (IL-10) (P < 0.05) and reduced interferon-gamma (IFN-γ) levels (P < 0.01), supporting its proposed immunomodulatory mechanism. In serum, nitric oxide (NO) and malondialdehyde (MDA) levels were significantly reduced, indicating improved oxidative status, while liver homogenates showed no significant changes for several markers. PET-CT imaging demonstrated reduced inflammatory activity, and histopathological findings confirmed joint protection, with mild hepatic and splenic alterations. These findings indicate that F. hepatica ESPs exert anti-inflammatory, antioxidant, and analgesic effects in experimental RA and may represent a promising immunomodulatory strategy for experimental arthritis, although further mechanistic and safety studies are required.",
+    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "Nature"
   },
   {
-    "title": "Best summer movies to stream in Israel: 'Operation Thunderbolt,' 'Jurassic Park'",
-    "desc": "TV TIME: This summer’s watchlist includes \"Operation Thunderbolt,\" \"Turn Left at the End of the World,\" dinosaur blockbusters, a grittier \"Little House\" reboot, and classic musicals.",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733025",
-    "source": "The Jerusalem Post"
+    "title": "Waikato woman Saige Tiopira bashes stranger sitting waiting for her bus home",
+    "desc": "A woman walked up to a stranger waiting for a bus and unleashed a barrage of punches that left the victim with significant injuries. The victim of Saige...",
+    "image": "https://www.nzherald.co.nz/resizer/v2/ZJY5KEW2WFDQHHFOMPUC6PR7VY.jpg?auth=13a4e0048b626a3a2c1bcb65c19a48ac5977cd3896abaf4ecd3d0f658cff8652&width=1200&height=675&quality=70&focal=981%2C740&smart=false",
+    "source": "NZ Herald"
   },
   {
-    "title": "Contagion Live: Redefining HIV management: Emerging antiretroviral drug classes and immunologic strategies shaping the future of HIV treatment, prevention",
-    "desc": "Several combination products are currently in development for people with HIV. Contagion Live reviews the latest progress in these investigational medicines.",
-    "image": "https://www.eatg.org/wp-content/uploads/2026/08/nzteczftpyw.jpg",
-    "source": "European AIDS Treatment Group"
+    "title": "Advincula named American Chemical Society Fellow",
+    "desc": "Rigoberto \"Gobet\" Advincula, a Governor's Chair Professor jointly appointed at the Department of Energy’s Oak Ridge National Laboratory and the University of Tennessee, has been named a 2026 Fellow of the American Chemical Society's Industrial & Engineering Chemistry Division.",
+    "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/ee23f801-df31-42ab-83f1-3f566766adf4/Rendition/thumbnail/Content/Public",
+    "source": "EurekAlert!"
   },
   {
-    "title": "US request for Quiboloy extradition needs thorough evaluation -Palace",
-    "desc": "Malacañang said that the US government's request to extradite Kingdom of Jesus Christ founder Pastor Apollo Quiboloy must undergo careful evaluation and...",
-    "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/08/121896.webp",
-    "source": "Manila Bulletin"
+    "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Saturday, August 8",
+    "desc": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/68ab7aaa205e351d8e7e68df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "source": "Forbes"
   },
   {
-    "title": "Short-term inflation increases 9.29% YoY",
-    "desc": "Short-term inflation increases 9.29% YoY",
-    "image": "https://i.tribune.com.pk/media/images/inflation-pix1776175243-0/inflation-pix1776175243-0-640x480.webp",
-    "source": "The Express Tribune"
+    "title": "'Keep believing': Fernandez prolongs Canada's NBO run with upset win over Andreeva",
+    "desc": "Canada’s last hope at the National Bank Open has provided fans with a serious shot of optimism.\nRyan Dixon has the story after Leylah Fernandez's upset win over Mirra Andreeva.",
+    "image": "https://www.sportsnet.ca/wp-content/uploads/2026/08/leylah-1.jpg",
+    "source": "Sportsnet.ca"
   },
   {
-    "title": "She quit school twice. Now, her neon art studio brings in five figures a month",
-    "desc": "Scuro began as a horror-themed art studio before founder Merida Lim pivoted to neon art jamming. Today, the Singapore business books out most weekends.",
-    "image": "https://dam.mediacorp.sg/image/upload/s--QSDqv6Do--/c_crop,h_540,w_960,x_0,y_135/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/27/merida-lim-founder-scuro-neon-art-jamming-studio.jpg?itok=FVboRbN5",
-    "source": "CNA Lifestyle"
+    "title": "Jeanne-Marie de Broglie: Princess who shaped the international art market",
+    "desc": "The founder of Christie's Paris office collected furniture that fetches vast sums today. This private collection, to be sold in Paris on September 30, reflects her knowledge of art and friendships forged with artists",
+    "image": "https://www.irishexaminer.com/cms_media/module_img/10364/5182045_7_org_christies_db_diego.jpeg",
+    "source": "Irish Examiner"
   }
 ]
