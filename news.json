@@ -1,62 +1,62 @@
 [
   {
-    "title": "Three shot dead as police try to rescue murder suspect from mob in Narok",
-    "desc": "Two other people were injured while two police officers sustained injuries in the confrontation.",
-    "image": "https://cdn.radioafrica.digital/image/2026/08/d4ebfafe-1d87-4b9b-a6af-2bd635b4e705.webp?1787031688577",
-    "source": "the-star.co.ke"
-  },
-  {
-    "title": "Jeanie Buss contesting family's sale of stake in Lakers",
-    "desc": "Jeanie Buss is contesting her family's claim they are selling their remaining stake in the Lakers to new majority owners in a letter from her attorney",
-    "image": "https://cdn.abcotvs.com/dip/images/19693657_081726-kabc-TN-lakers-buss-sale.jpg?w=1600",
-    "source": "ABC7 Los Angeles"
-  },
-  {
-    "title": "Scientists use AI to create viruses not found in nature with medicinal potential",
-    "desc": "The viruses created in the Stanford Lab are bacteriophages, which exclusively target bacteria and may pose a solution to the rising global problem of antibiotic-resistant infections.",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734122",
-    "source": "The Jerusalem Post"
-  },
-  {
-    "title": "Gangster Shahzad Bhatti picked operatives through social media",
-    "desc": "Shahzad Bhatti, a gangster and social media influencer, recruited operatives online for terror activities linked to Pakistan's ISI.",
-    "image": "https://th-i.thgim.com/public/news/national/dti9o1/article71357064.ece/alternates/LANDSCAPE_1200/Shahzad%20Bhatti.jpg",
-    "source": "The Hindu"
-  },
-  {
-    "title": "Resolving emergent beat patterns through hybrid Bayesian learning of Multilayered Stochastic Hierarchical Delay Models",
-    "desc": "Modeling emergent, multiscale patterns in complex systems remains a persistent interdisciplinary challenge, particularly when deciphering transient, highly coupled dynamics from severely limited data. To overcome the inherent spectral sparsity of standard finite-dimensional stochastic models, we introduce Multilayered Stochastic Hierarchical Delay Models (MSHDMs). By embedding dynamics within a hierarchical delay structure, MSHDMs leverage an infinite-dimensional phase space to engineer the high spectral density required for generating complex amplitude-frequency modulation (AM-FM) dynamics, avoiding data-heavy neural network parameterizations. To reliably calibrate these sensitive structures from short observational records, we deploy a hybrid offline-online Bayesian optimization framework. Bypassing the failure points of traditional trajectory matching, our algorithm autonomously learns optimal latent coordinates and continuous fractional delays by strictly enforcing spectral consistency against the empirical Global Wavelet Spectrum. Applying this methodology to high-resolution satellite observations of continental cloud fields, the resulting stochastic emulator captures the full spatiotemporal coherence of the turbulent system using just six hyperparameters. The wavelet scalograms demonstrate how the model natively generates emergent wave-packet dynamics and cross-scale energy cascades, recovering semidiurnal, mesoscale, and individual cloud timescales. Supported by rigorous mathematical foundations and robust data-driven calibrations, MSHDMs thus provide a highly compressible, general-purpose tool for resolving latent AM-FM beat patterns across diverse disciplines.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "nature.com"
-  },
-  {
-    "title": "Supreme Court Dismisses Plea To Abolish Hanging As Method To Execute Death Penalty, Says Union Can Explore Alternatives",
-    "desc": "The Supreme Court on Tuesday dismissed a petition seeking the abolition of death by hanging as a method to execute the death penalty.At the same time, the Court clarified that the dismissal of the...",
-    "image": "https://www.livelaw.in/h-upload/2025/10/08/624747-750x450622433-750x450399744-timing-of-sentencing-in-death-penalty-cases-supreme-court-to-hear-the-matter-in-january-2024-1.jpg",
-    "source": "Live Law"
-  },
-  {
-    "title": "‘Why should the community of Mallow have to suffer such decay and dilapidation?’",
-    "desc": "Mallow tops the list of Co Cork towns with most derelict properties, the site of its historical Central Hotel typifying the challenges communities throughout the State face",
-    "image": "https://www.irishtimes.com/resizer/v2/TAMQXKGXMJACDO4LWAG3KC6OMA.JPG?smart=true&auth=cae80105060573ef1e3282343ee500e03dce62c4aa5886a1a29d3ec60aba7d0e&width=1200&height=630",
-    "source": "The Irish Times"
-  },
-  {
-    "title": "Why we shouldn't be surprised when Saudi Arabia finds its real friends",
-    "desc": "When the headlines expressed shock that Saudi Arabia chose Ankara and Islamabad over Jerusalem, the honest response should have been: what did you expect? Opinion.",
-    "image": "https://2.a7.org/files/pictures/000/1124551.jpg",
-    "source": "Israel National News"
-  },
-  {
-    "title": "Dipke gets offer from Union minister to join BJP-led NDA faction: ‘We are a government that…’",
-    "desc": "CJP leader Abhijeet Dipke has also previously ruled out entering electoral politics, saying that people have lost faith in politics and the election system. | India News",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/08/18/1600x900/logo/dipke_bjp_nda_offer_1787028474022_1787028482378_6c7d79d9-176e-424c-a0bb-1114ba59d81b.png",
-    "source": "Hindustan Times"
-  },
-  {
-    "title": "Jake Weatherald dropped from Australia Test cricket squad after loss to Bangladesh",
-    "desc": "Opening batter Jake Weatherald has been dropped from Australia's Test squad after the side's historic loss to Bangladesh in Darwin.",
-    "image": "https://live-production.wcms.abc-cdn.net.au/9fcf64c7fe7bdc7e65270f0bd9decc39?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+    "title": "After nearly 30 years, a man is on trial over Tupac Shakur's murder. Here's what to know",
+    "desc": "Three decades after Tupac Shakur was killed in a drive-by shooting, a man accused of providing the murder weapon is on trial. Here's what to know.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/5f95ada20929771432377a82bdac14fe?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=231&width=862&height=485&imformat=generic",
     "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+  },
+  {
+    "title": "Zambia elections: Hakainde Hichilema re",
+    "desc": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d3e/live/f65609d0-9ac3-11f1-8ebb-7f566bc6488f.jpg",
+    "source": "BBC"
+  },
+  {
+    "title": "Southern Africa: SADC Summit Opens in Durban With Cultural Celebration and Call for Regional Unity",
+    "desc": "The 46th Ordinary Summit of SADC Heads of State and Government officially opened in Durban on Monday, bringing together regional leaders for high-level discussions on strengthening integration, industrialisation and sustainable development across Southern Africa.",
+    "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+    "source": "allafrica.com"
+  },
+  {
+    "title": "Latest Hockey News and Updates",
+    "desc": "Get all the latest News and Updates from the world of Hockey, detailed analysis on the tournaments, series and match previews, and much more on Hockey India.",
+    "image": "https://hockey-india.b-cdn.net/assets/images/favicon.png",
+    "source": "Hockey India"
+  },
+  {
+    "title": "Te Pāti Māori warned election strategy could put Māori seats at risk",
+    "desc": "Te Pāti Māori is being warned its election strategy could put the Māori seats at risk.",
+    "image": "https://media.rnztools.nz/rnz/image/upload/s---bkC1onu--/t_tohu-badge-facebook/f_auto/q_auto/4JY5ZID_Image_20_jfif",
+    "source": "RNZ"
+  },
+  {
+    "title": "Tanzania Chairs Regional Labour Migration Committee",
+    "desc": "Tanzania has taken over the chairmanship of the Regional Technical Advisory Committee on Labour Mobility for East and Horn of Africa countries from Uganda, in a move aimed at strengthening regional cooperation in managing safe, orderly and regular labour migration.",
+    "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+    "source": "allAfrica.com"
+  },
+  {
+    "title": "Alex Eala out of Cincinnati after losing final six games of match",
+    "desc": "Alex Eala's bid for another top-10 victory has come up short, as world Amanda Anisimova rallies past the Filipina.",
+    "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fr1703286_1296x729_16%2D9.jpg",
+    "source": "ESPN Philippines"
+  },
+  {
+    "title": "Two Indians Arrested in Jakarta Gold Smuggling Probe",
+    "desc": "Just another WordPress site",
+    "image": "https://thebalitimes.com/wp-content/uploads/2026/08/27PoKvFE8jk_maxres.jpg",
+    "source": "The Bali Times"
+  },
+  {
+    "title": "Nurse tells coronial inquest into suicide cluster at Prince Charles Hospital 'new mental health unit' needed",
+    "desc": "An inquest into a spate of suicides at the Prince Charles Hospital has been told the facility's mental health unit should be replaced.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/495274fb40ec9409e46d60f1a09bc64e?impolicy=wcms_watermark_news&cropH=541&cropW=960&xPos=0&yPos=87&width=862&height=485&imformat=generic",
+    "source": "abc.net.au"
+  },
+  {
+    "title": "EPRA begins search for new Director General to replace Bargoria who resigned over fuel scandal",
+    "desc": "Daniel Kiptoo Bargoria resigned as EPRA Director General on April 4, 2026, following his arrest over allegations linked to the importation of substandard.",
+    "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2025/03/Epra-DG.jpg",
+    "source": "The Eastleigh Voice"
   }
 ]
