@@ -1,62 +1,62 @@
 [
   {
-    "title": "Mayors hail National's IVL funding pledge - but still eye bed taxes",
-    "desc": "Auckland mayor Wayne Brown says National's alternative to a bed tax is a step in the right direction - but not a long-term solution.",
-    "image": "https://media.rnztools.nz/rnz/image/upload/s--1tyfnfZr--/t_tohu-badge-facebook/f_auto/q_auto/4JOND4B_Image_159_jpg",
-    "source": "RNZ"
-  },
-  {
-    "title": "Joint optimization of observation weighting and GNSS integration parameters via GWO under blocking scenarios",
-    "desc": "Satellite visibility obstruction (blocking) is one of the primary limiting factors in Global Navigation Satellite System (GNSS) applications, as it reduces the number of observable satellites and degrades spatial geometry, thereby severely affecting positioning accuracy and reliability. This study proposes a novel framework for the simultaneous optimization of observation weighting and multi-constellation GNSS integration under blocking conditions. Within this framework, the determination of weighting coefficients in the Weighted Least Squares (WLS) solution is formulated as a multi-objective optimization problem, and adaptive, data-driven observation weights are derived using the Grey Wolf Optimizer (GWO) evolutionary algorithm. The objective functions simultaneously account for minimizing positioning error, quantified by the Root Mean Square (RMS), and improving satellite geometry based on the Dilution of Precision (DOP) index. The proposed method is evaluated using real GNSS data in both static and dynamic scenarios under severe sky-view obstruction conditions. The results demonstrate that the proposed approach, when applied to Integrated multi-constellation GNSS (IGNSS), achieves an average improvement in DOP of approximately 66%, 52%, and 77%, along with an average reduction in RMS positioning error of approximately 52%, 58%, and 49%, respectively, across the three investigated scenarios. Furthermore, comparative analysis with other optimization algorithms such as Particle Swarm Optimization (PSO), Ant Colony Optimization (ACO), and Simulated Annealing (SA) indicates faster convergence and higher solution stability for the GWO-based approach. Overall, the findings confirm that the proposed framework provides a robust and effective solution for enhancing the accuracy and reliability of multi-constellation GNSS positioning in challenging, blocking-dominated environments.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
-  },
-  {
-    "title": "Tributes paid to 'one-of-a-kind' father killed in Corby crash",
-    "desc": "Relatives of Charlie Watt, who died just days after turning 84, say he was \"a truly special man\".",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f61/live/d44f1580-aaf8-11f1-a291-b542ee92de7c.jpg",
-    "source": "BBC"
-  },
-  {
-    "title": "Iran warns US ‘economic warfare’ could trigger Gulf maritime exclusion zone",
-    "desc": "US-Iran war",
-    "image": "https://i.tribune.com.pk/media/images/argentina-files-complaint-over-falkland-oil-drilli1788855905-0/argentina-files-complaint-over-falkland-oil-drilli1788855905-0-640x480.webp",
-    "source": "The Express Tribune"
-  },
-  {
-    "title": "UK could see temperatures of 24C as heat returns",
-    "desc": "It comes after the country experienced its hottest summer on record",
-    "image": "https://static.independent.co.uk/2026/09/07/6/55/Screenshot-2026-09-07-at-07-32-25.png?trim=97,0,99,0&width=1200&height=800&crop=1200:800",
+    "title": "Iran-US war latest: Houthis attack Saudi Arabia and wound dozens in major expansion of war in the Middle East",
+    "desc": "Iranian rhetoric comes as US sanctions punish its ailing economy",
+    "image": "https://static.independent.co.uk/2026/09/08/07/2026-09-08T011743Z_1255130506_RC2HENA50ED1_RTRMADP_3_IRAN-CRISIS-YEMEN-SAUDI.JPG?trim=0,493,290,493&width=1200&height=800&crop=1200:800",
     "source": "The Independent"
   },
   {
-    "title": "DStv Unveils New Colours, Logo and Major Subscription Shake",
-    "desc": "DStv undergoes a major overhaul with new packages and branding, focusing on sports content and making M-Net accessible, effective from September 17, 2026.",
-    "image": "https://cdn.legit.ng/images/1200x675/054ea3aaefcd24d6.jpeg?v=1",
-    "source": "Legit News"
+    "title": "Amazon, Swiggy Instamart dark stores raided in Bengaluru; Karnataka food dept seizes expired, mislabelled food",
+    "desc": "Karnataka Food Safety Department seizes food products worth Rs 1.3 crore and medicines worth Rs 4 lakh; Hoskote Instamart facility shut",
+    "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260908074004_IMG-20260908-WA0033.jpg",
+    "source": "Moneycontrol.com"
   },
   {
-    "title": "Study on degenerative brain disease finds CTE in 31 former rugby league players",
-    "desc": "A study finds 31 former rugby league players have been diagnosed with the degenerative brain disease chronic traumatic encephalopathy (CTE).",
-    "image": "https://live-production.wcms.abc-cdn.net.au/d99624ebcff409744175e711f40b9db7?impolicy=wcms_watermark_news&cropH=764&cropW=1358&xPos=0&yPos=62&width=862&height=485&imformat=generic",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+    "title": "Low turnout threatens Commons vote on assisted dying, say MPs",
+    "desc": "Backers seek support for second attempt to get law through House of Lords after ‘undemocratic’ rejection last year",
+    "image": "https://i.guim.co.uk/img/media/5a471906c5047e7bab626bee6280e4b4056b436e/543_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64f1d307847868fc9312cd246a3a4507",
+    "source": "The Guardian"
   },
   {
-    "title": "Avondale crash: Bhupesh Patel dies three days after being hit by vehicle",
-    "desc": "A man who died three days after a major crash in an Auckland suburb is being remembered as a caring father. Bhupesh Patel was riding his bike home on...",
-    "image": "https://www.nzherald.co.nz/resizer/v2/7XEXQUHSFFBTBLRVKWMUAY6RDQ.jpg?auth=43eb36bf81dd65f3c5d9edc111e056332daf911d45c8ef017d0f375da4d43da0&width=1200&height=675&quality=70&focal=442%2C295&smart=false",
-    "source": "nzherald.co.nz"
+    "title": "New rescue boats boost flood response in Dagupan, Calasiao",
+    "desc": "DAGUPAN CITY — Rescue operations in flood-hit communities in Pangasinan are gaining added support with new rescue boats being deployed for emergency response...",
+    "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/08/129870.webp",
+    "source": "mb.com.ph"
   },
   {
-    "title": "Call for Prevention and Response to Female Genital Mutilation and Gender",
-    "desc": "Deadline: 24-Sep-2026 The United Nations International Children’s Emergency Fund (UNICEF) is seeking a local NGO in Djibouti to implement integrated community interventions for the prevention and response to female genital mutilation (FGM) and gender-based violence (GBV) in the Ali Sabieh region. The programme aims to transform harmful social norms, prevent risks, strengthen protection for girls",
-    "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-    "source": "fundsforNGOs"
+    "title": "Crypto platforms lost billions to cyberattacks, many even after audits",
+    "desc": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
+    "image": "https://image.cnbcfm.com/api/v1/image/107371884-17075186122024-02-09t220008z_1379562545_rc29z5awsqvo_rtrmadp_0_usa-cybercrime-malware.jpeg?v=1707518678&w=1920&h=1080",
+    "source": "CNBC"
   },
   {
-    "title": "Apply for Prevention and Response to Female Genital Mutilation and Gender",
-    "desc": "Deadline: 24-Sep-2026 The United Nations International Children’s Emergency Fund (UNICEF) is seeking a local NGO in Djibouti to implement integrated community-based interventions addressing female genital mutilation (FGM) and gender-based violence (GBV) in the Tadjourah region. The programme aims to prevent harmful practices, strengthen protection mechanisms, improve access to essential services, and support girls and women",
-    "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-    "source": "fundsforNGOs"
+    "title": "Get Visual Studio 2026 plus courses covering Python, Java, C++, AI, and web development for $35",
+    "desc": "Whether you’re learning your first programming language or expanding your developer toolkit, this bundle combines Visual Studio Professional 2026 with 15 courses covering Python, JavaScript, C++, SQL, AI, web development, and more.",
+    "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228728-0-09834000-1788854428-Visual-Stud-2026-Prem-Learn.jpg?quality=50&strip=all&w=1024",
+    "source": "Macworld"
+  },
+  {
+    "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+    "desc": "New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-07T141659Z_758416862_RC2CENA3ZOWK_RTRMADP_3_IRAN-ECONOMY-FUEL-1788851649.jpg?resize=1920%2C1440",
+    "source": "Al Jazeera"
+  },
+  {
+    "title": "Chivu reveals what Jose Mourinho means to him ahead of Real Madrid clash",
+    "desc": "Real Madrid had quite an encouraging start to life with Jose Mourinho as they won their first three games of the season, especially impressing in the home games against Real Sociedad and Malaga. Howev...",
+    "image": "https://s.yimg.com/lo/mysterio/api/3e6cf4f1a5ce03a5abe68e6b1ab8ef5ec0eff20ba34540f35781e4c280d98ce9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_voice_articles_898%2F6b704a58aae39a56be528eaa6534aaf0",
+    "source": "Yahoo Sports"
+  },
+  {
+    "title": "Rufai Garba: Diphtheria Surge Is Result Of Immunity Gap Built Up Over Years",
+    "desc": "Dr Rufai Garba says Nigeria’s diphtheria surge stems from an immunity gap caused by years of inadequate childhood vaccination coverage.",
+    "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/09/Rufai-Garba.jpg",
+    "source": "Arise News"
+  },
+  {
+    "title": "Yemeni Government Vows To Retake Sanaa as Houthi Strikes Injure at Least 73 in Saudi Arabia",
+    "desc": "The Yemeni government declared that it intends to […]",
+    "image": "https://themedialine.org/wp-content/uploads/2025/03/GettyImages-2205061347.jpg",
+    "source": "The Media Line"
   }
 ]
