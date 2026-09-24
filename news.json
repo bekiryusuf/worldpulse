@@ -1,62 +1,62 @@
 [
   {
-    "title": "Trevor Noah explains South African humor’s distinctive character",
-    "desc": "Trevor Noah said the South African Comedy Festival aims to highlight local performers and reflect the diversity of South Africa’s comedy audience.",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/trevor_noah_pro_osoblyvist_gumoru_par_1790226914048.webp",
-    "source": "UA.NEWS"
+    "title": "War may reach Indian Ocean if US attacks again, warns Iran",
+    "desc": "An adviser to Iran's supreme leader Mojtaba Khamenei said it is possible that the war front may expand further, reaching as far as the Indian Ocean.",
+    "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260903155153_Tomahawk-US.jpg",
+    "source": "Moneycontrol.com"
   },
   {
-    "title": "TV tonight: inside the UK’s response to alleged Israeli war crimes in Gaza",
-    "desc": "Dispatches gains access to unpublished Whitehall documents. Plus: hippos, googly eyes and yelling at art – it can only be Taskmaster. Here’s what to watch this evening",
-    "image": "https://i.guim.co.uk/img/media/8d320f3d05fda13de749c00b2a94bc07059986c0/559_0_2360_1889/master/2360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1da4348d1dc327519e02295625533bac",
-    "source": "The Guardian"
+    "title": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea",
+    "desc": "The president criticised North Korea for using citizens like ‘currency’ to aid Russia in its war against Ukraine.",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab41fa38d95-1790189475.jpg?resize=1920%2C1440",
+    "source": "Al Jazeera"
   },
   {
-    "title": "Giant flower 'carpet' to be created in Bradford city centre",
-    "desc": "Volunteers will use 330,000 flowers to make a giant outdoor floral artwork in Bradford.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b32b/live/412dc2f0-b66b-11f1-b711-df5e4d50c2fd.jpg",
+    "title": "Man died after overdose of caffeine, inquest hears",
+    "desc": "Paramedics and police arrived to attempt to restrain him and took him to hospital",
+    "image": "https://i2-prod.mirror.co.uk/article37696520.ece/ALTERNATES/s1200d/1_https___mediaswnslive_live_provisioning_media_assets_image_SWNS_CAFFEINE_OVERDOSE_001_175151.jpg",
+    "source": "The Mirror"
+  },
+  {
+    "title": "A hybrid multimodal network for cancer drug response prediction using delayed pooling and cross attention at the atom level",
+    "desc": "Accurate prediction of cancer drug response remains a major problem in precision oncology, particularly when prediction is required for therapeutic compounds or tumor profiles that are poorly represented in training data. In this study, the Hybrid Multi-Modal Drug Response Network (HMM-DRN) is presented for joint learning from transcriptomic profiles and molecular graph structure. Each compound is represented as an explicit molecular graph and encoded by graph convolutional layers, while cellular state is represented using split-specific transcriptomic features selected and standardized without using held-out cell lines. The model is evaluated under four leakage-controlled scenarios: mixed drug-cell pairs, unseen cell lines, unseen drugs, and simultaneously unseen drugs and unseen cell lines. Across five random seeds, HMM-DRN shows its clearest numerical advantage in the unseen-drug setting, where it obtains RMSE = 2.4902 ± 0.2598, PCC = 0.5422 ± 0.0882, and SRCC = 0.4550 ± 0.0269. However, the advantage over the early-pooling Static-GNN is not uniform across all scenarios and is not statistically significant in the available paired tests. The double-unseen setting remains challenging, with Static-GNN numerically outperforming HMM-DRN in that scenario. These results support a cautious conclusion delayed atom-level fusion is a useful design hypothesis for selected out-of-distribution drug-response prediction settings, but it does not establish uniform superiority over early-pooling graph baselines. The split files and repeated-seed result tables are provided to support reproducibility.",
+    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+    "source": "Nature"
+  },
+  {
+    "title": "CBeebies launches Parenting Promise as Play School returns for a new generation",
+    "desc": "CBeebies strengthens its support for families with a new commitment to trusted, high-quality children’s content",
+    "image": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0pc1bfb.jpg",
     "source": "BBC"
   },
   {
-    "title": "Why now is the time for a new iPad mini",
-    "desc": "Explore why the upcoming iPad mini needs a refresh with an OLED display and water-resistant design to compete effectively.",
-    "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/a4cdc5bd6c309e7cdffd3e29b0a7c5c1b4f2f518cd6652a12b97b13c8fad74b1",
-    "source": "HardwareZone Singapore"
+    "title": "Museveni demands UN reform, warns of global conflict amid financing crisis",
+    "desc": "Museveni also raised concerns about the ability of developing countries to finance development amid mounting financial pressures",
+    "image": "https://www.monitor.co.ug/resource/blob/5607070/9a18e90e81b1fe3289e872c295b7f30a/latest08pix-data.jpg",
+    "source": "Daily Monitor"
   },
   {
-    "title": "Former Super Eagles captain, Troost-Ekong converts to Islam",
-    "desc": "Former Super Eagles captain, William Troost-Ekong has converted to Islam after reportedly reciting the Shahadah in Doha, Qatar. The 33-year-old defender,",
-    "image": "https://dailypost.ng/wp-content/uploads/2026/09/Troost-Ekong.jpg",
-    "source": "Daily Post Nigeria"
+    "title": "'The Paradise' box office collection Day 1 [LIVE]: Nani, Raghav Juyal and Kayadu Lohar starrer action drama opens with Rs 12.55 crore India net amid mixed audience reactions",
+    "desc": "'The Paradise', Nani and Kayadu Lohar’s latest Telugu action drama has opened to a strong response at the box office.",
+    "image": "https://static.toiimg.com/thumb/msid-134456340,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "source": "The Times of India"
   },
   {
-    "title": "Leeds mum raising awareness of baby's rare skull condition",
-    "desc": "Nancy had to have major surgery after her parents noticed her head was too big for her body.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce1/live/926ac950-b68a-11f1-97fb-8d66d3951490.jpg",
-    "source": "BBC"
+    "title": "IIT-Bombay suicide case: Sahil Wakode's father detained on way to campus to begin hunger strike",
+    "desc": "MUMBAI: Mumbai Police on Thursday detained Ravindra Wakode in Bhandup while he was travelling to IIT-Bombay’s Powai campus to begin a hunger strike",
+    "image": "https://static.toiimg.com/thumb/msid-134456598,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "source": "The Times of India"
   },
   {
-    "title": "GLP-1 drugs may influence chronic pain through gut-brain and immune pathways",
-    "desc": "Researchers reviewed evidence linking GLP-1 and GLP-1 receptor agonists to chronic pain modulation through gut microbial, neuroimmune, vagal, and metabolic pathways, with the strongest clinical evidence currently involving knee osteoarthritis and idiopathic intracranial hypertension headache. Much of the proposed biology remains supported by preclinical research, and human studies have yet to establish that GLP-1RA-induced changes in the gut microbiome directly cause pain relief.",
-    "image": "https://www.news-medical.net/images/news/ImageForNews_847518_17902262287635121.png",
-    "source": "News-Medical"
+    "title": "England should play to strengths instead of copying Spain's template, says Gordon",
+    "desc": "Sept 24 - Winger Anthony Gordon believes England should abandon attempts to copy Spain's possession-based style of football and instead embrace their natural game by leaning more into physical strengths. Read more at straitstimes.com.",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/11fe1ff0f0b031307d436291ece0cd0893a838d01c5f09746d68bdd6e7b5e2f8",
+    "source": "The Straits Times"
   },
   {
-    "title": "Jersey Water bills set to increase in 2027",
-    "desc": "Jersey Water is investing £26m in an upgrade to its desalination plant.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/783f/live/ee0b59e0-b73f-11f1-aa9c-3d062fa3aea7.jpg",
-    "source": "BBC"
-  },
-  {
-    "title": "Animals that can see without having a head",
-    "desc": "Meet the animals that challenge our usual ideas about where vision comes from.",
-    "image": "https://images.indianexpress.com/2026/09/animals-with-no-head-but-an-actually-see.png",
-    "source": "The Indian Express"
-  },
-  {
-    "title": "Police arrest 36 in raids on Vietnamese crime gangs across Scotland",
-    "desc": "About 300 officers took part in simultaneous early-morning raids at 47 sites across Scotland.",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad3a/live/936de650-b7db-11f1-9329-25fd53239d64.jpg",
-    "source": "BBC"
+    "title": "Don’t be put off by inheritance tax, minister urges entrepreneurs",
+    "desc": "Emma Reynolds insisted the Treasury was not a ‘growth inhibitor’ while visiting the home of the Henry vacuum cleaner for National Manufacturing Day",
+    "image": "https://www.thetimes.com/imageserver/image/8f119d16-abb7-4c13-81c8-9a7b27b50546.jpg?strip=all&format=webp&crop=2857px%2C1607px%2C0px%2C342px&resize=1200",
+    "source": "The Times"
   }
 ]
