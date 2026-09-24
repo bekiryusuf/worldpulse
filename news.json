@@ -1,62 +1,62 @@
 [
   {
-    "title": "War may reach Indian Ocean if US attacks again, warns Iran",
-    "desc": "An adviser to Iran's supreme leader Mojtaba Khamenei said it is possible that the war front may expand further, reaching as far as the Indian Ocean.",
-    "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260903155153_Tomahawk-US.jpg",
-    "source": "Moneycontrol.com"
+    "title": "Meta’s Zuckerberg bets big on Muse Charm to unlock AI’s potential",
+    "desc": "After making a costly wager on the metaverse, the CEO says ‘personal superintelligence’ is the next big thing",
+    "image": "https://www.theglobeandmail.com/resizer/v2/BMXM6BKVARFIXNTST5JGSXTAFQ.JPG?auth=da8f1f2b8704c51366a6941f975859a5b4d2b88b9ea96c1982cbcc83c3ecfd2a&width=1200&height=800&quality=80&smart=true",
+    "source": "The Globe and Mail"
   },
   {
-    "title": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea",
-    "desc": "The president criticised North Korea for using citizens like ‘currency’ to aid Russia in its war against Ukraine.",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab41fa38d95-1790189475.jpg?resize=1920%2C1440",
-    "source": "Al Jazeera"
+    "title": "Starbucks to close 250 stores",
+    "desc": "Starbucks will close about 1% of its North American cafes in the latest stage of its turnaround.",
+    "image": "https://image.cnbcfm.com/api/v1/image/108204105-1758825836765-gettyimages-2236984630-AFP_76T76JH.jpeg?v=1758825867&w=1920&h=1080",
+    "source": "CNBC"
   },
   {
-    "title": "Man died after overdose of caffeine, inquest hears",
-    "desc": "Paramedics and police arrived to attempt to restrain him and took him to hospital",
-    "image": "https://i2-prod.mirror.co.uk/article37696520.ece/ALTERNATES/s1200d/1_https___mediaswnslive_live_provisioning_media_assets_image_SWNS_CAFFEINE_OVERDOSE_001_175151.jpg",
+    "title": "From Lobola to a Bank Heist - South African stories worth streaming in 2026",
+    "desc": "100 Cows, a Bank Heist and Stories That Feel Like Home OR From Lobola to a Bank Heist: South African Stories Worth Streaming OR 100 Cows, a Bank Heist and Stories That Could Only Happen in Mzansi",
+    "image": "https://www.enca.com/sites/default/files/styles/large/public/2026-09/Screenshot%202026-09-24%20121457.png.webp?itok=7-dTCTLb",
+    "source": "eNCA"
+  },
+  {
+    "title": "Untangling the meth: Mexican cartels set up huge labs in SA to service demand in Australia",
+    "desc": "Mexican cartels have been setting up massive methamphetamine laboratories in South Africa, which supply the huge demand for the drug in Australia and New Zealand, investigators say.",
+    "image": "https://news24cobalt.24.co.za/resources/02a9-21aae7abf1c7-461f7d94772e-1000/format/inline/mexican_meth_network_africa_nigeria_sa_afp_.jpeg",
+    "source": "news24.com"
+  },
+  {
+    "title": "right UK activist Daniel Thomas arrested after 'slashing migrant boat crossing English Channel'",
+    "desc": "British far-right activist Daniel Thomas is arrested for allegedly using a knife to slash an inflatable dinghy being used by migrants trying to cross the English Channel.",
+    "image": "https://live-production.wcms.abc-cdn.net.au/7c8ab61d604be260c55b96270f30c20a?impolicy=wcms_watermark_news&cropH=711&cropW=1264&xPos=6&yPos=0&width=862&height=485&imformat=generic",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+  },
+  {
+    "title": "UN High Commissioner for Human Rights calls for child rights protection in AI",
+    "desc": "Türk urged for children's rights to be integrated into AI development and governance, including through human rights due diligence, transparency and oversight.",
+    "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/09/united-nations-image-via-magnific-1.jpg",
+    "source": "Digital Watch Observatory"
+  },
+  {
+    "title": "Meghan Markle just wore the viral shoe of the moment on low-key UK outing: shop the best pair",
+    "desc": "Duchess Meghan's new UK wardrobe is taking cues from her relaxed California style. In new photos, she is seen wearing the flip-flops all the stylish girls have been obsessed with. See the photos.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/bc3e5baa-c985-4d0f-ab98-a7fa79565fd0.jpg?crop=1.00xw:0.335xh;0,0&resize=1200:*",
+    "source": "Harper's BAZAAR"
+  },
+  {
+    "title": "Former England striker Andy Carroll reveals he was sexually assaulted by 'celebrity mate'",
+    "desc": "The footballer says in his new autobiography that he ‘can’t forget’ the attack in 2021 by a ‘celebrity mate’ of his former partner",
+    "image": "https://static.standard.co.uk/2026/09/24/11/1230753304..?width=1200&auto=webp&quality=75",
+    "source": "London Evening Standard"
+  },
+  {
+    "title": "Monster El Nino warning issued by Met Office as 'biggest event in 100 years' to spark weather chaos",
+    "desc": "Met Office expert Adam Scaife says that the impact of El Nino is already being felt worldwide, with sea surface temperatures in the Pacific 3.05C above average this week",
+    "image": "https://i2-prod.mirror.co.uk/article37697593.ece/ALTERNATES/s1200d/1_El-Nino-weather.jpg",
     "source": "The Mirror"
   },
   {
-    "title": "A hybrid multimodal network for cancer drug response prediction using delayed pooling and cross attention at the atom level",
-    "desc": "Accurate prediction of cancer drug response remains a major problem in precision oncology, particularly when prediction is required for therapeutic compounds or tumor profiles that are poorly represented in training data. In this study, the Hybrid Multi-Modal Drug Response Network (HMM-DRN) is presented for joint learning from transcriptomic profiles and molecular graph structure. Each compound is represented as an explicit molecular graph and encoded by graph convolutional layers, while cellular state is represented using split-specific transcriptomic features selected and standardized without using held-out cell lines. The model is evaluated under four leakage-controlled scenarios: mixed drug-cell pairs, unseen cell lines, unseen drugs, and simultaneously unseen drugs and unseen cell lines. Across five random seeds, HMM-DRN shows its clearest numerical advantage in the unseen-drug setting, where it obtains RMSE = 2.4902 ± 0.2598, PCC = 0.5422 ± 0.0882, and SRCC = 0.4550 ± 0.0269. However, the advantage over the early-pooling Static-GNN is not uniform across all scenarios and is not statistically significant in the available paired tests. The double-unseen setting remains challenging, with Static-GNN numerically outperforming HMM-DRN in that scenario. These results support a cautious conclusion delayed atom-level fusion is a useful design hypothesis for selected out-of-distribution drug-response prediction settings, but it does not establish uniform superiority over early-pooling graph baselines. The split files and repeated-seed result tables are provided to support reproducibility.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
-  },
-  {
-    "title": "CBeebies launches Parenting Promise as Play School returns for a new generation",
-    "desc": "CBeebies strengthens its support for families with a new commitment to trusted, high-quality children’s content",
-    "image": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0pc1bfb.jpg",
-    "source": "BBC"
-  },
-  {
-    "title": "Museveni demands UN reform, warns of global conflict amid financing crisis",
-    "desc": "Museveni also raised concerns about the ability of developing countries to finance development amid mounting financial pressures",
-    "image": "https://www.monitor.co.ug/resource/blob/5607070/9a18e90e81b1fe3289e872c295b7f30a/latest08pix-data.jpg",
-    "source": "Daily Monitor"
-  },
-  {
-    "title": "'The Paradise' box office collection Day 1 [LIVE]: Nani, Raghav Juyal and Kayadu Lohar starrer action drama opens with Rs 12.55 crore India net amid mixed audience reactions",
-    "desc": "'The Paradise', Nani and Kayadu Lohar’s latest Telugu action drama has opened to a strong response at the box office.",
-    "image": "https://static.toiimg.com/thumb/msid-134456340,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India"
-  },
-  {
-    "title": "IIT-Bombay suicide case: Sahil Wakode's father detained on way to campus to begin hunger strike",
-    "desc": "MUMBAI: Mumbai Police on Thursday detained Ravindra Wakode in Bhandup while he was travelling to IIT-Bombay’s Powai campus to begin a hunger strike",
-    "image": "https://static.toiimg.com/thumb/msid-134456598,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India"
-  },
-  {
-    "title": "England should play to strengths instead of copying Spain's template, says Gordon",
-    "desc": "Sept 24 - Winger Anthony Gordon believes England should abandon attempts to copy Spain's possession-based style of football and instead embrace their natural game by leaning more into physical strengths. Read more at straitstimes.com.",
-    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/11fe1ff0f0b031307d436291ece0cd0893a838d01c5f09746d68bdd6e7b5e2f8",
-    "source": "The Straits Times"
-  },
-  {
-    "title": "Don’t be put off by inheritance tax, minister urges entrepreneurs",
-    "desc": "Emma Reynolds insisted the Treasury was not a ‘growth inhibitor’ while visiting the home of the Henry vacuum cleaner for National Manufacturing Day",
-    "image": "https://www.thetimes.com/imageserver/image/8f119d16-abb7-4c13-81c8-9a7b27b50546.jpg?strip=all&format=webp&crop=2857px%2C1607px%2C0px%2C342px&resize=1200",
+    "title": "Turner prize 2026 - there’s one standout artist (so she probably won’t win)",
+    "desc": "It’s worth the trip to Middlesbrough to see Kira Freije’s sculptures — but the country’s most perverse visual art prize could end up going to a poet",
+    "image": "https://www.thetimes.com/imageserver/image/62b337e2-6af7-4842-96a3-b06707c26f23.jpg?strip=all&format=webp&crop=6201px%2C3488px%2C1991px%2C1714px&resize=1200",
     "source": "The Times"
   }
 ]
