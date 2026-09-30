@@ -1,62 +1,62 @@
 [
   {
-    "title": "Best The Legend of Zelda: Ocarina of Time deal: Save $10 on Nintendo Switch preorders",
-    "desc": "Physical preorders for Nintendo's The Legend of Zelda: Ocarina of Time remake are already $10 off at Amazon.",
-    "image": "https://helios-i.mashable.com/imagery/articles/045TB8g9C5BZ95mcWoKmujk/hero-image.fill.size_1200x675.v1790677057.jpg",
-    "source": "Mashable"
+    "title": "Tooro Kingdom crowns Edward Nyabongo I as new king following succession rift",
+    "desc": "The transition follows the unexpected death of Omukama Oyo, who passed away in late August after a 31-year reign",
+    "image": "https://www.monitor.co.ug/resource/blob/5613044/e4923ef61bb91642c41bafb98b40ee62/live2-data.jpg",
+    "source": "Daily Monitor"
   },
   {
-    "title": "Beyond diet and exercise: How modern urban lifestyles are changing the heart",
-    "desc": "A person’s heart condition is often determined by such simple things like diet, exercise, no smoking, and cholesterol levels control. Nevertheless, given how increasingly hectic our lives become on a […]",
-    "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/05/02151335/heart.jpg",
-    "source": "expresshealthcare.in"
+    "title": "The Saskatchewan snack a Canadian astronaut is taking to space",
+    "desc": "A small-town Saskatchewan jerky company will help fuel astronauts in space.",
+    "image": "https://www.cp24.com/resizer/v2/OCCELGN3MFCMJFI7DQMVPCSNNU.jpeg?smart=true&auth=96a863cf98fb2d84ad67a35fdb1d6d1a61ee1f8306c56911d457bbd26eab8dc6&width=1200&height=630",
+    "source": "CP24"
   },
   {
-    "title": "El Al Miami flight turns back to Israel after 4.5 hours in the air",
-    "desc": "The aircraft had already departed nearly four hours late when the crew detected a technical malfunction.",
-    "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2021/11/24/HJE9hRsOY/HJE9hRsOY_0_0_1335_752_0_large.jpg",
-    "source": "calcalistech.com"
+    "title": "High court grants Malema leave to appeal firearm convictions",
+    "desc": "EFF leader Julius Malema has been granted leave to appeal against his firearm-related convictions by the Eastern Cape High Court in Makhanda, months after he was sentenced to an effective five years’ direct imprisonment",
+    "image": "https://www.timeslive.co.za/resizer/v2/ZCABMZNJWFGDLG3PAGJNR26DKY.jpg?smart=true&auth=ae46eb13161c3e03f141f94b94a40b24878d0b93b75dbd72750a556f42e8b2c9&width=1200&height=630",
+    "source": "timeslive.co.za"
   },
   {
-    "title": "Spatial variability and multivariate analysis of natural radioactivity in monazite-bearing coastal soils of Odisha, India",
-    "desc": "This study investigates spatial variability in radionuclide distribution and radiological characteristics of coastal soils from Ganjam and Puri, Odisha, India. A total of 72 samples from 24 locations were analyzed using NaI(Tl) gamma-ray spectrometry for 238U, 232Th, and 40K, together with in situ ambient gamma dose measurements. Activity concentrations ranged from 106 to 2139 Bq kg− 1 for 238U, 275–3825 Bq kg− 1 for 232Th, and 601–4887 Bq kg− 1 for 40K, with mean values substantially exceeding global averages and comparable to those reported for major Indian high background natural radiation areas (HBNRAs). Spatial and multivariate analyses revealed pronounced heterogeneity, with localized enrichment consistent with variations in heavy mineral assemblages. No statistically significant difference was observed between Ganjam and Puri (p > 0.05), indicating broadly comparable radionuclide distributions. The correspondence between radionuclide concentrations and in situ gamma dose rates supports geological and sedimentary controls on the observed radiological characteristics. The mean absorbed gamma dose rate was 1693 ± 134 nGy h− 1, while the annual effective dose, AGDE, and ELCR were elevated. The external gamma dose was dominated by 232Th (64.8%), while 238U and 40K contributed 29.0% and 6.2%, respectively. These characteristics identify the study area as a coastal high background natural radiation area and provide a regional radiological baseline for the Ganjam–Puri coastal belt.",
+    "title": "Russia accused of sabotage by Estonia after arson at Ukraine supplier",
+    "desc": "Estonian authorities said that an arson attack on a defense company that provides military vehicles to Ukraine was an act of sabotage commissioned by Russia.",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260928-milrem-robotics-THeMIS-mn-0910-4db4f9.jpg",
+    "source": "NBC News"
+  },
+  {
+    "title": "Trump to host Zuckerberg, Anthropic's Amodei, and other AI titans on Tuesday",
+    "desc": "Trump will unveil a new America.gov website at an event attended by tech CEOs and Vice President Vance",
+    "image": "https://i.tribune.com.pk/media/images/trump-ai-r1790688557-0/trump-ai-r1790688557-0-640x480.webp",
+    "source": "The Express Tribune"
+  },
+  {
+    "title": "First Asian Hornet sighting of the year confirmed in Cork",
+    "desc": "The first nest ever built in Ireland by the invasive species was removed last September",
+    "image": "https://i2-prod.corkbeo.ie/article34665457.ece/ALTERNATES/s1200d/0_Asian-hornet-from-Catalonia-portrait.jpg",
+    "source": "Cork Beo"
+  },
+  {
+    "title": "Survival-supervised variational autoencoders for robust clinical prognosis under missing not at random conditions",
+    "desc": "Clinical survival analysis is often affected by missing not at random (MNAR) data, where missingness is due to underlying patient health states and clinical decision-making. Existing imputation methods struggle with threshold-based clinical missingness mechanisms. We propose MNAR-SVAE, a variational autoencoder integrating Cox proportional hazards loss, and introduce, for evaluation, a threshold-interaction MNAR mechanism capturing non-linear decision boundaries. We evaluate MNAR-SVAE against five baseline methods (standard VAE, MICE, missForest, GAIN, and MIDA) on METABRIC (breast cancer, $$N = 1904$$) and MIMIC-IV (sepsis, $$N = 25{,}439$$) under light, moderate, and severe missingness scenarios. MNAR-SVAE achieves the highest C-index on MIMIC-IV under severe missingness [C-index 0.693 (RSF), 0.693 (XGBoost)] and remains competitive under light [0.821 (RSF)] and moderate [0.778 (RSF)] conditions, with the performance advantage most pronounced under severe missingness, where $$\\mathscr {L}_{\\textrm{Cox}}$$ optimization preserves prognostic structure that reconstruction-focused methods fail to recover. On METABRIC, minimal performance variance is observed across all methods, indicating that the low-dimensional feature space in this dataset limits the marginal benefit of survival-supervised imputation. Overall, our results highlight the value of explicit survival-supervised generative modeling for handling informative missingness in clinical prognosis.",
     "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
     "source": "Nature"
   },
   {
-    "title": "ESA’s space environment report warns of “skyrocketing, runaway” objects in low Earth orbit",
-    "desc": "The European Space Agency's (ESA) Space Debris Office has published its annual Space Environment Report to provide a global overview and determine how well international debris-reduction measures are improving the long-term sustainability of spaceflight. The report notes that the number and scale of commercial satellite constellations continue to increase each year, and that not enough",
-    "image": "https://www.unmannedairspace.info/wp-content/uploads/2022/01/cropped-UAFav-32x32.png",
-    "source": "unmannedairspace.info"
+    "title": "Exploring downstream bioprocess monitoring",
+    "desc": "Bioprocess monitoring with the ultraDAWN™ Detector provides continuous data to support faster process development and improved product quality.",
+    "image": "https://www.news-medical.net/images/news/ImageForNews_845685_17897277310629055.png",
+    "source": "News-Medical"
   },
   {
-    "title": "Italy’s official schedule after 4-1 win over Turkiye ahead of France clash",
-    "desc": "Italy have already returned to Coverciano, where they’ll start preparations for the afternoon game against France.Italy have a busy schedule ahead with two more Nations League games in the next six ...",
-    "image": "https://s.yimg.com/lo/mysterio/api/9bfc4826987e90973e195e129547fc0670ec453111a9fbdc280e5d1352342082/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F9550316339ca4e781338ca815aac6456.jpg",
-    "source": "Yahoo Sports"
+    "title": "Bledisloe Cup: Shannon Frizell, Scott Barrett back for All Blacks",
+    "desc": "Reuben Love has joined Dave Rennie's injury list.",
+    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/shannon-frizell-playing-for-tasman-this-season-JOG6L5M7JFAA3IHPG5CXKMFMUI.jpg?auth=80accdc9b0c9f39a94ee12b08f420539b71a2a3b880b968f99ea29ee48c663f4&quality=70&width=600&height=315&focal=281%2C219",
+    "source": "1News"
   },
   {
-    "title": "Prince William's strong warning to Harry regarding King Charles health revealed",
-    "desc": "Prince William has apparently warned his estranged brother Harry regarding the health of their father King Charles amid the Duke’s plans of Diana documentary.This has been claimed by royal...",
-    "image": "https://www.thenews.com.pk/assets/uploads/2026-09-29/1418054_033516_updates.jpg",
-    "source": "The News International"
-  },
-  {
-    "title": "Faced with US ban, Canadian booze makers see yet more hurdles at home",
-    "desc": "As a US ban on many Canadian alcohol imports takes effect on Tuesday, John Cote had hoped to ​boost domestic sales of his Black Fox artisanal whisky and gin by tapping a wave of buy Canadian sentiment during the trade war with the United States.",
-    "image": "https://www.reuters.com/resizer/v2/QOOBD2ULR5MFZAAVEIJOD3MTPM.jpg?auth=8fef723484b79eb60c502f65f7762b67e7c03732c198315f4a9c943fcac92f53&height=1005&width=1920&quality=80&smart=true",
-    "source": "Reuters"
-  },
-  {
-    "title": "No more VAT on system loss in electricity bills starting October",
-    "desc": "While the VAT removal is still welcome relief, expect savings to be modest as the much larger underlying system loss charge is unlikely to disappear from electricity bills anytime soon",
-    "image": "https://www.rappler.com/tachyon/2026/09/electric-meters-utility-pole-meralco-september-3-2026-005-scaled.jpg",
-    "source": "Rappler"
-  },
-  {
-    "title": "Ex-snooker champion Graeme Dott jailed for seven years for child sex abuse",
-    "desc": "The judge said Dott’s behaviour had involved a ‘gross violation of trust’",
-    "image": "https://img2.thejournal.ie/article/7176644/river/?height=400&version=7176646",
-    "source": "The Journal"
+    "title": "Putin humiliated as Russian nuclear capable bomber crashes in huge fireball",
+    "desc": "The plane was seen engulfed in massive flames.",
+    "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7165028.jpg",
+    "source": "Daily Express"
   }
 ]
