@@ -1,62 +1,62 @@
 [
   {
-    "title": "Aston Villa 3-1 Viking, Real Madrid 4-1 RB Leipzig and more: Champions League - as it happened",
-    "desc": "Arsenal and Bayern draw is a classic, while Real Madrid beat Leipzig 4-1",
-    "image": "https://i.guim.co.uk/img/media/dd7bd2ac4cba32c98fbd3c563912a2d946aecc90/722_448_1785_1429/master/1785.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=710fa8006164879ebafa905a72ddffd1",
-    "source": "The Guardian"
+    "title": "Andrew Shue and Marilee Fiebig engaged after Robach-Holmes affair",
+    "desc": "Amy Robach and T.J. Holmes' exes Andrew Shue and Marilee Fiebig are engaged after bonding over the former ABC News anchors' affair scandal.",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/amy-robach-t.j.-holmes-spouses.jpg",
+    "source": "Fox News"
   },
   {
-    "title": "Glucose priming may improve tumor targeting for chemotherapy nanocarriers",
-    "desc": "Chemotherapy selectivity is limited by systemic toxicity. pH‑sensitive nanocarriers exploit tumor acidity as a release trigger but respond passively to a modest, heterogeneous gradient.",
-    "image": "https://www.news-medical.net/image-handler/picture/2014/7/Chemo_Vials-620x480.jpg",
-    "source": "News-Medical"
+    "title": "Australia Announces 1 Condition to Get Cheaper Visa for Citizens of 23 Countries",
+    "desc": "Australia announced a requirement for citizens of 23 countries seeking a reduced visa fee under updated immigration rules set to take effect this October officially.",
+    "image": "https://cdn.legit.ng/images/1200x675/83ebe268cfd91f11.jpeg?v=1",
+    "source": "Legit News"
   },
   {
-    "title": "J.K. Rowling Claims Trans Activism in the 21st Century Is ‘Elitist,’ Pens Essay Defending Her Views: They ‘Haven’t Changed’ Despite ‘Death, Rape and Torture Threats’",
-    "desc": "J.K. Rowling has written a new essay about her political views, noting they have not changed despite the harassment and death threats she has received. “It’s been six years since I wrote my essay expl...",
-    "image": "https://s.yimg.com/lo/mysterio/api/254cc3f188854002a06cd34c42dfae5bbe862daaf659e619afe7df3fd319b6b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F126257cbc28b6b682c3d7f2e9be3e1ed.jpg",
-    "source": "Yahoo"
+    "title": "Sudan’s war escalates as UN warns of wider regional crisis",
+    "desc": "In tonight’s edition: Sudan’s brutal war continues to take a devastating regional toll, as a drone strike in Abyei reportedly kills 153 people. We speak to the UN envoy for Sudan following an emergency…",
+    "image": "https://s.france24.com/media/display/25d330b6-cda0-11f1-942a-8bea73bbe173/w:1280/p:16x9/capture-3969bf04.jpg",
+    "source": "France 24"
   },
   {
-    "title": "Trans Activism Is Elitist",
-    "desc": "J.K. Rowling has written a new essay about her views on trans activism and women's rights.",
-    "image": "https://variety.com/wp-content/uploads/2023/04/JK-Rowling.jpg?w=1000&h=562&crop=1",
-    "source": "Variety"
+    "title": "Solar storms around a black hole",
+    "desc": "Researchers from the Technion – Israel Institute of Technology have discovered evidence that powerful eruptions near supermassive black holes are driven by the same physical processes responsible for solar storms. The findings, published in The Astrophysical Journal Letters, provide new insights into the behavior of matter and magnetic fields in the extreme environments surrounding black holes.\nThe international research team, led by doctoral student Gal Vardi under the supervision of Prof. Ehud Behar of the Technion Faculty of Physics, studied X-ray emissions from the supermassive black hole at the center of the galaxy NGC 3783. Using observations from the XRISM and XMM-Newton space telescopes, the researchers identified the “Neupert effect,” a phenomenon first observed on the Sun in 1968 but never previously detected around a black hole.\nThe discovery provides evidence that magnetic reconnection – the process in which magnetic energy is released and converted into other forms of energy – can trigger powerful eruptions and coronal mass ejections near black holes, just as it does on the Sun. The findings reveal a remarkable connection between solar activity and the behavior of some of the most extreme objects in the universe, advancing our understanding of the physical mechanisms governing these cosmic environments.",
+    "image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+    "source": "EurekAlert!"
   },
   {
-    "title": "27-year-old man credited for saving kids, driver in runaway school bus",
-    "desc": "A 27-year-old Minnesota man is opening up after he saved nearly 20 children when their school bus driver suffered a medical emergency.",
-    "image": "https://i.abcnewsfe.com/a/07dc7a2b-b8cf-4aef-9f5d-25319963b1ac/bus-rescue-ht-gmh-261021_1792593094480_hpMain_16x9.jpg?w=1600",
-    "source": "ABC News - Breaking News, Latest News and Videos"
+    "title": "Real Madrid beat RB Leipzig 4-1 in Champions League - Al Jazeera",
+    "desc": "Real Madrid defeated RB Leipzig 4-1 in the Champions League, earning their third win in three tournament matches.",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/real_madrid_beat_rb_leipzig_4_1_in_champ_1792622029715.webp",
+    "source": "UA.NEWS"
   },
   {
-    "title": "Fuzzy logic based hybrid load balancing for solar-grid supply with tiered load shedding: a simulation study",
-    "desc": "Hybrid installations that combine a solar inverter and battery with the utility grid are increasingly common in Uganda, yet they are typically managed by threshold-based automatic transfer switches (ATS) that ignore solar availability, grid quality, and load criticality. This paper presents the design, modelling, and simulation-based evaluation of a multi-input fuzzy logic based hybrid load balancing controller. The framework fuses four inputs (solar output, battery state of charge (SOC), grid status, and load demand) through a Mamdani-type fuzzy inference system to produce two coordinated outputs: a source-priority signal and a tiered load-shedding signal spanning three load classes (critical, flexible, and non-essential). The study is entirely simulation-based. The system was implemented in Python at one-minute resolution over a synthetic but representative 24-hour scenario featuring two grid outages, a brownout, and cloud-induced solar variability, and was benchmarked against a conventional threshold-based transfer switch, an ATS with critical-load priority, and a crisp rule-based tiered controller; it was further tested on seven stress cases and a 100-run Monte Carlo evaluation. In the headline scenario the fuzzy controller sustained 100% availability of critical load against 91.9% for the baseline, which suffered 67 minutes of complete blackout; raised solar utilisation from 47.1% to 100%; cut grid energy from 13.43 kWh to 7.95 kWh (40.8%); and reduced source-switching events from four to two. These gains came from deliberately curtailing all non-essential load and 4.6% of flexible load, so they are not a pure efficiency gain: total unserved energy rose from 1.84 to 3.18 kWh, although a criticality-weighted reliability index still favoured the fuzzy controller (96.4% versus 92.6%). Broader testing confirmed the solar-utilisation and grid-energy advantages over the threshold baseline, but showed that an ATS with simple critical-load priority protected critical load at least as well under stress, identifying rule-base tuning as the main need. The results support a simulation-based proof of concept. A real-time embedded demonstration, in which the controller and plant model ran on a Raspberry Pi 5 with an external touch display using emulated inputs, reproduced the simulated behaviour; testing with live sensors and relays and field validation remain future work.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-76485-x/MediaObjects/41598_2026_76485_Figa_HTML.png",
-    "source": "Nature"
+    "title": "Pro-Palestine activist shares video of man spitting on David Amess statue",
+    "desc": "Essex Police called on to investigate ‘sickening act’ on Southend seafront",
+    "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/21/TELEMMGLPICT000508420808_17926185212250_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj0k9u7HhRJvuo-ZLenGRumA.jpeg?impolicy=OG-Standard",
+    "source": "The Telegraph"
   },
   {
-    "title": "Development of a transparent reporting tool for AI-based diagnostic prediction models of disease and syndrome in Chinese medicine (TRAPODS-CM): a Delphi study",
-    "desc": "In recent years, artificial intelligence (AI) prediction models have gained traction in Chinese medicine (CM) diagnostics. However, existing reporting guidelines, largely based on modern medicine diagnostic frameworks, have limited applicability to CM due to fundamental differences in diagnostic approaches. This highlights the need for a tailored reporting standard. This study develops a transparent reporting guideline for CM diagnostic AI models using the Delphi consensus method. An initial checklist was created by a steering committee and core working group, drawing on a prior systematic review, existing guidelines, and the unique characteristics of CM diagnostics. A multidisciplinary panel of 31 experts evaluated each domain and item on a 1–5 Likert scale across multiple Delphi rounds. In the first round, domain consensus was decent (Kendall’s W = 0.498), but item consensus was low (W = 0.271), prompting substantial revisions, including 5 modifications and 1 addition for domains, and 20 modifications, 13 deletions, and 4 additions for items. In the second round, domain consensus remained strong (W = 0.487), while item consensus improved significantly (W = 0.349), indicating convergence on the checklist. A final consensus meeting led to the refinement and finalization of the Transparent Reporting Tool for AI-Based Diagnostic Prediction Models of Disease and Syndrome in Chinese Medicine (TRAPODS-CM). This guideline aims to provide a reporting framework for CM diagnostic AI prediction models where the unique diagnostic principles of CM are specifically addressed, ultimately fostering more transparent, reliable and reproducible AI-driven clinical applications in this field.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
+    "title": "Sydney Lemmon, Alison Pill, Ato Blankson-Wood, more join Atlantic Theater Company's 2026-27 season",
+    "desc": "New casting has been announced for three of the Off-Broadway institution's upcoming shows. Read more on New York Theatre Guide.",
+    "image": "https://images.ctfassets.net/6pezt69ih962/3Qsr19DN8jE2cnKQza5Wbi/2c4109bb8eadfb900d64b6679cd2f18e/atlantic_casting-1200x600-NYTG.png",
+    "source": "New York Theatre Guide"
   },
   {
-    "title": "Blockchain-enhanced SDN framework with deep unfolding spatial frequency attention network and pine cone optimization for smart city IoT cybersecurity",
-    "desc": "The rapid expansion of the Internet of Things (IoT) in smart cities has revolutionized services by connecting numerous devices to deliver intelligent applications. However, this interconnected environment also exposes IoT networks to severe cybersecurity risks, including data breaches, intrusions, and advanced persistent threats. Traditional detection mechanisms often struggle with high-dimensional traffic, noisy data, missing values, and evolving attack patterns, which significantly reduce their reliability. Moreover, ensuring secure and tamper-proof storage of detection outcomes in large-scale IoT system s remains a major challenge. To address these issues, this paper proposes a blockchain-enhanced IoT cybersecurity framework for smart cities, utilizing a software-defined networking framework with a Deep Unfolding Spatial-Frequency Attention Network and Pine Cone Optimization (DUSFAN-PCO). Initially, input data is collected from UNSW-NB15 and CIC-IDS2017 datasets. The collected data are pre-processed using Diffusion Models for Missing Value Imputation (DMMVI) to handle noise and missing values. Next, Carpet Weaver Optimization (CWO) is applied to select the most informative attributes. These selected features are then fed into the Deep Unfolding Spatial-Frequency Attention Network (DUSFAN), which classifies IoT network traffic into normal and multiple attack categories through real-time anomaly detection. To further enhance detection accuracy, Pine Cone Optimization (PCO) is used to fine-tune DUSFAN’s weight parameters. Finally, the results are securely stored and managed using a Blockchain-Based Secure PBFT Lightweight Consensus (SPBFT-LC), ensuring immutability, transparency, and trust among IoT nodes. The proposed DUSFAN-PCO framework achieves an accuracy of 99.20% on UNSW-NB15 and 99.48% on CIC-IDS2017, with F1-scores of 99.52% and 99.50%, and ROC values of 0.99–1.00 across both datasets. Coupled with high blockchain-based security integrity (> 99%), it ensures robust, real-time, and reliable detection of IoT network intrusions, making it highly suitable for secure and resilient smart city IoT environments.",
-    "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-    "source": "Nature"
+    "title": "What did Bruno Fernandes say about Man United tactics? Red Devils captain questions Michael Carrick after Como loss",
+    "desc": "Manchester United head coach Michael Carrick has come under fire for the team's extremely poor start to the 2026/27 season, including open criticism from the club captain.",
+    "image": "https://s.yimg.com/lo/mysterio/api/c7d021cdc668f9d5897a198d73af831fad02cbcbc0b026b72daff361ca2e641e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb41805ea95bb44c5ff453a8b18ebd024",
+    "source": "Yahoo Sports"
   },
   {
-    "title": "Mother told murder accused to let brother go, court told",
-    "desc": "A 32-year-old man accused of murdering three members of his family in their Co Louth home described to gardaí how his mother had asked him to let his younger brother with additional needs go as he held them by knife point, a jury has heard.",
-    "image": "https://www.rte.ie/images/00233ee6-1600.jpg",
-    "source": "RTE.ie"
+    "title": "Bruno Fernandes Puts Man Utd Tactics on Carrick After Como Thrashing",
+    "desc": "Fernandes Wanted Bravery, Carrick Wanted Running Manchester United captain Bruno Fernandes did not hold back when he spoke to TNT Sports after the 4-1 Champions League defeat at Como. “It’s a decision from the staff to not press man to man and sometimes leave space behind and try to get the ball, but sometimes when…",
+    "image": "https://s.yimg.com/lo/mysterio/api/12975c2fde34ffbc522b2ed32fa4bc590b9860b7d0fd4b70954d10fcbc7ef44f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffutbol_chronicle_671%2Fe4affaa1163b60601c2a76e3bab0152c.jpg",
+    "source": "Yahoo Sports"
   },
   {
-    "title": "Canadian organizations urged to address web programming vulnerability",
-    "desc": "Canadian Centre for Cyber Security issued an alert about the ‘critical vulnerabilities’ identified by PHP, a programming language used in websites around the world",
-    "image": "https://www.theglobeandmail.com/resizer/v2/Q2SNIZXAYJBBTD7N6LO64QRL3M.jpg?auth=652324295b1dcc20a07dca16637362f71cedb69908c0976a436c9baf95f3ec14&width=1200&height=800&quality=80&smart=true",
-    "source": "The Globe and Mail"
+    "title": "Carney sings from Doug Ford songbook as he announces spending: Stinson",
+    "desc": "The federal and provincial governments will pour almost $9 billion into steel manufacturing, automobiles and mining in Northern Ontario.",
+    "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/Ford-Carney-1.jpg",
+    "source": "National Post"
   }
 ]
